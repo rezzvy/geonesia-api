@@ -1,0 +1,8 @@
+.container {
+  max-width: 750px !important;
+}
+
+textarea{
+    resize: none;
+    height: 200px !important;
+}
