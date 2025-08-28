@@ -1,15 +1,19 @@
 [
   {
+    "id": "73.18.34.1006",
+    "name": "Bebo'"
+  },
+  {
     "id": "73.18.34.1001",
     "name": "Leatung"
   },
   {
-    "id": "73.18.34.2002",
-    "name": "Rantela'bi Kambisa"
-  },
-  {
     "id": "73.18.34.2003",
     "name": "Leatung Matallo"
+  },
+  {
+    "id": "73.18.34.2002",
+    "name": "Rantela'bi Kambisa"
   },
   {
     "id": "73.18.34.2004",
@@ -18,9 +22,5 @@
   {
     "id": "73.18.34.2005",
     "name": "Tumbang Datu"
-  },
-  {
-    "id": "73.18.34.1006",
-    "name": "Bebo'"
   }
 ]

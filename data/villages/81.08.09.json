@@ -1,27 +1,11 @@
 [
   {
-    "id": "81.08.09.2001",
-    "name": "Latalola Besar"
-  },
-  {
-    "id": "81.08.09.2002",
-    "name": "Serili"
-  },
-  {
-    "id": "81.08.09.2003",
-    "name": "Latalola Kecil"
-  },
-  {
-    "id": "81.08.09.2004",
-    "name": "Telalora"
-  },
-  {
-    "id": "81.08.09.2005",
-    "name": "Marsela"
-  },
-  {
     "id": "81.08.09.2006",
     "name": "Babiotang"
+  },
+  {
+    "id": "81.08.09.2011",
+    "name": "Bululora"
   },
   {
     "id": "81.08.09.2007",
@@ -32,15 +16,31 @@
     "name": "Ilbutung"
   },
   {
+    "id": "81.08.09.2001",
+    "name": "Latalola Besar"
+  },
+  {
+    "id": "81.08.09.2003",
+    "name": "Latalola Kecil"
+  },
+  {
     "id": "81.08.09.2009",
     "name": "Lawawang"
+  },
+  {
+    "id": "81.08.09.2005",
+    "name": "Marsela"
   },
   {
     "id": "81.08.09.2010",
     "name": "Nura"
   },
   {
-    "id": "81.08.09.2011",
-    "name": "Bululora"
+    "id": "81.08.09.2002",
+    "name": "Serili"
+  },
+  {
+    "id": "81.08.09.2004",
+    "name": "Telalora"
   }
 ]

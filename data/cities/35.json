@@ -3,76 +3,48 @@
   "province": "JAWA TIMUR",
   "city": [
     {
-      "id": "35.01",
-      "name": "KAB. PACITAN"
-    },
-    {
-      "id": "35.02",
-      "name": "KAB. PONOROGO"
-    },
-    {
-      "id": "35.03",
-      "name": "KAB. TRENGGALEK"
-    },
-    {
-      "id": "35.04",
-      "name": "KAB. TULUNGAGUNG"
-    },
-    {
-      "id": "35.05",
-      "name": "KAB. BLITAR"
-    },
-    {
-      "id": "35.06",
-      "name": "KAB. KEDIRI"
-    },
-    {
-      "id": "35.07",
-      "name": "KAB. MALANG"
-    },
-    {
-      "id": "35.08",
-      "name": "KAB. LUMAJANG"
-    },
-    {
-      "id": "35.09",
-      "name": "KAB. JEMBER"
+      "id": "35.26",
+      "name": "KAB. BANGKALAN"
     },
     {
       "id": "35.10",
       "name": "KAB. BANYUWANGI"
     },
     {
+      "id": "35.05",
+      "name": "KAB. BLITAR"
+    },
+    {
+      "id": "35.22",
+      "name": "KAB. BOJONEGORO"
+    },
+    {
       "id": "35.11",
       "name": "KAB. BONDOWOSO"
     },
     {
-      "id": "35.12",
-      "name": "KAB. SITUBONDO"
+      "id": "35.25",
+      "name": "KAB. GRESIK"
     },
     {
-      "id": "35.13",
-      "name": "KAB. PROBOLINGGO"
-    },
-    {
-      "id": "35.14",
-      "name": "KAB. PASURUAN"
-    },
-    {
-      "id": "35.15",
-      "name": "KAB. SIDOARJO"
-    },
-    {
-      "id": "35.16",
-      "name": "KAB. MOJOKERTO"
+      "id": "35.09",
+      "name": "KAB. JEMBER"
     },
     {
       "id": "35.17",
       "name": "KAB. JOMBANG"
     },
     {
-      "id": "35.18",
-      "name": "KAB. NGANJUK"
+      "id": "35.06",
+      "name": "KAB. KEDIRI"
+    },
+    {
+      "id": "35.24",
+      "name": "KAB. LAMONGAN"
+    },
+    {
+      "id": "35.08",
+      "name": "KAB. LUMAJANG"
     },
     {
       "id": "35.19",
@@ -83,76 +55,104 @@
       "name": "KAB. MAGETAN"
     },
     {
+      "id": "35.07",
+      "name": "KAB. MALANG"
+    },
+    {
+      "id": "35.16",
+      "name": "KAB. MOJOKERTO"
+    },
+    {
+      "id": "35.18",
+      "name": "KAB. NGANJUK"
+    },
+    {
       "id": "35.21",
       "name": "KAB. NGAWI"
     },
     {
-      "id": "35.22",
-      "name": "KAB. BOJONEGORO"
-    },
-    {
-      "id": "35.23",
-      "name": "KAB. TUBAN"
-    },
-    {
-      "id": "35.24",
-      "name": "KAB. LAMONGAN"
-    },
-    {
-      "id": "35.25",
-      "name": "KAB. GRESIK"
-    },
-    {
-      "id": "35.26",
-      "name": "KAB. BANGKALAN"
-    },
-    {
-      "id": "35.27",
-      "name": "KAB. SAMPANG"
+      "id": "35.01",
+      "name": "KAB. PACITAN"
     },
     {
       "id": "35.28",
       "name": "KAB. PAMEKASAN"
     },
     {
+      "id": "35.14",
+      "name": "KAB. PASURUAN"
+    },
+    {
+      "id": "35.02",
+      "name": "KAB. PONOROGO"
+    },
+    {
+      "id": "35.13",
+      "name": "KAB. PROBOLINGGO"
+    },
+    {
+      "id": "35.27",
+      "name": "KAB. SAMPANG"
+    },
+    {
+      "id": "35.15",
+      "name": "KAB. SIDOARJO"
+    },
+    {
+      "id": "35.12",
+      "name": "KAB. SITUBONDO"
+    },
+    {
       "id": "35.29",
       "name": "KAB. SUMENEP"
     },
     {
-      "id": "35.71",
-      "name": "KOTA KEDIRI"
+      "id": "35.03",
+      "name": "KAB. TRENGGALEK"
+    },
+    {
+      "id": "35.23",
+      "name": "KAB. TUBAN"
+    },
+    {
+      "id": "35.04",
+      "name": "KAB. TULUNGAGUNG"
+    },
+    {
+      "id": "35.79",
+      "name": "KOTA BATU"
     },
     {
       "id": "35.72",
       "name": "KOTA BLITAR"
     },
     {
-      "id": "35.73",
-      "name": "KOTA MALANG"
-    },
-    {
-      "id": "35.74",
-      "name": "KOTA PROBOLINGGO"
-    },
-    {
-      "id": "35.75",
-      "name": "KOTA PASURUAN"
-    },
-    {
-      "id": "35.76",
-      "name": "KOTA MOJOKERTO"
+      "id": "35.71",
+      "name": "KOTA KEDIRI"
     },
     {
       "id": "35.77",
       "name": "KOTA MADIUN"
     },
     {
-      "id": "35.78",
-      "name": "KOTA SURABAYA"
+      "id": "35.73",
+      "name": "KOTA MALANG"
     },
     {
-      "id": "35.79",
-      "name": "KOTA BATU"
+      "id": "35.76",
+      "name": "KOTA MOJOKERTO"
+    },
+    {
+      "id": "35.75",
+      "name": "KOTA PASURUAN"
+    },
+    {
+      "id": "35.74",
+      "name": "KOTA PROBOLINGGO"
+    },
+    {
+      "id": "35.78",
+      "name": "KOTA SURABAYA"
     }
   ]
 }

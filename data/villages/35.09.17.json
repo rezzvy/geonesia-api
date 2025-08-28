@@ -1,7 +1,11 @@
 [
   {
-    "id": "35.09.17.2001",
-    "name": "Sukamakmur"
+    "id": "35.09.17.2004",
+    "name": "Ajung"
+  },
+  {
+    "id": "35.09.17.2005",
+    "name": "Klompangan"
   },
   {
     "id": "35.09.17.2002",
@@ -12,19 +16,15 @@
     "name": "Pancakarya"
   },
   {
-    "id": "35.09.17.2004",
-    "name": "Ajung"
+    "id": "35.09.17.2007",
+    "name": "Rowoindah"
   },
   {
-    "id": "35.09.17.2005",
-    "name": "Klompangan"
+    "id": "35.09.17.2001",
+    "name": "Sukamakmur"
   },
   {
     "id": "35.09.17.2006",
     "name": "Wirowongso"
-  },
-  {
-    "id": "35.09.17.2007",
-    "name": "Rowoindah"
   }
 ]

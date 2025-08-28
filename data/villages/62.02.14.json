@@ -1,15 +1,7 @@
 [
   {
-    "id": "62.02.14.2001",
-    "name": "Sebabi"
-  },
-  {
-    "id": "62.02.14.2002",
-    "name": "Tanah Putih"
-  },
-  {
-    "id": "62.02.14.2003",
-    "name": "Sumber Makmur"
+    "id": "62.02.14.2006",
+    "name": "Biru Maju"
   },
   {
     "id": "62.02.14.2004",
@@ -20,7 +12,15 @@
     "name": "Penyang"
   },
   {
-    "id": "62.02.14.2006",
-    "name": "Biru Maju"
+    "id": "62.02.14.2001",
+    "name": "Sebabi"
+  },
+  {
+    "id": "62.02.14.2003",
+    "name": "Sumber Makmur"
+  },
+  {
+    "id": "62.02.14.2002",
+    "name": "Tanah Putih"
   }
 ]

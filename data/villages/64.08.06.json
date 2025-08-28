@@ -4,12 +4,16 @@
     "name": "Long Bentuq"
   },
   {
-    "id": "64.08.06.2002",
-    "name": "Long Pejeng"
-  },
-  {
     "id": "64.08.06.2003",
     "name": "Long Lees"
+  },
+  {
+    "id": "64.08.06.2006",
+    "name": "Long Nyelong"
+  },
+  {
+    "id": "64.08.06.2002",
+    "name": "Long Pejeng"
   },
   {
     "id": "64.08.06.2004",
@@ -18,9 +22,5 @@
   {
     "id": "64.08.06.2005",
     "name": "Rantau Sentosa"
-  },
-  {
-    "id": "64.08.06.2006",
-    "name": "Long Nyelong"
   }
 ]

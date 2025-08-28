@@ -8,20 +8,24 @@
     "name": "Kertasari"
   },
   {
+    "id": "32.09.19.2004",
+    "name": "Megucilik"
+  },
+  {
     "id": "32.09.19.2003",
     "name": "Megugede"
   },
   {
-    "id": "32.09.19.2004",
-    "name": "Megucilik"
+    "id": "32.09.19.2006",
+    "name": "Setu Kulon"
   },
   {
     "id": "32.09.19.2005",
     "name": "Setu Wetan"
   },
   {
-    "id": "32.09.19.2006",
-    "name": "Setu Kulon"
+    "id": "32.09.19.2009",
+    "name": "Tegalwangi"
   },
   {
     "id": "32.09.19.2007",
@@ -30,9 +34,5 @@
   {
     "id": "32.09.19.2008",
     "name": "Weru Lor"
-  },
-  {
-    "id": "32.09.19.2009",
-    "name": "Tegalwangi"
   }
 ]

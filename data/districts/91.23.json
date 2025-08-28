@@ -1,43 +1,107 @@
 [
   {
-    "id": "91.23.01",
-    "name": "Tiom"
+    "id": "91.23.21",
+    "name": "Awina"
   },
   {
-    "id": "91.23.02",
-    "name": "Pirime"
-  },
-  {
-    "id": "91.23.03",
-    "name": "Makki"
-  },
-  {
-    "id": "91.23.04",
-    "name": "Gamelia"
-  },
-  {
-    "id": "91.23.05",
-    "name": "Dimba"
-  },
-  {
-    "id": "91.23.06",
-    "name": "Melagineri"
+    "id": "91.23.22",
+    "name": "Ayumnati"
   },
   {
     "id": "91.23.07",
     "name": "Balingga"
   },
   {
-    "id": "91.23.08",
-    "name": "Tiomneri"
+    "id": "91.23.26",
+    "name": "Balingga Barat"
+  },
+  {
+    "id": "91.23.25",
+    "name": "Bruwa"
+  },
+  {
+    "id": "91.23.38",
+    "name": "Buguk Gona"
+  },
+  {
+    "id": "91.23.05",
+    "name": "Dimba"
+  },
+  {
+    "id": "91.23.04",
+    "name": "Gamelia"
+  },
+  {
+    "id": "91.23.29",
+    "name": "Gelok Beam"
+  },
+  {
+    "id": "91.23.24",
+    "name": "Goa Balim"
+  },
+  {
+    "id": "91.23.20",
+    "name": "Gollo"
+  },
+  {
+    "id": "91.23.34",
+    "name": "Guna"
+  },
+  {
+    "id": "91.23.27",
+    "name": "Gupura"
+  },
+  {
+    "id": "91.23.32",
+    "name": "Karu"
+  },
+  {
+    "id": "91.23.35",
+    "name": "Kelulome"
+  },
+  {
+    "id": "91.23.28",
+    "name": "Kolawa"
+  },
+  {
+    "id": "91.23.30",
+    "name": "Kuly Lanny"
   },
   {
     "id": "91.23.09",
     "name": "Kuyawage"
   },
   {
-    "id": "91.23.10",
-    "name": "Poga"
+    "id": "91.23.31",
+    "name": "Lannyna"
+  },
+  {
+    "id": "91.23.03",
+    "name": "Makki"
+  },
+  {
+    "id": "91.23.39",
+    "name": "Melagi"
+  },
+  {
+    "id": "91.23.06",
+    "name": "Melagineri"
+  },
+  {
+    "id": "91.23.18",
+    "name": "Milimbo"
+  },
+  {
+    "id": "91.23.16",
+    "name": "Mokoni"
+  },
+  {
+    "id": "91.23.37",
+    "name": "Muara"
+  },
+  {
+    "id": "91.23.36",
+    "name": "Nikogwe"
   },
   {
     "id": "91.23.11",
@@ -48,111 +112,47 @@
     "name": "Nogi"
   },
   {
-    "id": "91.23.13",
-    "name": "Yiginua"
+    "id": "91.23.02",
+    "name": "Pirime"
+  },
+  {
+    "id": "91.23.10",
+    "name": "Poga"
+  },
+  {
+    "id": "91.23.01",
+    "name": "Tiom"
   },
   {
     "id": "91.23.14",
     "name": "Tiom Ollo"
   },
   {
-    "id": "91.23.15",
-    "name": "Yugungwi"
-  },
-  {
-    "id": "91.23.16",
-    "name": "Mokoni"
-  },
-  {
-    "id": "91.23.17",
-    "name": "Wereka"
-  },
-  {
-    "id": "91.23.18",
-    "name": "Milimbo"
-  },
-  {
-    "id": "91.23.19",
-    "name": "Wiringgambut"
-  },
-  {
-    "id": "91.23.20",
-    "name": "Gollo"
-  },
-  {
-    "id": "91.23.21",
-    "name": "Awina"
-  },
-  {
-    "id": "91.23.22",
-    "name": "Ayumnati"
+    "id": "91.23.08",
+    "name": "Tiomneri"
   },
   {
     "id": "91.23.23",
     "name": "Wano Barat"
   },
   {
-    "id": "91.23.24",
-    "name": "Goa Balim"
+    "id": "91.23.17",
+    "name": "Wereka"
   },
   {
-    "id": "91.23.25",
-    "name": "Bruwa"
+    "id": "91.23.19",
+    "name": "Wiringgambut"
   },
   {
-    "id": "91.23.26",
-    "name": "Balingga Barat"
-  },
-  {
-    "id": "91.23.27",
-    "name": "Gupura"
-  },
-  {
-    "id": "91.23.28",
-    "name": "Kolawa"
-  },
-  {
-    "id": "91.23.29",
-    "name": "Gelok Beam"
-  },
-  {
-    "id": "91.23.30",
-    "name": "Kuly Lanny"
-  },
-  {
-    "id": "91.23.31",
-    "name": "Lannyna"
-  },
-  {
-    "id": "91.23.32",
-    "name": "Karu"
+    "id": "91.23.13",
+    "name": "Yiginua"
   },
   {
     "id": "91.23.33",
     "name": "Yiluk"
   },
   {
-    "id": "91.23.34",
-    "name": "Guna"
-  },
-  {
-    "id": "91.23.35",
-    "name": "Kelulome"
-  },
-  {
-    "id": "91.23.36",
-    "name": "Nikogwe"
-  },
-  {
-    "id": "91.23.37",
-    "name": "Muara"
-  },
-  {
-    "id": "91.23.38",
-    "name": "Buguk Gona"
-  },
-  {
-    "id": "91.23.39",
-    "name": "Melagi"
+    "id": "91.23.15",
+    "name": "Yugungwi"
   }
 ]

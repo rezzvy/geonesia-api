@@ -1,9 +1,5 @@
 [
   {
-    "id": "33.01.23.1001",
-    "name": "Mertasinga"
-  },
-  {
     "id": "33.01.23.1002",
     "name": "Gumilir"
   },
@@ -12,11 +8,15 @@
     "name": "Karangtalun"
   },
   {
-    "id": "33.01.23.1004",
-    "name": "Tritih Kulon"
-  },
-  {
     "id": "33.01.23.1005",
     "name": "Kebonmanis"
+  },
+  {
+    "id": "33.01.23.1001",
+    "name": "Mertasinga"
+  },
+  {
+    "id": "33.01.23.1004",
+    "name": "Tritih Kulon"
   }
 ]

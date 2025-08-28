@@ -1,11 +1,27 @@
 [
   {
-    "id": "13.71.08.1001",
-    "name": "Limau Manis"
+    "id": "13.71.08.1007",
+    "name": "Binuang Kampuang Dalam"
+  },
+  {
+    "id": "13.71.08.1005",
+    "name": "Cupak Tangah"
+  },
+  {
+    "id": "13.71.08.1008",
+    "name": "Kapalo Koto"
   },
   {
     "id": "13.71.08.1002",
     "name": "Koto Lua"
+  },
+  {
+    "id": "13.71.08.1009",
+    "name": "Lambung Bukik"
+  },
+  {
+    "id": "13.71.08.1001",
+    "name": "Limau Manis"
   },
   {
     "id": "13.71.08.1003",
@@ -16,23 +32,7 @@
     "name": "Piai Tangah"
   },
   {
-    "id": "13.71.08.1005",
-    "name": "Cupak Tangah"
-  },
-  {
     "id": "13.71.08.1006",
     "name": "Pisang"
-  },
-  {
-    "id": "13.71.08.1007",
-    "name": "Binuang Kampuang Dalam"
-  },
-  {
-    "id": "13.71.08.1008",
-    "name": "Kapalo Koto"
-  },
-  {
-    "id": "13.71.08.1009",
-    "name": "Lambung Bukik"
   }
 ]

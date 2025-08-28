@@ -1,7 +1,11 @@
 [
   {
-    "id": "73.14.06.2001",
-    "name": "Rijang Panua"
+    "id": "73.14.06.2006",
+    "name": "Abbokongang"
+  },
+  {
+    "id": "73.14.06.2005",
+    "name": "Kampung Baru"
   },
   {
     "id": "73.14.06.2002",
@@ -16,11 +20,7 @@
     "name": "Mario"
   },
   {
-    "id": "73.14.06.2005",
-    "name": "Kampung Baru"
-  },
-  {
-    "id": "73.14.06.2006",
-    "name": "Abbokongang"
+    "id": "73.14.06.2001",
+    "name": "Rijang Panua"
   }
 ]

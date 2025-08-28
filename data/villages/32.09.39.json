@@ -1,11 +1,11 @@
 [
   {
-    "id": "32.09.39.2001",
-    "name": "Sambeng"
+    "id": "32.09.39.2007",
+    "name": "Karangreja"
   },
   {
-    "id": "32.09.39.2002",
-    "name": "Sirnabaya"
+    "id": "32.09.39.2005",
+    "name": "Keraton"
   },
   {
     "id": "32.09.39.2003",
@@ -16,16 +16,20 @@
     "name": "Purwawinangun"
   },
   {
-    "id": "32.09.39.2005",
-    "name": "Keraton"
+    "id": "32.09.39.2001",
+    "name": "Sambeng"
+  },
+  {
+    "id": "32.09.39.2002",
+    "name": "Sirnabaya"
   },
   {
     "id": "32.09.39.2006",
     "name": "Surakarta"
   },
   {
-    "id": "32.09.39.2007",
-    "name": "Karangreja"
+    "id": "32.09.39.2011",
+    "name": "Suranenggala"
   },
   {
     "id": "32.09.39.2008",
@@ -38,9 +42,5 @@
   {
     "id": "32.09.39.2010",
     "name": "Suranenggala Lor"
-  },
-  {
-    "id": "32.09.39.2011",
-    "name": "Suranenggala"
   }
 ]

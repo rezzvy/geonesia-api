@@ -1,39 +1,23 @@
 [
   {
-    "id": "12.10.09.2001",
-    "name": "Lingga Tiga"
-  },
-  {
-    "id": "12.10.09.2002",
-    "name": "Tanjung Siram"
-  },
-  {
-    "id": "12.10.09.2003",
-    "name": "Pematang Seleng"
-  },
-  {
-    "id": "12.10.09.2004",
-    "name": "Perbaungan"
-  },
-  {
-    "id": "12.10.09.2005",
-    "name": "Gunung Selamat"
+    "id": "12.10.09.2007",
+    "name": "Bandar Tinggi"
   },
   {
     "id": "12.10.09.2006",
     "name": "Emplasemen Aek Nabara"
   },
   {
-    "id": "12.10.09.2007",
-    "name": "Bandar Tinggi"
+    "id": "12.10.09.2005",
+    "name": "Gunung Selamat"
   },
   {
     "id": "12.10.09.2008",
     "name": "Kampung Dalam"
   },
   {
-    "id": "12.10.09.2009",
-    "name": "Pondok Batu"
+    "id": "12.10.09.2001",
+    "name": "Lingga Tiga"
   },
   {
     "id": "12.10.09.2010",
@@ -72,6 +56,18 @@
     "name": "N-8 Aek Nabara"
   },
   {
+    "id": "12.10.09.2003",
+    "name": "Pematang Seleng"
+  },
+  {
+    "id": "12.10.09.2004",
+    "name": "Perbaungan"
+  },
+  {
+    "id": "12.10.09.2009",
+    "name": "Pondok Batu"
+  },
+  {
     "id": "12.10.09.2019",
     "name": "S-1 Aek Nabara"
   },
@@ -94,5 +90,9 @@
   {
     "id": "12.10.09.2024",
     "name": "S-6 Aek Nabara"
+  },
+  {
+    "id": "12.10.09.2002",
+    "name": "Tanjung Siram"
   }
 ]

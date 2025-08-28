@@ -1,5 +1,13 @@
 [
   {
+    "id": "13.05.12.2003",
+    "name": "Batu Kalang"
+  },
+  {
+    "id": "13.05.12.2006",
+    "name": "Batu Kalang Utara"
+  },
+  {
     "id": "13.05.12.2001",
     "name": "Koto Baru"
   },
@@ -8,19 +16,11 @@
     "name": "Koto Dalam"
   },
   {
-    "id": "13.05.12.2003",
-    "name": "Batu Kalang"
-  },
-  {
     "id": "13.05.12.2004",
     "name": "Koto Dalam Barat"
   },
   {
     "id": "13.05.12.2005",
     "name": "Koto Dalam Selatan"
-  },
-  {
-    "id": "13.05.12.2006",
-    "name": "Batu Kalang Utara"
   }
 ]

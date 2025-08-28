@@ -1,23 +1,11 @@
 [
   {
-    "id": "36.02.08.2001",
-    "name": "Gunungkencana"
+    "id": "36.02.08.2010",
+    "name": "Bojongkoneng"
   },
   {
-    "id": "36.02.08.2002",
-    "name": "Cimanyangray"
-  },
-  {
-    "id": "36.02.08.2003",
-    "name": "Gunungkendeng"
-  },
-  {
-    "id": "36.02.08.2004",
-    "name": "Cisampang"
-  },
-  {
-    "id": "36.02.08.2005",
-    "name": "Ciginggang"
+    "id": "36.02.08.2008",
+    "name": "Bulakan"
   },
   {
     "id": "36.02.08.2006",
@@ -28,20 +16,32 @@
     "name": "Cicaringin"
   },
   {
-    "id": "36.02.08.2008",
-    "name": "Bulakan"
+    "id": "36.02.08.2005",
+    "name": "Ciginggang"
   },
   {
-    "id": "36.02.08.2009",
-    "name": "Sukanegara"
+    "id": "36.02.08.2002",
+    "name": "Cimanyangray"
   },
   {
-    "id": "36.02.08.2010",
-    "name": "Bojongkoneng"
+    "id": "36.02.08.2004",
+    "name": "Cisampang"
+  },
+  {
+    "id": "36.02.08.2001",
+    "name": "Gunungkencana"
+  },
+  {
+    "id": "36.02.08.2003",
+    "name": "Gunungkendeng"
   },
   {
     "id": "36.02.08.2011",
     "name": "Kramatjaya"
+  },
+  {
+    "id": "36.02.08.2009",
+    "name": "Sukanegara"
   },
   {
     "id": "36.02.08.2012",

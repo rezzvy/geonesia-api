@@ -1,13 +1,5 @@
 [
   {
-    "id": "72.05.04.2001",
-    "name": "Lonu"
-  },
-  {
-    "id": "72.05.04.2002",
-    "name": "Tamit"
-  },
-  {
     "id": "72.05.04.2003",
     "name": "Botugolu"
   },
@@ -16,27 +8,35 @@
     "name": "Bunobogu"
   },
   {
-    "id": "72.05.04.2005",
-    "name": "Konamukan"
-  },
-  {
-    "id": "72.05.04.2006",
-    "name": "Ponipingan"
-  },
-  {
-    "id": "72.05.04.2007",
-    "name": "Inalatan"
+    "id": "72.05.04.2016",
+    "name": "Bunobogu Selatan"
   },
   {
     "id": "72.05.04.2015",
     "name": "Domag Mekar"
   },
   {
-    "id": "72.05.04.2016",
-    "name": "Bunobogu Selatan"
+    "id": "72.05.04.2007",
+    "name": "Inalatan"
+  },
+  {
+    "id": "72.05.04.2005",
+    "name": "Konamukan"
+  },
+  {
+    "id": "72.05.04.2001",
+    "name": "Lonu"
   },
   {
     "id": "72.05.04.2017",
     "name": "Pokobo"
+  },
+  {
+    "id": "72.05.04.2006",
+    "name": "Ponipingan"
+  },
+  {
+    "id": "72.05.04.2002",
+    "name": "Tamit"
   }
 ]

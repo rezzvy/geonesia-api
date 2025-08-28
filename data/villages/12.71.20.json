@@ -1,15 +1,15 @@
 [
   {
-    "id": "12.71.20.1001",
-    "name": "Gang Buntu"
-  },
-  {
-    "id": "12.71.20.1002",
-    "name": "Sidodadi"
-  },
-  {
     "id": "12.71.20.1003",
     "name": "Durian"
+  },
+  {
+    "id": "12.71.20.1011",
+    "name": "Gaharu"
+  },
+  {
+    "id": "12.71.20.1001",
+    "name": "Gang Buntu"
   },
   {
     "id": "12.71.20.1004",
@@ -20,16 +20,16 @@
     "name": "Glugur Darat II"
   },
   {
+    "id": "12.71.20.1008",
+    "name": "P Berayan Bengkel"
+  },
+  {
     "id": "12.71.20.1006",
     "name": "P Berayan Darat I"
   },
   {
     "id": "12.71.20.1007",
     "name": "P Berayan Darat II"
-  },
-  {
-    "id": "12.71.20.1008",
-    "name": "P Berayan Bengkel"
   },
   {
     "id": "12.71.20.1009",
@@ -40,7 +40,7 @@
     "name": "Perintis"
   },
   {
-    "id": "12.71.20.1011",
-    "name": "Gaharu"
+    "id": "12.71.20.1002",
+    "name": "Sidodadi"
   }
 ]

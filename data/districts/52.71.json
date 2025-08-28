@@ -4,12 +4,16 @@
     "name": "Ampenan"
   },
   {
+    "id": "52.71.03",
+    "name": "Cakranegara"
+  },
+  {
     "id": "52.71.02",
     "name": "Mataram"
   },
   {
-    "id": "52.71.03",
-    "name": "Cakranegara"
+    "id": "52.71.06",
+    "name": "Sandubaya"
   },
   {
     "id": "52.71.04",
@@ -18,9 +22,5 @@
   {
     "id": "52.71.05",
     "name": "Selaprang"
-  },
-  {
-    "id": "52.71.06",
-    "name": "Sandubaya"
   }
 ]

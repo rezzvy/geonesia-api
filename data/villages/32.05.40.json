@@ -1,9 +1,5 @@
 [
   {
-    "id": "32.05.40.2001",
-    "name": "Cipareuan"
-  },
-  {
     "id": "32.05.40.2002",
     "name": "Cibiuk Kaler"
   },
@@ -12,11 +8,15 @@
     "name": "Cibiuk Kidul"
   },
   {
-    "id": "32.05.40.2004",
-    "name": "Majasari"
+    "id": "32.05.40.2001",
+    "name": "Cipareuan"
   },
   {
     "id": "32.05.40.2005",
     "name": "Lingkungpasir"
+  },
+  {
+    "id": "32.05.40.2004",
+    "name": "Majasari"
   }
 ]

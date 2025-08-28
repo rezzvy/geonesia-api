@@ -1,17 +1,5 @@
 [
   {
-    "id": "63.08.01",
-    "name": "Danau Panggang"
-  },
-  {
-    "id": "63.08.02",
-    "name": "Babirik"
-  },
-  {
-    "id": "63.08.03",
-    "name": "Sungai Pandan"
-  },
-  {
     "id": "63.08.04",
     "name": "Amuntai Selatan"
   },
@@ -24,8 +12,16 @@
     "name": "Amuntai Utara"
   },
   {
+    "id": "63.08.02",
+    "name": "Babirik"
+  },
+  {
     "id": "63.08.07",
     "name": "Banjang"
+  },
+  {
+    "id": "63.08.01",
+    "name": "Danau Panggang"
   },
   {
     "id": "63.08.08",
@@ -34,6 +30,10 @@
   {
     "id": "63.08.09",
     "name": "Paminggir"
+  },
+  {
+    "id": "63.08.03",
+    "name": "Sungai Pandan"
   },
   {
     "id": "63.08.10",

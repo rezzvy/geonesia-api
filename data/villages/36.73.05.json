@@ -1,7 +1,23 @@
 [
   {
+    "id": "36.73.05.1004",
+    "name": "Banjar Agung"
+  },
+  {
+    "id": "36.73.05.1005",
+    "name": "Banjarsari"
+  },
+  {
     "id": "36.73.05.1001",
     "name": "Cipocok Jaya"
+  },
+  {
+    "id": "36.73.05.1007",
+    "name": "Dalung"
+  },
+  {
+    "id": "36.73.05.1008",
+    "name": "Gelam"
   },
   {
     "id": "36.73.05.1002",
@@ -12,23 +28,7 @@
     "name": "Panancangan"
   },
   {
-    "id": "36.73.05.1004",
-    "name": "Banjar Agung"
-  },
-  {
-    "id": "36.73.05.1005",
-    "name": "Banjarsari"
-  },
-  {
     "id": "36.73.05.1006",
     "name": "Tembong"
-  },
-  {
-    "id": "36.73.05.1007",
-    "name": "Dalung"
-  },
-  {
-    "id": "36.73.05.1008",
-    "name": "Gelam"
   }
 ]

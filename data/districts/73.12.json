@@ -1,23 +1,7 @@
 [
   {
-    "id": "73.12.01",
-    "name": "Marioriwawo"
-  },
-  {
-    "id": "73.12.02",
-    "name": "Liliraja"
-  },
-  {
-    "id": "73.12.03",
-    "name": "Lilirilau"
-  },
-  {
-    "id": "73.12.04",
-    "name": "Lalabata"
-  },
-  {
-    "id": "73.12.05",
-    "name": "Marioriawa"
+    "id": "73.12.08",
+    "name": "Citta"
   },
   {
     "id": "73.12.06",
@@ -28,7 +12,23 @@
     "name": "Ganra"
   },
   {
-    "id": "73.12.08",
-    "name": "Citta"
+    "id": "73.12.04",
+    "name": "Lalabata"
+  },
+  {
+    "id": "73.12.02",
+    "name": "Liliraja"
+  },
+  {
+    "id": "73.12.03",
+    "name": "Lilirilau"
+  },
+  {
+    "id": "73.12.05",
+    "name": "Marioriawa"
+  },
+  {
+    "id": "73.12.01",
+    "name": "Marioriwawo"
   }
 ]

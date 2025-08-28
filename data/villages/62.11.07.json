@@ -8,14 +8,6 @@
     "name": "Henda"
   },
   {
-    "id": "62.11.07.2003",
-    "name": "Simpur"
-  },
-  {
-    "id": "62.11.07.2004",
-    "name": "Sakakajang"
-  },
-  {
     "id": "62.11.07.2005",
     "name": "Jabiren"
   },
@@ -24,11 +16,19 @@
     "name": "Pilang"
   },
   {
-    "id": "62.11.07.2007",
-    "name": "Tumbang Nusa"
+    "id": "62.11.07.2004",
+    "name": "Sakakajang"
+  },
+  {
+    "id": "62.11.07.2003",
+    "name": "Simpur"
   },
   {
     "id": "62.11.07.2008",
     "name": "Tanjung Taruna"
+  },
+  {
+    "id": "62.11.07.2007",
+    "name": "Tumbang Nusa"
   }
 ]

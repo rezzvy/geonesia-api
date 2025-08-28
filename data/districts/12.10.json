@@ -1,13 +1,5 @@
 [
   {
-    "id": "12.10.01",
-    "name": "Rantau Utara"
-  },
-  {
-    "id": "12.10.02",
-    "name": "Rantau Selatan"
-  },
-  {
     "id": "12.10.07",
     "name": "Bilah Barat"
   },
@@ -20,19 +12,27 @@
     "name": "Bilah Hulu"
   },
   {
-    "id": "12.10.14",
-    "name": "Pangkatan"
-  },
-  {
-    "id": "12.10.18",
-    "name": "Panai Tengah"
-  },
-  {
     "id": "12.10.19",
     "name": "Panai Hilir"
   },
   {
     "id": "12.10.20",
     "name": "Panai Hulu"
+  },
+  {
+    "id": "12.10.18",
+    "name": "Panai Tengah"
+  },
+  {
+    "id": "12.10.14",
+    "name": "Pangkatan"
+  },
+  {
+    "id": "12.10.02",
+    "name": "Rantau Selatan"
+  },
+  {
+    "id": "12.10.01",
+    "name": "Rantau Utara"
   }
 ]

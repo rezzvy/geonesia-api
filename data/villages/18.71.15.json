@@ -1,13 +1,5 @@
 [
   {
-    "id": "18.71.15.1001",
-    "name": "Perumnas Way Halim"
-  },
-  {
-    "id": "18.71.15.1002",
-    "name": "Way Halim Permai"
-  },
-  {
     "id": "18.71.15.1003",
     "name": "Gunungsulah"
   },
@@ -22,5 +14,13 @@
   {
     "id": "18.71.15.1006",
     "name": "Jagabaya III"
+  },
+  {
+    "id": "18.71.15.1001",
+    "name": "Perumnas Way Halim"
+  },
+  {
+    "id": "18.71.15.1002",
+    "name": "Way Halim Permai"
   }
 ]

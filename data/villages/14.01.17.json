@@ -1,11 +1,7 @@
 [
   {
-    "id": "14.01.17.2001",
-    "name": "Pulau Birandang"
-  },
-  {
-    "id": "14.01.17.2002",
-    "name": "Pulau Rambai"
+    "id": "14.01.17.2006",
+    "name": "Deli Makmur"
   },
   {
     "id": "14.01.17.2003",
@@ -16,12 +12,20 @@
     "name": "Koto Perambahan"
   },
   {
-    "id": "14.01.17.2005",
-    "name": "Sungai Putih"
+    "id": "14.01.17.2001",
+    "name": "Pulau Birandang"
   },
   {
-    "id": "14.01.17.2006",
-    "name": "Deli Makmur"
+    "id": "14.01.17.2002",
+    "name": "Pulau Rambai"
+  },
+  {
+    "id": "14.01.17.2009",
+    "name": "Sawah Baru"
+  },
+  {
+    "id": "14.01.17.2005",
+    "name": "Sungai Putih"
   },
   {
     "id": "14.01.17.2007",
@@ -30,9 +34,5 @@
   {
     "id": "14.01.17.2008",
     "name": "Tanjung Bungo"
-  },
-  {
-    "id": "14.01.17.2009",
-    "name": "Sawah Baru"
   }
 ]

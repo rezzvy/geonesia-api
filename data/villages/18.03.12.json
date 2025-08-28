@@ -1,7 +1,7 @@
 [
   {
-    "id": "18.03.12.2001",
-    "name": "Ulak Rengas"
+    "id": "18.03.12.2008",
+    "name": "Kebun Dalam"
   },
   {
     "id": "18.03.12.2002",
@@ -20,15 +20,15 @@
     "name": "Sido Kayo"
   },
   {
-    "id": "18.03.12.2006",
-    "name": "Suka Marga"
-  },
-  {
     "id": "18.03.12.2007",
     "name": "Suka Maju"
   },
   {
-    "id": "18.03.12.2008",
-    "name": "Kebun Dalam"
+    "id": "18.03.12.2006",
+    "name": "Suka Marga"
+  },
+  {
+    "id": "18.03.12.2001",
+    "name": "Ulak Rengas"
   }
 ]

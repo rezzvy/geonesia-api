@@ -36,12 +36,20 @@
     "name": "Dukuhtengah"
   },
   {
+    "id": "33.29.16.2020",
+    "name": "Dukuhturi"
+  },
+  {
     "id": "33.29.16.2010",
     "name": "Jemasih"
   },
   {
     "id": "33.29.16.2011",
     "name": "Karangbandung"
+  },
+  {
+    "id": "33.29.16.2019",
+    "name": "Karangmalang"
   },
   {
     "id": "33.29.16.2012",
@@ -52,12 +60,16 @@
     "name": "Kubangjati"
   },
   {
+    "id": "33.29.16.2015",
+    "name": "Kubangsari"
+  },
+  {
     "id": "33.29.16.2014",
     "name": "Kubangwungu"
   },
   {
-    "id": "33.29.16.2015",
-    "name": "Kubangsari"
+    "id": "33.29.16.2021",
+    "name": "Padakaton"
   },
   {
     "id": "33.29.16.2016",
@@ -70,17 +82,5 @@
   {
     "id": "33.29.16.2018",
     "name": "Tanggungsari"
-  },
-  {
-    "id": "33.29.16.2019",
-    "name": "Karangmalang"
-  },
-  {
-    "id": "33.29.16.2020",
-    "name": "Dukuhturi"
-  },
-  {
-    "id": "33.29.16.2021",
-    "name": "Padakaton"
   }
 ]

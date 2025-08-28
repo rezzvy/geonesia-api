@@ -1,15 +1,11 @@
 [
   {
-    "id": "32.02.45.2001",
-    "name": "Tegalbuleud"
-  },
-  {
     "id": "32.02.45.2002",
     "name": "Bangbayang"
   },
   {
-    "id": "32.02.45.2003",
-    "name": "Sumberjaya"
+    "id": "32.02.45.2007",
+    "name": "Buniasih"
   },
   {
     "id": "32.02.45.2004",
@@ -24,11 +20,15 @@
     "name": "Rambay"
   },
   {
-    "id": "32.02.45.2007",
-    "name": "Buniasih"
-  },
-  {
     "id": "32.02.45.2008",
     "name": "Sirnamekar"
+  },
+  {
+    "id": "32.02.45.2003",
+    "name": "Sumberjaya"
+  },
+  {
+    "id": "32.02.45.2001",
+    "name": "Tegalbuleud"
   }
 ]

@@ -1,23 +1,7 @@
 [
   {
-    "id": "35.17.14.2001",
-    "name": "Tanggungkramat"
-  },
-  {
-    "id": "35.17.14.2002",
-    "name": "Rejoagung"
-  },
-  {
-    "id": "35.17.14.2003",
-    "name": "Losari"
-  },
-  {
-    "id": "35.17.14.2004",
-    "name": "Ploso"
-  },
-  {
-    "id": "35.17.14.2005",
-    "name": "Jatigedong"
+    "id": "35.17.14.2013",
+    "name": "Bawangan"
   },
   {
     "id": "35.17.14.2006",
@@ -32,6 +16,22 @@
     "name": "Jatibanjar"
   },
   {
+    "id": "35.17.14.2005",
+    "name": "Jatigedong"
+  },
+  {
+    "id": "35.17.14.2012",
+    "name": "Kebonagung"
+  },
+  {
+    "id": "35.17.14.2011",
+    "name": "Kedungdowo"
+  },
+  {
+    "id": "35.17.14.2003",
+    "name": "Losari"
+  },
+  {
     "id": "35.17.14.2009",
     "name": "Pagertanjung"
   },
@@ -40,15 +40,15 @@
     "name": "Pandanblole"
   },
   {
-    "id": "35.17.14.2011",
-    "name": "Kedungdowo"
+    "id": "35.17.14.2004",
+    "name": "Ploso"
   },
   {
-    "id": "35.17.14.2012",
-    "name": "Kebonagung"
+    "id": "35.17.14.2002",
+    "name": "Rejoagung"
   },
   {
-    "id": "35.17.14.2013",
-    "name": "Bawangan"
+    "id": "35.17.14.2001",
+    "name": "Tanggungkramat"
   }
 ]

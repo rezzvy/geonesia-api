@@ -1,7 +1,23 @@
 [
   {
+    "id": "12.04.28.2007",
+    "name": "Atualuo"
+  },
+  {
     "id": "12.04.28.2001",
     "name": "Balodano"
+  },
+  {
+    "id": "12.04.28.2009",
+    "name": "Dekha"
+  },
+  {
+    "id": "12.04.28.2005",
+    "name": "Lasara Siwalu Banua"
+  },
+  {
+    "id": "12.04.28.2008",
+    "name": "Lewa Lewa"
   },
   {
     "id": "12.04.28.2002",
@@ -12,35 +28,19 @@
     "name": "Sihare'o III"
   },
   {
-    "id": "12.04.28.2004",
-    "name": "Sisarahilima'u"
-  },
-  {
-    "id": "12.04.28.2005",
-    "name": "Lasara Siwalu Banua"
-  },
-  {
-    "id": "12.04.28.2006",
-    "name": "Tuhemberua"
-  },
-  {
-    "id": "12.04.28.2007",
-    "name": "Atualuo"
-  },
-  {
-    "id": "12.04.28.2008",
-    "name": "Lewa Lewa"
-  },
-  {
-    "id": "12.04.28.2009",
-    "name": "Dekha"
-  },
-  {
     "id": "12.04.28.2010",
     "name": "Sihare'o III Bawosalo'o Berua"
   },
   {
     "id": "12.04.28.2011",
     "name": "Sihare'o III Hilibadalu"
+  },
+  {
+    "id": "12.04.28.2004",
+    "name": "Sisarahilima'u"
+  },
+  {
+    "id": "12.04.28.2006",
+    "name": "Tuhemberua"
   }
 ]

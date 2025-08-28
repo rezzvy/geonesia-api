@@ -4,6 +4,10 @@
     "name": "Adolina"
   },
   {
+    "id": "12.18.02.1040",
+    "name": "Batang Terap"
+  },
+  {
     "id": "12.18.02.2003",
     "name": "Bengkel"
   },
@@ -16,12 +20,12 @@
     "name": "Citaman Jernih"
   },
   {
-    "id": "12.18.02.2007",
-    "name": "Deli Muda Hulu"
-  },
-  {
     "id": "12.18.02.2008",
     "name": "Deli Muda Hilir"
+  },
+  {
+    "id": "12.18.02.2007",
+    "name": "Deli Muda Hulu"
   },
   {
     "id": "12.18.02.2009",
@@ -56,6 +60,10 @@
     "name": "Lubuk Rotan"
   },
   {
+    "id": "12.18.02.1038",
+    "name": "Melati I"
+  },
+  {
     "id": "12.18.02.2020",
     "name": "Melati II"
   },
@@ -66,14 +74,6 @@
   {
     "id": "12.18.02.2025",
     "name": "Pematang Tatal"
-  },
-  {
-    "id": "12.18.02.2028",
-    "name": "Suka Beras"
-  },
-  {
-    "id": "12.18.02.2029",
-    "name": "Sukajadi"
   },
   {
     "id": "12.18.02.2031",
@@ -88,24 +88,24 @@
     "name": "Sei Sijenggi"
   },
   {
+    "id": "12.18.02.1039",
+    "name": "Simpang Tiga Pekan"
+  },
+  {
+    "id": "12.18.02.2028",
+    "name": "Suka Beras"
+  },
+  {
+    "id": "12.18.02.2029",
+    "name": "Sukajadi"
+  },
+  {
     "id": "12.18.02.2034",
     "name": "Tanah Merah"
   },
   {
     "id": "12.18.02.2035",
     "name": "Tanjung Buluh"
-  },
-  {
-    "id": "12.18.02.1038",
-    "name": "Melati I"
-  },
-  {
-    "id": "12.18.02.1039",
-    "name": "Simpang Tiga Pekan"
-  },
-  {
-    "id": "12.18.02.1040",
-    "name": "Batang Terap"
   },
   {
     "id": "12.18.02.1041",

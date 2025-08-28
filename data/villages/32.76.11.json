@@ -8,14 +8,6 @@
     "name": "Bojongsari Baru"
   },
   {
-    "id": "32.76.11.1003",
-    "name": "Serua"
-  },
-  {
-    "id": "32.76.11.1004",
-    "name": "Pondok Petir"
-  },
-  {
     "id": "32.76.11.1005",
     "name": "Curug"
   },
@@ -26,5 +18,13 @@
   {
     "id": "32.76.11.1007",
     "name": "Duren Seribu"
+  },
+  {
+    "id": "32.76.11.1004",
+    "name": "Pondok Petir"
+  },
+  {
+    "id": "32.76.11.1003",
+    "name": "Serua"
   }
 ]

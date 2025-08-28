@@ -1,7 +1,39 @@
 [
   {
-    "id": "33.08.20.1001",
-    "name": "Secang"
+    "id": "33.08.20.2008",
+    "name": "Candiretno"
+  },
+  {
+    "id": "33.08.20.2007",
+    "name": "Candisari"
+  },
+  {
+    "id": "33.08.20.2018",
+    "name": "Donomulyo"
+  },
+  {
+    "id": "33.08.20.2006",
+    "name": "Donorejo"
+  },
+  {
+    "id": "33.08.20.2019",
+    "name": "Girikulon"
+  },
+  {
+    "id": "33.08.20.2010",
+    "name": "Jambewangi"
+  },
+  {
+    "id": "33.08.20.2012",
+    "name": "Kalijoso"
+  },
+  {
+    "id": "33.08.20.2014",
+    "name": "Karangkajen"
+  },
+  {
+    "id": "33.08.20.2005",
+    "name": "Krincing"
   },
   {
     "id": "33.08.20.2002",
@@ -16,48 +48,20 @@
     "name": "Ngabean"
   },
   {
-    "id": "33.08.20.2005",
-    "name": "Krincing"
-  },
-  {
-    "id": "33.08.20.2006",
-    "name": "Donorejo"
-  },
-  {
-    "id": "33.08.20.2007",
-    "name": "Candisari"
-  },
-  {
-    "id": "33.08.20.2008",
-    "name": "Candiretno"
+    "id": "33.08.20.2013",
+    "name": "Ngadirojo"
   },
   {
     "id": "33.08.20.2009",
     "name": "Pancuranmas"
   },
   {
-    "id": "33.08.20.2010",
-    "name": "Jambewangi"
-  },
-  {
     "id": "33.08.20.2011",
     "name": "Payaman"
   },
   {
-    "id": "33.08.20.2012",
-    "name": "Kalijoso"
-  },
-  {
-    "id": "33.08.20.2013",
-    "name": "Ngadirojo"
-  },
-  {
-    "id": "33.08.20.2014",
-    "name": "Karangkajen"
-  },
-  {
-    "id": "33.08.20.2015",
-    "name": "Sidomulyo"
+    "id": "33.08.20.2020",
+    "name": "Pirikan"
   },
   {
     "id": "33.08.20.2016",
@@ -68,15 +72,11 @@
     "name": "Purwosari"
   },
   {
-    "id": "33.08.20.2018",
-    "name": "Donomulyo"
+    "id": "33.08.20.1001",
+    "name": "Secang"
   },
   {
-    "id": "33.08.20.2019",
-    "name": "Girikulon"
-  },
-  {
-    "id": "33.08.20.2020",
-    "name": "Pirikan"
+    "id": "33.08.20.2015",
+    "name": "Sidomulyo"
   }
 ]

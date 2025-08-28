@@ -4,16 +4,12 @@
     "name": "Hujung Pata"
   },
   {
-    "id": "62.10.12.2002",
-    "name": "Tumbang Jalemu Kajuei"
+    "id": "62.10.12.2004",
+    "name": "Jalemu Masulan"
   },
   {
     "id": "62.10.12.2003",
     "name": "Jalemu Raya"
-  },
-  {
-    "id": "62.10.12.2004",
-    "name": "Jalemu Masulan"
   },
   {
     "id": "62.10.12.2005",
@@ -28,6 +24,14 @@
     "name": "Tajah Antang Raya"
   },
   {
+    "id": "62.10.12.2011",
+    "name": "Tumbang Bahanei"
+  },
+  {
+    "id": "62.10.12.2002",
+    "name": "Tumbang Jalemu Kajuei"
+  },
+  {
     "id": "62.10.12.2008",
     "name": "Tumbang Kuayan"
   },
@@ -38,9 +42,5 @@
   {
     "id": "62.10.12.2010",
     "name": "Tusang Raya"
-  },
-  {
-    "id": "62.10.12.2011",
-    "name": "Tumbang Bahanei"
   }
 ]

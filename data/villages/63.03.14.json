@@ -1,7 +1,19 @@
 [
   {
-    "id": "63.03.14.2001",
-    "name": "Teluk Selong"
+    "id": "63.03.14.2007",
+    "name": "Antasan Sutun"
+  },
+  {
+    "id": "63.03.14.2010",
+    "name": "Keliling Benteng Tengah"
+  },
+  {
+    "id": "63.03.14.2006",
+    "name": "Keliling Benteng Ulu"
+  },
+  {
+    "id": "63.03.14.2005",
+    "name": "Penggalaman"
   },
   {
     "id": "63.03.14.2002",
@@ -16,39 +28,27 @@
     "name": "Sungai Rangas"
   },
   {
-    "id": "63.03.14.2005",
-    "name": "Penggalaman"
+    "id": "63.03.14.2009",
+    "name": "Sungai Rangas Hambuku"
   },
   {
-    "id": "63.03.14.2006",
-    "name": "Keliling Benteng Ulu"
-  },
-  {
-    "id": "63.03.14.2007",
-    "name": "Antasan Sutun"
+    "id": "63.03.14.2013",
+    "name": "Sungai Rangas Tengah"
   },
   {
     "id": "63.03.14.2008",
     "name": "Sungai Rangas Ulu"
   },
   {
-    "id": "63.03.14.2009",
-    "name": "Sungai Rangas Hambuku"
-  },
-  {
-    "id": "63.03.14.2010",
-    "name": "Keliling Benteng Tengah"
-  },
-  {
-    "id": "63.03.14.2011",
-    "name": "Teluk Selong Ulu"
-  },
-  {
     "id": "63.03.14.2012",
     "name": "Tangkas"
   },
   {
-    "id": "63.03.14.2013",
-    "name": "Sungai Rangas Tengah"
+    "id": "63.03.14.2001",
+    "name": "Teluk Selong"
+  },
+  {
+    "id": "63.03.14.2011",
+    "name": "Teluk Selong Ulu"
   }
 ]

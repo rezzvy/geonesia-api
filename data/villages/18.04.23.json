@@ -1,19 +1,7 @@
 [
   {
-    "id": "18.04.23.2001",
-    "name": "Suoh"
-  },
-  {
-    "id": "18.04.23.2002",
-    "name": "Srimulyo"
-  },
-  {
     "id": "18.04.23.2003",
     "name": "Bandar Agung"
-  },
-  {
-    "id": "18.04.23.2004",
-    "name": "Ringin Jaya"
   },
   {
     "id": "18.04.23.2005",
@@ -24,12 +12,24 @@
     "name": "Gunungratu"
   },
   {
-    "id": "18.04.23.2007",
-    "name": "Tanjungsari"
-  },
-  {
     "id": "18.04.23.2008",
     "name": "Negeri Jaya"
+  },
+  {
+    "id": "18.04.23.2004",
+    "name": "Ringin Jaya"
+  },
+  {
+    "id": "18.04.23.2002",
+    "name": "Srimulyo"
+  },
+  {
+    "id": "18.04.23.2001",
+    "name": "Suoh"
+  },
+  {
+    "id": "18.04.23.2007",
+    "name": "Tanjungsari"
   },
   {
     "id": "18.04.23.2009",

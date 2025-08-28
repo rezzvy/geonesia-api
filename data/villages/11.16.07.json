@@ -1,15 +1,23 @@
 [
   {
-    "id": "11.16.07.2001",
-    "name": "Alur Tani Satu"
-  },
-  {
     "id": "11.16.07.2002",
     "name": "Alur Tani Dua"
   },
   {
+    "id": "11.16.07.2001",
+    "name": "Alur Tani Satu"
+  },
+  {
     "id": "11.16.07.2003",
     "name": "Bandar Khalifah"
+  },
+  {
+    "id": "11.16.07.2007",
+    "name": "Bandar Setia"
+  },
+  {
+    "id": "11.16.07.2006",
+    "name": "Harum Sari"
   },
   {
     "id": "11.16.07.2004",
@@ -18,14 +26,6 @@
   {
     "id": "11.16.07.2005",
     "name": "Perkebunan Pulau Tiga"
-  },
-  {
-    "id": "11.16.07.2006",
-    "name": "Harum Sari"
-  },
-  {
-    "id": "11.16.07.2007",
-    "name": "Bandar Setia"
   },
   {
     "id": "11.16.07.2008",

@@ -1,15 +1,11 @@
 [
   {
-    "id": "62.10.06.1001",
-    "name": "Tumbang Talaken"
+    "id": "62.10.06.2014",
+    "name": "Bangun Sari"
   },
   {
-    "id": "62.10.06.2002",
-    "name": "Tumbang Sepan"
-  },
-  {
-    "id": "62.10.06.2003",
-    "name": "Tangki Dahuyan"
+    "id": "62.10.06.2012",
+    "name": "Belawan Mulya"
   },
   {
     "id": "62.10.06.2004",
@@ -20,22 +16,6 @@
     "name": "Bereng Jun"
   },
   {
-    "id": "62.10.06.2006",
-    "name": "Takaras"
-  },
-  {
-    "id": "62.10.06.2012",
-    "name": "Belawan Mulya"
-  },
-  {
-    "id": "62.10.06.2013",
-    "name": "Taringen"
-  },
-  {
-    "id": "62.10.06.2014",
-    "name": "Bangun Sari"
-  },
-  {
     "id": "62.10.06.2015",
     "name": "Fajar Harapan"
   },
@@ -44,7 +24,27 @@
     "name": "Guhung"
   },
   {
+    "id": "62.10.06.2006",
+    "name": "Takaras"
+  },
+  {
+    "id": "62.10.06.2003",
+    "name": "Tangki Dahuyan"
+  },
+  {
+    "id": "62.10.06.2013",
+    "name": "Taringen"
+  },
+  {
     "id": "62.10.06.2018",
     "name": "Tumbang Jalemu"
+  },
+  {
+    "id": "62.10.06.2002",
+    "name": "Tumbang Sepan"
+  },
+  {
+    "id": "62.10.06.1001",
+    "name": "Tumbang Talaken"
   }
 ]

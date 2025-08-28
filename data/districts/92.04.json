@@ -1,35 +1,27 @@
 [
   {
-    "id": "92.04.01",
-    "name": "Teminabuan"
+    "id": "92.04.24",
+    "name": "Fokour"
   },
   {
     "id": "92.04.04",
     "name": "Inanwatan"
   },
   {
-    "id": "92.04.06",
-    "name": "Sawiat"
+    "id": "92.04.14",
+    "name": "Kais"
+  },
+  {
+    "id": "92.04.26",
+    "name": "Kais Darat"
   },
   {
     "id": "92.04.09",
     "name": "Kokoda"
   },
   {
-    "id": "92.04.10",
-    "name": "Moswaren"
-  },
-  {
-    "id": "92.04.11",
-    "name": "Seremuk"
-  },
-  {
-    "id": "92.04.12",
-    "name": "Wayer"
-  },
-  {
-    "id": "92.04.14",
-    "name": "Kais"
+    "id": "92.04.21",
+    "name": "Kokoda Utara"
   },
   {
     "id": "92.04.15",
@@ -40,23 +32,31 @@
     "name": "Matemani"
   },
   {
-    "id": "92.04.21",
-    "name": "Kokoda Utara"
+    "id": "92.04.10",
+    "name": "Moswaren"
   },
   {
     "id": "92.04.22",
     "name": "Saifi"
   },
   {
-    "id": "92.04.24",
-    "name": "Fokour"
-  },
-  {
     "id": "92.04.25",
     "name": "Salkma"
   },
   {
-    "id": "92.04.26",
-    "name": "Kais Darat"
+    "id": "92.04.06",
+    "name": "Sawiat"
+  },
+  {
+    "id": "92.04.11",
+    "name": "Seremuk"
+  },
+  {
+    "id": "92.04.01",
+    "name": "Teminabuan"
+  },
+  {
+    "id": "92.04.12",
+    "name": "Wayer"
   }
 ]

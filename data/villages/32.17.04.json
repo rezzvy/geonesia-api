@@ -1,15 +1,15 @@
 [
   {
-    "id": "32.17.04.2001",
-    "name": "Ciptagumati"
-  },
-  {
     "id": "32.17.04.2002",
     "name": "Cikalong"
   },
   {
     "id": "32.17.04.2003",
     "name": "Cipada"
+  },
+  {
+    "id": "32.17.04.2001",
+    "name": "Ciptagumati"
   },
   {
     "id": "32.17.04.2004",
@@ -24,12 +24,12 @@
     "name": "Kanangasari"
   },
   {
-    "id": "32.17.04.2007",
-    "name": "Mandalasari"
-  },
-  {
     "id": "32.17.04.2008",
     "name": "Mandalamukti"
+  },
+  {
+    "id": "32.17.04.2007",
+    "name": "Mandalasari"
   },
   {
     "id": "32.17.04.2009",

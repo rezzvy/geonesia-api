@@ -1,19 +1,7 @@
 [
   {
-    "id": "32.01.39.2001",
-    "name": "Leuwisadeng"
-  },
-  {
     "id": "32.01.39.2002",
     "name": "Babakan Sadeng"
-  },
-  {
-    "id": "32.01.39.2003",
-    "name": "Sadeng Kolot"
-  },
-  {
-    "id": "32.01.39.2004",
-    "name": "Wangunjaya"
   },
   {
     "id": "32.01.39.2005",
@@ -24,11 +12,23 @@
     "name": "Kalong II"
   },
   {
+    "id": "32.01.39.2001",
+    "name": "Leuwisadeng"
+  },
+  {
     "id": "32.01.39.2007",
     "name": "Sadeng"
   },
   {
+    "id": "32.01.39.2003",
+    "name": "Sadeng Kolot"
+  },
+  {
     "id": "32.01.39.2008",
     "name": "Sibanteng"
+  },
+  {
+    "id": "32.01.39.2004",
+    "name": "Wangunjaya"
   }
 ]

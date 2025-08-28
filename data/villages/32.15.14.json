@@ -1,11 +1,7 @@
 [
   {
-    "id": "32.15.14.2001",
-    "name": "Mekarsari"
-  },
-  {
-    "id": "32.15.14.2002",
-    "name": "Jatisari"
+    "id": "32.15.14.2010",
+    "name": "Balonggandu"
   },
   {
     "id": "32.15.14.2003",
@@ -28,6 +24,10 @@
     "name": "Jatiragas"
   },
   {
+    "id": "32.15.14.2002",
+    "name": "Jatisari"
+  },
+  {
     "id": "32.15.14.2008",
     "name": "Jatiwangi"
   },
@@ -36,8 +36,8 @@
     "name": "Kalijati"
   },
   {
-    "id": "32.15.14.2010",
-    "name": "Balonggandu"
+    "id": "32.15.14.2001",
+    "name": "Mekarsari"
   },
   {
     "id": "32.15.14.2011",

@@ -1,7 +1,11 @@
 [
   {
-    "id": "73.08.04.1001",
-    "name": "Pancaitana"
+    "id": "73.08.04.2006",
+    "name": "Bellu"
+  },
+  {
+    "id": "73.08.04.2005",
+    "name": "Gattareng"
   },
   {
     "id": "73.08.04.2002",
@@ -12,23 +16,19 @@
     "name": "Manera"
   },
   {
-    "id": "73.08.04.2004",
-    "name": "Ulubalang"
+    "id": "73.08.04.2008",
+    "name": "Mappatoba"
   },
   {
-    "id": "73.08.04.2005",
-    "name": "Gattareng"
-  },
-  {
-    "id": "73.08.04.2006",
-    "name": "Bellu"
+    "id": "73.08.04.1001",
+    "name": "Pancaitana"
   },
   {
     "id": "73.08.04.2007",
     "name": "Tebba"
   },
   {
-    "id": "73.08.04.2008",
-    "name": "Mappatoba"
+    "id": "73.08.04.2004",
+    "name": "Ulubalang"
   }
 ]

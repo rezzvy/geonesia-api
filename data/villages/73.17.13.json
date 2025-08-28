@@ -1,5 +1,9 @@
 [
   {
+    "id": "73.17.13.2008",
+    "name": "Bunga Eja"
+  },
+  {
     "id": "73.17.13.1001",
     "name": "Cilallang"
   },
@@ -8,16 +12,8 @@
     "name": "Kamanre"
   },
   {
-    "id": "73.17.13.2003",
-    "name": "Tabbaja"
-  },
-  {
     "id": "73.17.13.2004",
     "name": "Libukang"
-  },
-  {
-    "id": "73.17.13.2005",
-    "name": "Wara"
   },
   {
     "id": "73.17.13.2006",
@@ -28,7 +24,11 @@
     "name": "Salu Paremang Selatan"
   },
   {
-    "id": "73.17.13.2008",
-    "name": "Bunga Eja"
+    "id": "73.17.13.2003",
+    "name": "Tabbaja"
+  },
+  {
+    "id": "73.17.13.2005",
+    "name": "Wara"
   }
 ]

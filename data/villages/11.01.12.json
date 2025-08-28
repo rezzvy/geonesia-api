@@ -1,23 +1,7 @@
 [
   {
-    "id": "11.01.12.2001",
-    "name": "Tutong"
-  },
-  {
-    "id": "11.01.12.2002",
-    "name": "Teungoh Iboh"
-  },
-  {
-    "id": "11.01.12.2003",
-    "name": "Peulokan"
-  },
-  {
-    "id": "11.01.12.2004",
-    "name": "Kuta Iboh"
-  },
-  {
-    "id": "11.01.12.2005",
-    "name": "Ujung Padang"
+    "id": "11.01.12.2014",
+    "name": "Batee Meucanang"
   },
   {
     "id": "11.01.12.2006",
@@ -28,16 +12,12 @@
     "name": "Blang Poroh"
   },
   {
-    "id": "11.01.12.2008",
-    "name": "Pulo Ie"
-  },
-  {
-    "id": "11.01.12.2009",
-    "name": "Suak Lokan"
-  },
-  {
     "id": "11.01.12.2010",
     "name": "Iku Lhueng"
+  },
+  {
+    "id": "11.01.12.2004",
+    "name": "Kuta Iboh"
   },
   {
     "id": "11.01.12.2011",
@@ -52,11 +32,31 @@
     "name": "Panton Pawoh"
   },
   {
-    "id": "11.01.12.2014",
-    "name": "Batee Meucanang"
-  },
-  {
     "id": "11.01.12.2015",
     "name": "Panton Rubek"
+  },
+  {
+    "id": "11.01.12.2003",
+    "name": "Peulokan"
+  },
+  {
+    "id": "11.01.12.2008",
+    "name": "Pulo Ie"
+  },
+  {
+    "id": "11.01.12.2009",
+    "name": "Suak Lokan"
+  },
+  {
+    "id": "11.01.12.2002",
+    "name": "Teungoh Iboh"
+  },
+  {
+    "id": "11.01.12.2001",
+    "name": "Tutong"
+  },
+  {
+    "id": "11.01.12.2005",
+    "name": "Ujung Padang"
   }
 ]

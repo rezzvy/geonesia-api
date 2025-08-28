@@ -1,5 +1,9 @@
 [
   {
+    "id": "19.06.07.2004",
+    "name": "Dukong"
+  },
+  {
     "id": "19.06.07.2001",
     "name": "Simpang Pesak"
   },
@@ -10,9 +14,5 @@
   {
     "id": "19.06.07.2003",
     "name": "Tanjung Kelumpang"
-  },
-  {
-    "id": "19.06.07.2004",
-    "name": "Dukong"
   }
 ]

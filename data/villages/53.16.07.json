@@ -1,15 +1,15 @@
 [
   {
+    "id": "53.16.07.2003",
+    "name": "Langedhawe"
+  },
+  {
     "id": "53.16.07.2001",
     "name": "Rendubutowe"
   },
   {
-    "id": "53.16.07.2002",
-    "name": "Tengatiba"
-  },
-  {
-    "id": "53.16.07.2003",
-    "name": "Langedhawe"
+    "id": "53.16.07.2007",
+    "name": "Rendut Tutubhada"
   },
   {
     "id": "53.16.07.2004",
@@ -20,11 +20,11 @@
     "name": "Renduwawo"
   },
   {
-    "id": "53.16.07.2006",
-    "name": "Wajomara"
+    "id": "53.16.07.2002",
+    "name": "Tengatiba"
   },
   {
-    "id": "53.16.07.2007",
-    "name": "Rendut Tutubhada"
+    "id": "53.16.07.2006",
+    "name": "Wajomara"
   }
 ]

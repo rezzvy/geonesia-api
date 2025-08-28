@@ -1,9 +1,5 @@
 [
   {
-    "id": "17.04.15.2001",
-    "name": "Naga Rantai"
-  },
-  {
     "id": "17.04.15.2002",
     "name": "Bungin Tambun"
   },
@@ -16,6 +12,14 @@
     "name": "Bungin Tambun III"
   },
   {
+    "id": "17.04.15.2009",
+    "name": "Coko Betung"
+  },
+  {
+    "id": "17.04.15.2011",
+    "name": "Jati Mulyo"
+  },
+  {
     "id": "17.04.15.2005",
     "name": "Manau IX"
   },
@@ -24,23 +28,19 @@
     "name": "Manau IX Dua"
   },
   {
+    "id": "17.04.15.2010",
+    "name": "Marga Mulyo"
+  },
+  {
+    "id": "17.04.15.2001",
+    "name": "Naga Rantai"
+  },
+  {
     "id": "17.04.15.2007",
     "name": "Pagar Alam"
   },
   {
     "id": "17.04.15.2008",
     "name": "Pagar Gunung"
-  },
-  {
-    "id": "17.04.15.2009",
-    "name": "Coko Betung"
-  },
-  {
-    "id": "17.04.15.2010",
-    "name": "Marga Mulyo"
-  },
-  {
-    "id": "17.04.15.2011",
-    "name": "Jati Mulyo"
   }
 ]

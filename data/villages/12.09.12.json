@@ -1,11 +1,15 @@
 [
   {
-    "id": "12.09.12.2002",
-    "name": "Perkebunan Suka Raja"
+    "id": "12.09.12.2013",
+    "name": "Anjung Ganjang"
   },
   {
     "id": "12.09.12.2004",
     "name": "Perkebunan Hessa"
+  },
+  {
+    "id": "12.09.12.2002",
+    "name": "Perkebunan Suka Raja"
   },
   {
     "id": "12.09.12.2006",
@@ -26,9 +30,5 @@
   {
     "id": "12.09.12.2012",
     "name": "Sipaku Area"
-  },
-  {
-    "id": "12.09.12.2013",
-    "name": "Anjung Ganjang"
   }
 ]

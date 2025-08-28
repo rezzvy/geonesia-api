@@ -1,15 +1,7 @@
 [
   {
-    "id": "35.07.05.2001",
-    "name": "Sukodono"
-  },
-  {
-    "id": "35.07.05.2002",
-    "name": "Sumbersuko"
-  },
-  {
-    "id": "35.07.05.2003",
-    "name": "Srimulyo"
+    "id": "35.07.05.2006",
+    "name": "Amandanom"
   },
   {
     "id": "35.07.05.2004",
@@ -20,31 +12,39 @@
     "name": "Bumirejo"
   },
   {
-    "id": "35.07.05.2006",
-    "name": "Amandanom"
-  },
-  {
     "id": "35.07.05.1007",
     "name": "Dampit"
   },
   {
-    "id": "35.07.05.2008",
-    "name": "Pamotan"
+    "id": "35.07.05.2012",
+    "name": "Jambangan"
   },
   {
     "id": "35.07.05.2009",
     "name": "Majangtengah"
   },
   {
-    "id": "35.07.05.2010",
-    "name": "Rembun"
+    "id": "35.07.05.2008",
+    "name": "Pamotan"
   },
   {
     "id": "35.07.05.2011",
     "name": "Pojok"
   },
   {
-    "id": "35.07.05.2012",
-    "name": "Jambangan"
+    "id": "35.07.05.2010",
+    "name": "Rembun"
+  },
+  {
+    "id": "35.07.05.2003",
+    "name": "Srimulyo"
+  },
+  {
+    "id": "35.07.05.2001",
+    "name": "Sukodono"
+  },
+  {
+    "id": "35.07.05.2002",
+    "name": "Sumbersuko"
   }
 ]

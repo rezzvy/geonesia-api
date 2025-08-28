@@ -1,11 +1,15 @@
 [
   {
-    "id": "18.71.18.1001",
-    "name": "Kedamaian"
-  },
-  {
     "id": "18.71.18.1002",
     "name": "Bumi Kedamaian"
+  },
+  {
+    "id": "18.71.18.1005",
+    "name": "Kalibalau Kencana"
+  },
+  {
+    "id": "18.71.18.1001",
+    "name": "Kedamaian"
   },
   {
     "id": "18.71.18.1003",
@@ -16,15 +20,11 @@
     "name": "Tanjungbaru"
   },
   {
-    "id": "18.71.18.1005",
-    "name": "Kalibalau Kencana"
+    "id": "18.71.18.1007",
+    "name": "Tanjunggading"
   },
   {
     "id": "18.71.18.1006",
     "name": "Tanjungraya"
-  },
-  {
-    "id": "18.71.18.1007",
-    "name": "Tanjunggading"
   }
 ]

@@ -1,27 +1,19 @@
 [
   {
-    "id": "32.15.19.2001",
-    "name": "Karyamukti"
-  },
-  {
     "id": "32.15.19.2002",
     "name": "Ciwaringin"
-  },
-  {
-    "id": "32.15.19.2003",
-    "name": "Waringinkarya"
-  },
-  {
-    "id": "32.15.19.2004",
-    "name": "Kedawung"
   },
   {
     "id": "32.15.19.2005",
     "name": "Karangtanjung"
   },
   {
-    "id": "32.15.19.2006",
-    "name": "Pasirtanjung"
+    "id": "32.15.19.2001",
+    "name": "Karyamukti"
+  },
+  {
+    "id": "32.15.19.2004",
+    "name": "Kedawung"
   },
   {
     "id": "32.15.19.2007",
@@ -30,6 +22,10 @@
   {
     "id": "32.15.19.2008",
     "name": "Lemahmukti"
+  },
+  {
+    "id": "32.15.19.2006",
+    "name": "Pasirtanjung"
   },
   {
     "id": "32.15.19.2009",
@@ -42,5 +38,9 @@
   {
     "id": "32.15.19.2011",
     "name": "Pulomulya"
+  },
+  {
+    "id": "32.15.19.2003",
+    "name": "Waringinkarya"
   }
 ]

@@ -1,37 +1,5 @@
 [
   {
-    "id": "15.02.03.2004",
-    "name": "Durian Rambun"
-  },
-  {
-    "id": "15.02.03.2007",
-    "name": "Lubuk Birah"
-  },
-  {
-    "id": "15.02.03.2008",
-    "name": "Lubuk Beringin"
-  },
-  {
-    "id": "15.02.03.2009",
-    "name": "Rantau Macang"
-  },
-  {
-    "id": "15.02.03.2010",
-    "name": "Peradu Temberas"
-  },
-  {
-    "id": "15.02.03.2011",
-    "name": "Teluk Sikumbang"
-  },
-  {
-    "id": "15.02.03.2012",
-    "name": "Muara Siau"
-  },
-  {
-    "id": "15.02.03.2013",
-    "name": "Tiaro"
-  },
-  {
     "id": "15.02.03.2015",
     "name": "Air Lago"
   },
@@ -40,20 +8,48 @@
     "name": "Badak Tekurung"
   },
   {
-    "id": "15.02.03.2017",
-    "name": "Rantau Bidaro"
+    "id": "15.02.03.2004",
+    "name": "Durian Rambun"
   },
   {
-    "id": "15.02.03.2018",
-    "name": "Rantau Panjang"
+    "id": "15.02.03.2008",
+    "name": "Lubuk Beringin"
+  },
+  {
+    "id": "15.02.03.2007",
+    "name": "Lubuk Birah"
+  },
+  {
+    "id": "15.02.03.2012",
+    "name": "Muara Siau"
+  },
+  {
+    "id": "15.02.03.2024",
+    "name": "Pasar Muara Siau"
+  },
+  {
+    "id": "15.02.03.2010",
+    "name": "Peradu Temberas"
   },
   {
     "id": "15.02.03.2021",
     "name": "Pulau Raman"
   },
   {
-    "id": "15.02.03.2024",
-    "name": "Pasar Muara Siau"
+    "id": "15.02.03.2029",
+    "name": "Rantau Bayur"
+  },
+  {
+    "id": "15.02.03.2017",
+    "name": "Rantau Bidaro"
+  },
+  {
+    "id": "15.02.03.2009",
+    "name": "Rantau Macang"
+  },
+  {
+    "id": "15.02.03.2018",
+    "name": "Rantau Panjang"
   },
   {
     "id": "15.02.03.2027",
@@ -64,7 +60,11 @@
     "name": "Sungai Ulas"
   },
   {
-    "id": "15.02.03.2029",
-    "name": "Rantau Bayur"
+    "id": "15.02.03.2011",
+    "name": "Teluk Sikumbang"
+  },
+  {
+    "id": "15.02.03.2013",
+    "name": "Tiaro"
   }
 ]

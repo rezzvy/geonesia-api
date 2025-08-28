@@ -1,7 +1,7 @@
 [
   {
-    "id": "72.71.01",
-    "name": "Palu Timur"
+    "id": "72.71.08",
+    "name": "Mantikulore"
   },
   {
     "id": "72.71.02",
@@ -12,12 +12,12 @@
     "name": "Palu Selatan"
   },
   {
-    "id": "72.71.04",
-    "name": "Palu Utara"
+    "id": "72.71.01",
+    "name": "Palu Timur"
   },
   {
-    "id": "72.71.05",
-    "name": "Ulujadi"
+    "id": "72.71.04",
+    "name": "Palu Utara"
   },
   {
     "id": "72.71.06",
@@ -28,7 +28,7 @@
     "name": "Tawaeli"
   },
   {
-    "id": "72.71.08",
-    "name": "Mantikulore"
+    "id": "72.71.05",
+    "name": "Ulujadi"
   }
 ]

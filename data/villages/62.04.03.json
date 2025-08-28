@@ -1,19 +1,15 @@
 [
   {
-    "id": "62.04.03.2001",
-    "name": "Salat Baru"
+    "id": "62.04.03.2004",
+    "name": "Babai"
   },
   {
     "id": "62.04.03.1002",
     "name": "Bangkuang"
   },
   {
-    "id": "62.04.03.2003",
-    "name": "Teluk Betung"
-  },
-  {
-    "id": "62.04.03.2004",
-    "name": "Babai"
+    "id": "62.04.03.2010",
+    "name": "Bintang Kurung"
   },
   {
     "id": "62.04.03.2005",
@@ -28,6 +24,10 @@
     "name": "Muara Arai"
   },
   {
+    "id": "62.04.03.2001",
+    "name": "Salat Baru"
+  },
+  {
     "id": "62.04.03.2008",
     "name": "Talio"
   },
@@ -36,8 +36,8 @@
     "name": "Tampijak"
   },
   {
-    "id": "62.04.03.2010",
-    "name": "Bintang Kurung"
+    "id": "62.04.03.2003",
+    "name": "Teluk Betung"
   },
   {
     "id": "62.04.03.2011",

@@ -1,7 +1,15 @@
 [
   {
-    "id": "12.08.03.2001",
-    "name": "Silau Bayu"
+    "id": "12.08.03.2009",
+    "name": "Bandar Malela"
+  },
+  {
+    "id": "12.08.03.2008",
+    "name": "Ganjing"
+  },
+  {
+    "id": "12.08.03.2007",
+    "name": "Hutadipar"
   },
   {
     "id": "12.08.03.2002",
@@ -16,23 +24,15 @@
     "name": "Karang Sari"
   },
   {
-    "id": "12.08.03.2005",
-    "name": "Tumorang"
-  },
-  {
     "id": "12.08.03.2006",
     "name": "Rabuhit"
   },
   {
-    "id": "12.08.03.2007",
-    "name": "Hutadipar"
+    "id": "12.08.03.2001",
+    "name": "Silau Bayu"
   },
   {
-    "id": "12.08.03.2008",
-    "name": "Ganjing"
-  },
-  {
-    "id": "12.08.03.2009",
-    "name": "Bandar Malela"
+    "id": "12.08.03.2005",
+    "name": "Tumorang"
   }
 ]

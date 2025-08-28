@@ -1,46 +1,46 @@
 [
   {
-    "id": "13.12.01",
-    "name": "Sungaiberemas"
-  },
-  {
-    "id": "13.12.02",
-    "name": "Lembah Melintang"
-  },
-  {
-    "id": "13.12.03",
-    "name": "Pasaman"
-  },
-  {
-    "id": "13.12.04",
-    "name": "Talamau"
+    "id": "13.12.06",
+    "name": "Gunungtuleh"
   },
   {
     "id": "13.12.05",
     "name": "Kinali"
   },
   {
-    "id": "13.12.06",
-    "name": "Gunungtuleh"
-  },
-  {
-    "id": "13.12.07",
-    "name": "Ranah Batahan"
-  },
-  {
     "id": "13.12.08",
     "name": "Koto Balingka"
   },
   {
-    "id": "13.12.09",
-    "name": "Sungaiaur"
+    "id": "13.12.02",
+    "name": "Lembah Melintang"
   },
   {
     "id": "13.12.10",
     "name": "Luhak Nan Duo"
   },
   {
+    "id": "13.12.03",
+    "name": "Pasaman"
+  },
+  {
+    "id": "13.12.07",
+    "name": "Ranah Batahan"
+  },
+  {
     "id": "13.12.11",
     "name": "Sasak Ranah Pesisir"
+  },
+  {
+    "id": "13.12.09",
+    "name": "Sungaiaur"
+  },
+  {
+    "id": "13.12.01",
+    "name": "Sungaiberemas"
+  },
+  {
+    "id": "13.12.04",
+    "name": "Talamau"
   }
 ]

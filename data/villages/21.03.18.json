@@ -8,11 +8,11 @@
     "name": "Cemaga Selatan (Setengar)"
   },
   {
-    "id": "21.03.18.2003",
-    "name": "Cemaga Utara (Singgang Bulan)"
-  },
-  {
     "id": "21.03.18.2004",
     "name": "Cemaga Tengah"
+  },
+  {
+    "id": "21.03.18.2003",
+    "name": "Cemaga Utara (Singgang Bulan)"
   }
 ]

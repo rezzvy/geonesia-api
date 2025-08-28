@@ -1,5 +1,13 @@
 [
   {
+    "id": "53.08.14.2009",
+    "name": "Detuena"
+  },
+  {
+    "id": "53.08.14.2005",
+    "name": "Koanara"
+  },
+  {
     "id": "53.08.14.2002",
     "name": "Nduaria"
   },
@@ -12,27 +20,19 @@
     "name": "Nuamuri Barat"
   },
   {
-    "id": "53.08.14.2005",
-    "name": "Koanara"
+    "id": "53.08.14.2007",
+    "name": "Pemo"
+  },
+  {
+    "id": "53.08.14.2011",
+    "name": "Waturaka"
   },
   {
     "id": "53.08.14.2006",
     "name": "Woloara"
   },
   {
-    "id": "53.08.14.2007",
-    "name": "Pemo"
-  },
-  {
-    "id": "53.08.14.2009",
-    "name": "Detuena"
-  },
-  {
     "id": "53.08.14.2010",
     "name": "Wolokelo"
-  },
-  {
-    "id": "53.08.14.2011",
-    "name": "Waturaka"
   }
 ]

@@ -1,27 +1,11 @@
 [
   {
-    "id": "17.06.11.2001",
-    "name": "Lubuk Sanai"
-  },
-  {
-    "id": "17.06.11.2002",
-    "name": "Rawa Mulya"
-  },
-  {
-    "id": "17.06.11.2003",
-    "name": "Rawa Bangun"
-  },
-  {
-    "id": "17.06.11.2004",
-    "name": "Tanjung Mulya"
-  },
-  {
-    "id": "17.06.11.2005",
-    "name": "Pauh Tarenja"
-  },
-  {
     "id": "17.06.11.2006",
     "name": "Dusun Baru Pelokan"
+  },
+  {
+    "id": "17.06.11.2001",
+    "name": "Lubuk Sanai"
   },
   {
     "id": "17.06.11.2007",
@@ -30,5 +14,21 @@
   {
     "id": "17.06.11.2009",
     "name": "Lubuk Sanai III"
+  },
+  {
+    "id": "17.06.11.2005",
+    "name": "Pauh Tarenja"
+  },
+  {
+    "id": "17.06.11.2003",
+    "name": "Rawa Bangun"
+  },
+  {
+    "id": "17.06.11.2002",
+    "name": "Rawa Mulya"
+  },
+  {
+    "id": "17.06.11.2004",
+    "name": "Tanjung Mulya"
   }
 ]

@@ -4,16 +4,12 @@
     "name": "Bogor"
   },
   {
+    "id": "32.12.24.2017",
+    "name": "Karanglayung"
+  },
+  {
     "id": "32.12.24.2002",
     "name": "Sukra"
-  },
-  {
-    "id": "32.12.24.2003",
-    "name": "Ujunggebang"
-  },
-  {
-    "id": "32.12.24.2004",
-    "name": "Tagaltaman"
   },
   {
     "id": "32.12.24.2005",
@@ -28,7 +24,11 @@
     "name": "Sumuradem Timur"
   },
   {
-    "id": "32.12.24.2017",
-    "name": "Karanglayung"
+    "id": "32.12.24.2004",
+    "name": "Tagaltaman"
+  },
+  {
+    "id": "32.12.24.2003",
+    "name": "Ujunggebang"
   }
 ]

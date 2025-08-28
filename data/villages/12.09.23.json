@@ -1,7 +1,11 @@
 [
   {
-    "id": "12.09.23.2001",
-    "name": "Tanjung Alam"
+    "id": "12.09.23.2006",
+    "name": "Bahung Sibatu-batu"
+  },
+  {
+    "id": "12.09.23.2010",
+    "name": "Pasiran"
   },
   {
     "id": "12.09.23.2002",
@@ -12,6 +16,14 @@
     "name": "Perkebunan Sei Dadap III/IV"
   },
   {
+    "id": "12.09.23.2007",
+    "name": "Sei Alim Hasak"
+  },
+  {
+    "id": "12.09.23.2009",
+    "name": "Sei Kamah Baru"
+  },
+  {
     "id": "12.09.23.2004",
     "name": "Sei Kamah I"
   },
@@ -20,23 +32,11 @@
     "name": "Sei Kamah II"
   },
   {
-    "id": "12.09.23.2006",
-    "name": "Bahung Sibatu-batu"
-  },
-  {
-    "id": "12.09.23.2007",
-    "name": "Sei Alim Hasak"
+    "id": "12.09.23.2001",
+    "name": "Tanjung Alam"
   },
   {
     "id": "12.09.23.2008",
     "name": "Tanjung Asri"
-  },
-  {
-    "id": "12.09.23.2009",
-    "name": "Sei Kamah Baru"
-  },
-  {
-    "id": "12.09.23.2010",
-    "name": "Pasiran"
   }
 ]

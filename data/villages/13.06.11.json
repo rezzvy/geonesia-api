@@ -1,7 +1,15 @@
 [
   {
+    "id": "13.06.11.2004",
+    "name": "Ampek Koto Palembayan"
+  },
+  {
     "id": "13.06.11.2001",
     "name": "Baringin"
+  },
+  {
+    "id": "13.06.11.2006",
+    "name": "Salareh Aia"
   },
   {
     "id": "13.06.11.2002",
@@ -12,15 +20,7 @@
     "name": "Sungai Puar"
   },
   {
-    "id": "13.06.11.2004",
-    "name": "Ampek Koto Palembayan"
-  },
-  {
     "id": "13.06.11.2005",
     "name": "Tigo Koto Silungkang"
-  },
-  {
-    "id": "13.06.11.2006",
-    "name": "Salareh Aia"
   }
 ]

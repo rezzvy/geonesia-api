@@ -1,7 +1,7 @@
 [
   {
-    "id": "35.23.05.2001",
-    "name": "Medalem"
+    "id": "35.23.05.2004",
+    "name": "Banyuurip"
   },
   {
     "id": "35.23.05.2002",
@@ -12,20 +12,28 @@
     "name": "Kaligede"
   },
   {
-    "id": "35.23.05.2004",
-    "name": "Banyuurip"
+    "id": "35.23.05.2012",
+    "name": "Katerban"
   },
   {
     "id": "35.23.05.2005",
     "name": "Leran"
   },
   {
-    "id": "35.23.05.2006",
-    "name": "Wonosari"
+    "id": "35.23.05.2001",
+    "name": "Medalem"
+  },
+  {
+    "id": "35.23.05.2011",
+    "name": "Rayung"
   },
   {
     "id": "35.23.05.2007",
     "name": "Sendang"
+  },
+  {
+    "id": "35.23.05.2010",
+    "name": "Sidoharjo"
   },
   {
     "id": "35.23.05.2008",
@@ -36,15 +44,7 @@
     "name": "Wangluwetan"
   },
   {
-    "id": "35.23.05.2010",
-    "name": "Sidoharjo"
-  },
-  {
-    "id": "35.23.05.2011",
-    "name": "Rayung"
-  },
-  {
-    "id": "35.23.05.2012",
-    "name": "Katerban"
+    "id": "35.23.05.2006",
+    "name": "Wonosari"
   }
 ]

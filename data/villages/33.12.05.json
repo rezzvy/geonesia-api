@@ -1,27 +1,11 @@
 [
   {
-    "id": "33.12.05.2001",
-    "name": "Hargosari"
+    "id": "33.12.05.2011",
+    "name": "Banyakprodo"
   },
   {
     "id": "33.12.05.2002",
     "name": "Dlepih"
-  },
-  {
-    "id": "33.12.05.2003",
-    "name": "Wiroko"
-  },
-  {
-    "id": "33.12.05.2004",
-    "name": "Sukoharjo"
-  },
-  {
-    "id": "33.12.05.2005",
-    "name": "Hargorejo"
-  },
-  {
-    "id": "33.12.05.2006",
-    "name": "Sidorejo"
   },
   {
     "id": "33.12.05.2007",
@@ -36,12 +20,12 @@
     "name": "Hargantoro"
   },
   {
-    "id": "33.12.05.1010",
-    "name": "Tirtomoyo"
+    "id": "33.12.05.2005",
+    "name": "Hargorejo"
   },
   {
-    "id": "33.12.05.2011",
-    "name": "Banyakprodo"
+    "id": "33.12.05.2001",
+    "name": "Hargosari"
   },
   {
     "id": "33.12.05.1012",
@@ -52,7 +36,23 @@
     "name": "Sendangmulyo"
   },
   {
+    "id": "33.12.05.2006",
+    "name": "Sidorejo"
+  },
+  {
+    "id": "33.12.05.2004",
+    "name": "Sukoharjo"
+  },
+  {
     "id": "33.12.05.2014",
     "name": "Tanjungsari"
+  },
+  {
+    "id": "33.12.05.1010",
+    "name": "Tirtomoyo"
+  },
+  {
+    "id": "33.12.05.2003",
+    "name": "Wiroko"
   }
 ]

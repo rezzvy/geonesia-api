@@ -1,9 +1,5 @@
 [
   {
-    "id": "36.03.28.1001",
-    "name": "Kelapa Dua"
-  },
-  {
     "id": "36.03.28.1002",
     "name": "Bencongan"
   },
@@ -12,15 +8,19 @@
     "name": "Bencongan Indah"
   },
   {
-    "id": "36.03.28.1004",
-    "name": "Pakulonan Barat"
-  },
-  {
     "id": "36.03.28.1005",
     "name": "Bojong Nangka"
   },
   {
     "id": "36.03.28.2006",
     "name": "Curug Sangereng"
+  },
+  {
+    "id": "36.03.28.1001",
+    "name": "Kelapa Dua"
+  },
+  {
+    "id": "36.03.28.1004",
+    "name": "Pakulonan Barat"
   }
 ]

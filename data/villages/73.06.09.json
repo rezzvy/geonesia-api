@@ -1,7 +1,7 @@
 [
   {
-    "id": "73.06.09.1001",
-    "name": "Sapaya"
+    "id": "73.06.09.2004",
+    "name": "Bissoloro"
   },
   {
     "id": "73.06.09.2002",
@@ -12,19 +12,19 @@
     "name": "Buakkang"
   },
   {
-    "id": "73.06.09.2004",
-    "name": "Bissoloro"
-  },
-  {
     "id": "73.06.09.1010",
     "name": "Je'nebatu"
+  },
+  {
+    "id": "73.06.09.2012",
+    "name": "Mangempang"
   },
   {
     "id": "73.06.09.2011",
     "name": "Rannaloe"
   },
   {
-    "id": "73.06.09.2012",
-    "name": "Mangempang"
+    "id": "73.06.09.1001",
+    "name": "Sapaya"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": "92.10.18.2007",
+    "name": "Faitwosur/Angkasa Pura"
+  },
+  {
+    "id": "92.10.18.2004",
+    "name": "Isusu"
+  },
+  {
+    "id": "92.10.18.2003",
+    "name": "Kambuifa"
+  },
+  {
     "id": "92.10.18.2001",
     "name": "Kambuskato"
   },
@@ -8,23 +20,11 @@
     "name": "Kambuskato Utara"
   },
   {
-    "id": "92.10.18.2003",
-    "name": "Kambuifa"
-  },
-  {
-    "id": "92.10.18.2004",
-    "name": "Isusu"
-  },
-  {
     "id": "92.10.18.2005",
     "name": "Mano"
   },
   {
     "id": "92.10.18.2006",
     "name": "Sipat"
-  },
-  {
-    "id": "92.10.18.2007",
-    "name": "Faitwosur/Angkasa Pura"
   }
 ]

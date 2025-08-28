@@ -1,23 +1,19 @@
 [
   {
-    "id": "32.03.28.2001",
-    "name": "Cipanas"
-  },
-  {
-    "id": "32.03.28.2002",
-    "name": "Cimacan"
+    "id": "32.03.28.2005",
+    "name": "Batulawang"
   },
   {
     "id": "32.03.28.2003",
     "name": "Ciloto"
   },
   {
-    "id": "32.03.28.2004",
-    "name": "Sindanglaya"
+    "id": "32.03.28.2002",
+    "name": "Cimacan"
   },
   {
-    "id": "32.03.28.2005",
-    "name": "Batulawang"
+    "id": "32.03.28.2001",
+    "name": "Cipanas"
   },
   {
     "id": "32.03.28.2006",
@@ -26,5 +22,9 @@
   {
     "id": "32.03.28.2007",
     "name": "Sindangjaya"
+  },
+  {
+    "id": "32.03.28.2004",
+    "name": "Sindanglaya"
   }
 ]

@@ -1,5 +1,9 @@
 [
   {
+    "id": "18.04.08.2008",
+    "name": "Giham Sukamaju"
+  },
+  {
     "id": "18.04.08.2001",
     "name": "Pampangan"
   },
@@ -8,15 +12,11 @@
     "name": "Sekincau"
   },
   {
-    "id": "18.04.08.2006",
-    "name": "Waspada"
-  },
-  {
     "id": "18.04.08.2007",
     "name": "Tiga Jaya"
   },
   {
-    "id": "18.04.08.2008",
-    "name": "Giham Sukamaju"
+    "id": "18.04.08.2006",
+    "name": "Waspada"
   }
 ]

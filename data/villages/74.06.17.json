@@ -1,11 +1,15 @@
 [
   {
+    "id": "74.06.17.2002",
+    "name": "Batu Lamburi"
+  },
+  {
     "id": "74.06.17.2001",
     "name": "Masaloka"
   },
   {
-    "id": "74.06.17.2002",
-    "name": "Batu Lamburi"
+    "id": "74.06.17.2005",
+    "name": "Masaloka Barat"
   },
   {
     "id": "74.06.17.2003",
@@ -14,9 +18,5 @@
   {
     "id": "74.06.17.2004",
     "name": "Masaloka Timur"
-  },
-  {
-    "id": "74.06.17.2005",
-    "name": "Masaloka Barat"
   }
 ]

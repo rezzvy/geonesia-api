@@ -4,14 +4,6 @@
     "name": "Kampung Laut"
   },
   {
-    "id": "15.07.08.1002",
-    "name": "Tanjungsolok"
-  },
-  {
-    "id": "15.07.08.2003",
-    "name": "Teluk Majelis"
-  },
-  {
     "id": "15.07.08.2004",
     "name": "Kuala Lagan"
   },
@@ -22,5 +14,13 @@
   {
     "id": "15.07.08.2006",
     "name": "Manunggal Makmur"
+  },
+  {
+    "id": "15.07.08.1002",
+    "name": "Tanjungsolok"
+  },
+  {
+    "id": "15.07.08.2003",
+    "name": "Teluk Majelis"
   }
 ]

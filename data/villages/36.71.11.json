@@ -1,15 +1,7 @@
 [
   {
-    "id": "36.71.11.1001",
-    "name": "Pinang"
-  },
-  {
-    "id": "36.71.11.1002",
-    "name": "Sudimara Pinang"
-  },
-  {
-    "id": "36.71.11.1003",
-    "name": "Nerogtog"
+    "id": "36.71.11.1007",
+    "name": "Cipete"
   },
   {
     "id": "36.71.11.1004",
@@ -24,8 +16,8 @@
     "name": "Kunciran Jaya"
   },
   {
-    "id": "36.71.11.1007",
-    "name": "Cipete"
+    "id": "36.71.11.1003",
+    "name": "Nerogtog"
   },
   {
     "id": "36.71.11.1008",
@@ -36,11 +28,19 @@
     "name": "Panunggangan"
   },
   {
+    "id": "36.71.11.1011",
+    "name": "Panunggangan Timur"
+  },
+  {
     "id": "36.71.11.1010",
     "name": "Panunggangan Utara"
   },
   {
-    "id": "36.71.11.1011",
-    "name": "Panunggangan Timur"
+    "id": "36.71.11.1001",
+    "name": "Pinang"
+  },
+  {
+    "id": "36.71.11.1002",
+    "name": "Sudimara Pinang"
   }
 ]

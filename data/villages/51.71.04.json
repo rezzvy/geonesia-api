@@ -1,5 +1,9 @@
 [
   {
+    "id": "51.71.04.2003",
+    "name": "Dangin Puri Kaja"
+  },
+  {
     "id": "51.71.04.2001",
     "name": "Dangin Puri Kangin"
   },
@@ -8,28 +12,8 @@
     "name": "Dangin Puri Kauh"
   },
   {
-    "id": "51.71.04.2003",
-    "name": "Dangin Puri Kaja"
-  },
-  {
-    "id": "51.71.04.1004",
-    "name": "Tonja"
-  },
-  {
-    "id": "51.71.04.2005",
-    "name": "Pemecutan Kaja"
-  },
-  {
     "id": "51.71.04.2006",
     "name": "Dauh Puri Kaja"
-  },
-  {
-    "id": "51.71.04.1007",
-    "name": "Ubung"
-  },
-  {
-    "id": "51.71.04.2008",
-    "name": "Ubung Kaja"
   },
   {
     "id": "51.71.04.1009",
@@ -42,5 +26,21 @@
   {
     "id": "51.71.04.2011",
     "name": "Peguyangan Kangin"
+  },
+  {
+    "id": "51.71.04.2005",
+    "name": "Pemecutan Kaja"
+  },
+  {
+    "id": "51.71.04.1004",
+    "name": "Tonja"
+  },
+  {
+    "id": "51.71.04.1007",
+    "name": "Ubung"
+  },
+  {
+    "id": "51.71.04.2008",
+    "name": "Ubung Kaja"
   }
 ]

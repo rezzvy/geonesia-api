@@ -1,5 +1,9 @@
 [
   {
+    "id": "35.08.20.2005",
+    "name": "Alun-alun"
+  },
+  {
     "id": "35.08.20.2001",
     "name": "Jenggrong"
   },
@@ -8,16 +12,8 @@
     "name": "Meninjo"
   },
   {
-    "id": "35.08.20.2003",
-    "name": "Tegalbangsri"
-  },
-  {
-    "id": "35.08.20.2004",
-    "name": "Sumberpetung"
-  },
-  {
-    "id": "35.08.20.2005",
-    "name": "Alun-alun"
+    "id": "35.08.20.2009",
+    "name": "Penawungan"
   },
   {
     "id": "35.08.20.2006",
@@ -28,12 +24,12 @@
     "name": "Ranuyoso"
   },
   {
-    "id": "35.08.20.2008",
-    "name": "Wonoayu"
+    "id": "35.08.20.2004",
+    "name": "Sumberpetung"
   },
   {
-    "id": "35.08.20.2009",
-    "name": "Penawungan"
+    "id": "35.08.20.2003",
+    "name": "Tegalbangsri"
   },
   {
     "id": "35.08.20.2010",
@@ -42,5 +38,9 @@
   {
     "id": "35.08.20.2011",
     "name": "Wates Wetan"
+  },
+  {
+    "id": "35.08.20.2008",
+    "name": "Wonoayu"
   }
 ]

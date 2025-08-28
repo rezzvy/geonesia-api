@@ -1,7 +1,31 @@
 [
   {
+    "id": "33.20.08.2006",
+    "name": "Bangsri"
+  },
+  {
+    "id": "33.20.08.2012",
+    "name": "Banjaragung"
+  },
+  {
+    "id": "33.20.08.2007",
+    "name": "Banjaran"
+  },
+  {
+    "id": "33.20.08.2011",
+    "name": "Bondo"
+  },
+  {
     "id": "33.20.08.2001",
     "name": "Guyangan"
+  },
+  {
+    "id": "33.20.08.2010",
+    "name": "Jerukwangi"
+  },
+  {
+    "id": "33.20.08.2009",
+    "name": "Kedungleper"
   },
   {
     "id": "33.20.08.2002",
@@ -20,31 +44,7 @@
     "name": "Tengguli"
   },
   {
-    "id": "33.20.08.2006",
-    "name": "Bangsri"
-  },
-  {
-    "id": "33.20.08.2007",
-    "name": "Banjaran"
-  },
-  {
     "id": "33.20.08.2008",
     "name": "Wedelan"
-  },
-  {
-    "id": "33.20.08.2009",
-    "name": "Kedungleper"
-  },
-  {
-    "id": "33.20.08.2010",
-    "name": "Jerukwangi"
-  },
-  {
-    "id": "33.20.08.2011",
-    "name": "Bondo"
-  },
-  {
-    "id": "33.20.08.2012",
-    "name": "Banjaragung"
   }
 ]

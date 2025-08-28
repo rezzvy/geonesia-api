@@ -1,11 +1,15 @@
 [
   {
-    "id": "32.16.05.2001",
-    "name": "Satriajaya"
-  },
-  {
     "id": "32.16.05.2002",
     "name": "Jejalenjaya"
+  },
+  {
+    "id": "32.16.05.2008",
+    "name": "Karangsatria"
+  },
+  {
+    "id": "32.16.05.2001",
+    "name": "Satriajaya"
   },
   {
     "id": "32.16.05.2003",
@@ -16,10 +20,6 @@
     "name": "Sriamur"
   },
   {
-    "id": "32.16.05.2005",
-    "name": "Srimukti"
-  },
-  {
     "id": "32.16.05.2006",
     "name": "Srijaya"
   },
@@ -28,7 +28,7 @@
     "name": "Srimahi"
   },
   {
-    "id": "32.16.05.2008",
-    "name": "Karangsatria"
+    "id": "32.16.05.2005",
+    "name": "Srimukti"
   }
 ]

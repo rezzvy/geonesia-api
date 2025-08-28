@@ -3,12 +3,8 @@
   "province": "KALIMANTAN SELATAN",
   "city": [
     {
-      "id": "63.01",
-      "name": "KAB. TANAH LAUT"
-    },
-    {
-      "id": "63.02",
-      "name": "KAB. KOTABARU"
+      "id": "63.11",
+      "name": "KAB. BALANGAN"
     },
     {
       "id": "63.03",
@@ -17,10 +13,6 @@
     {
       "id": "63.04",
       "name": "KAB. BARITO KUALA"
-    },
-    {
-      "id": "63.05",
-      "name": "KAB. TAPIN"
     },
     {
       "id": "63.06",
@@ -35,6 +27,10 @@
       "name": "KAB. HULU SUNGAI UTARA"
     },
     {
+      "id": "63.02",
+      "name": "KAB. KOTABARU"
+    },
+    {
       "id": "63.09",
       "name": "KAB. TABALONG"
     },
@@ -43,16 +39,20 @@
       "name": "KAB. TANAH BUMBU"
     },
     {
-      "id": "63.11",
-      "name": "KAB. BALANGAN"
+      "id": "63.01",
+      "name": "KAB. TANAH LAUT"
     },
     {
-      "id": "63.71",
-      "name": "KOTA BANJARMASIN"
+      "id": "63.05",
+      "name": "KAB. TAPIN"
     },
     {
       "id": "63.72",
       "name": "KOTA BANJARBARU"
+    },
+    {
+      "id": "63.71",
+      "name": "KOTA BANJARMASIN"
     }
   ]
 }

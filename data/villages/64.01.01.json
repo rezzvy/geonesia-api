@@ -1,27 +1,19 @@
 [
   {
-    "id": "64.01.01.2009",
-    "name": "Samuranggau"
+    "id": "64.01.01.2011",
+    "name": "Batu Kajang"
   },
   {
     "id": "64.01.01.2010",
     "name": "Busui"
   },
   {
-    "id": "64.01.01.2011",
-    "name": "Batu Kajang"
+    "id": "64.01.01.2014",
+    "name": "Kasungai"
   },
   {
     "id": "64.01.01.2012",
     "name": "Legai"
-  },
-  {
-    "id": "64.01.01.2013",
-    "name": "Sungai Terik"
-  },
-  {
-    "id": "64.01.01.2014",
-    "name": "Kasungai"
   },
   {
     "id": "64.01.01.2015",
@@ -32,7 +24,15 @@
     "name": "Rantau Layung"
   },
   {
+    "id": "64.01.01.2009",
+    "name": "Samuranggau"
+  },
+  {
     "id": "64.01.01.2017",
     "name": "Songka"
+  },
+  {
+    "id": "64.01.01.2013",
+    "name": "Sungai Terik"
   }
 ]

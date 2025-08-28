@@ -1,5 +1,37 @@
 [
   {
+    "id": "35.29.05.2007",
+    "name": "Aeng Baja Kenek"
+  },
+  {
+    "id": "35.29.05.2013",
+    "name": "Aeng Baja Raja"
+  },
+  {
+    "id": "35.29.05.2006",
+    "name": "Aeng Dake"
+  },
+  {
+    "id": "35.29.05.2008",
+    "name": "Bluto"
+  },
+  {
+    "id": "35.29.05.2010",
+    "name": "Bumbungan"
+  },
+  {
+    "id": "35.29.05.2019",
+    "name": "Errabu"
+  },
+  {
+    "id": "35.29.05.2020",
+    "name": "Gilang"
+  },
+  {
+    "id": "35.29.05.2018",
+    "name": "Gingging"
+  },
+  {
     "id": "35.29.05.2001",
     "name": "Guluk Manjung"
   },
@@ -8,52 +40,32 @@
     "name": "Kapedi"
   },
   {
-    "id": "35.29.05.2003",
-    "name": "Pakandangan Barat"
-  },
-  {
-    "id": "35.29.05.2004",
-    "name": "Pakandangan Tengah"
-  },
-  {
-    "id": "35.29.05.2005",
-    "name": "Pakandangan Sangra"
-  },
-  {
-    "id": "35.29.05.2006",
-    "name": "Aeng Dake"
-  },
-  {
-    "id": "35.29.05.2007",
-    "name": "Aeng Baja Kenek"
-  },
-  {
-    "id": "35.29.05.2008",
-    "name": "Bluto"
+    "id": "35.29.05.2014",
+    "name": "Karang Campaka"
   },
   {
     "id": "35.29.05.2009",
     "name": "Lobuk"
   },
   {
-    "id": "35.29.05.2010",
-    "name": "Bumbungan"
-  },
-  {
     "id": "35.29.05.2011",
     "name": "Masaran"
   },
   {
+    "id": "35.29.05.2003",
+    "name": "Pakandangan Barat"
+  },
+  {
+    "id": "35.29.05.2005",
+    "name": "Pakandangan Sangra"
+  },
+  {
+    "id": "35.29.05.2004",
+    "name": "Pakandangan Tengah"
+  },
+  {
     "id": "35.29.05.2012",
     "name": "Palongan"
-  },
-  {
-    "id": "35.29.05.2013",
-    "name": "Aeng Baja Raja"
-  },
-  {
-    "id": "35.29.05.2014",
-    "name": "Karang Campaka"
   },
   {
     "id": "35.29.05.2015",
@@ -66,17 +78,5 @@
   {
     "id": "35.29.05.2017",
     "name": "Sera Timur"
-  },
-  {
-    "id": "35.29.05.2018",
-    "name": "Gingging"
-  },
-  {
-    "id": "35.29.05.2019",
-    "name": "Errabu"
-  },
-  {
-    "id": "35.29.05.2020",
-    "name": "Gilang"
   }
 ]

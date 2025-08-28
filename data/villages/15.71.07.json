@@ -1,22 +1,22 @@
 [
   {
-    "id": "15.71.07.1001",
-    "name": "Suka Karya"
-  },
-  {
-    "id": "15.71.07.1002",
-    "name": "Simpang III Sipin"
-  },
-  {
-    "id": "15.71.07.1004",
-    "name": "Paal Lima"
+    "id": "15.71.07.1006",
+    "name": "Kenali Asam Atas"
   },
   {
     "id": "15.71.07.1005",
     "name": "Kenali Asam Bawah"
   },
   {
-    "id": "15.71.07.1006",
-    "name": "Kenali Asam Atas"
+    "id": "15.71.07.1004",
+    "name": "Paal Lima"
+  },
+  {
+    "id": "15.71.07.1002",
+    "name": "Simpang III Sipin"
+  },
+  {
+    "id": "15.71.07.1001",
+    "name": "Suka Karya"
   }
 ]

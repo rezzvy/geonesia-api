@@ -8,18 +8,6 @@
     "name": "Bataal Timur"
   },
   {
-    "id": "35.29.10.2003",
-    "name": "Rombiya Barat"
-  },
-  {
-    "id": "35.29.10.2004",
-    "name": "Rombiya Timur"
-  },
-  {
-    "id": "35.29.10.2005",
-    "name": "Talaga"
-  },
-  {
     "id": "35.29.10.2006",
     "name": "Billapora Barat"
   },
@@ -28,16 +16,24 @@
     "name": "Billapora Timur"
   },
   {
-    "id": "35.29.10.2008",
-    "name": "Ganding"
+    "id": "35.29.10.2010",
+    "name": "Gadu Barat"
   },
   {
     "id": "35.29.10.2009",
     "name": "Gadu Timur"
   },
   {
-    "id": "35.29.10.2010",
-    "name": "Gadu Barat"
+    "id": "35.29.10.2008",
+    "name": "Ganding"
+  },
+  {
+    "id": "35.29.10.2013",
+    "name": "Ketawang Daleman"
+  },
+  {
+    "id": "35.29.10.2014",
+    "name": "Ketawang Karay"
   },
   {
     "id": "35.29.10.2011",
@@ -48,11 +44,15 @@
     "name": "Ketawang Parebaan"
   },
   {
-    "id": "35.29.10.2013",
-    "name": "Ketawang Daleman"
+    "id": "35.29.10.2003",
+    "name": "Rombiya Barat"
   },
   {
-    "id": "35.29.10.2014",
-    "name": "Ketawang Karay"
+    "id": "35.29.10.2004",
+    "name": "Rombiya Timur"
+  },
+  {
+    "id": "35.29.10.2005",
+    "name": "Talaga"
   }
 ]

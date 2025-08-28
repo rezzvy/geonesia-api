@@ -4,35 +4,35 @@
     "name": "Borong"
   },
   {
-    "id": "53.19.02",
-    "name": "Poco Ranaka"
-  },
-  {
-    "id": "53.19.03",
-    "name": "Lamba Leda"
-  },
-  {
-    "id": "53.19.04",
-    "name": "Sambi Rampas"
-  },
-  {
     "id": "53.19.05",
     "name": "Elar"
+  },
+  {
+    "id": "53.19.09",
+    "name": "Elar Selatan"
   },
   {
     "id": "53.19.06",
     "name": "Kota Komba"
   },
   {
-    "id": "53.19.07",
-    "name": "Rana Mese"
+    "id": "53.19.03",
+    "name": "Lamba Leda"
+  },
+  {
+    "id": "53.19.02",
+    "name": "Poco Ranaka"
   },
   {
     "id": "53.19.08",
     "name": "Poco Ranaka Timur"
   },
   {
-    "id": "53.19.09",
-    "name": "Elar Selatan"
+    "id": "53.19.07",
+    "name": "Rana Mese"
+  },
+  {
+    "id": "53.19.04",
+    "name": "Sambi Rampas"
   }
 ]

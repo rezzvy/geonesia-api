@@ -1,41 +1,5 @@
 [
   {
-    "id": "33.02.21.2001",
-    "name": "Silado"
-  },
-  {
-    "id": "33.02.21.2002",
-    "name": "Karangturi"
-  },
-  {
-    "id": "33.02.21.2003",
-    "name": "Karangcegak"
-  },
-  {
-    "id": "33.02.21.2004",
-    "name": "Sumbang"
-  },
-  {
-    "id": "33.02.21.2005",
-    "name": "Tambaksogra"
-  },
-  {
-    "id": "33.02.21.2006",
-    "name": "Kebanggan"
-  },
-  {
-    "id": "33.02.21.2007",
-    "name": "Kawungcarang"
-  },
-  {
-    "id": "33.02.21.2008",
-    "name": "Karanggintung"
-  },
-  {
-    "id": "33.02.21.2009",
-    "name": "Datar"
-  },
-  {
     "id": "33.02.21.2010",
     "name": "Banjarsari Kulon"
   },
@@ -52,16 +16,36 @@
     "name": "Ciberem"
   },
   {
-    "id": "33.02.21.2014",
-    "name": "Susukan"
-  },
-  {
-    "id": "33.02.21.2015",
-    "name": "Sikapat"
+    "id": "33.02.21.2009",
+    "name": "Datar"
   },
   {
     "id": "33.02.21.2016",
     "name": "Gandatapa"
+  },
+  {
+    "id": "33.02.21.2003",
+    "name": "Karangcegak"
+  },
+  {
+    "id": "33.02.21.2008",
+    "name": "Karanggintung"
+  },
+  {
+    "id": "33.02.21.2002",
+    "name": "Karangturi"
+  },
+  {
+    "id": "33.02.21.2007",
+    "name": "Kawungcarang"
+  },
+  {
+    "id": "33.02.21.2006",
+    "name": "Kebanggan"
+  },
+  {
+    "id": "33.02.21.2019",
+    "name": "Kedungmalang"
   },
   {
     "id": "33.02.21.2017",
@@ -72,7 +56,23 @@
     "name": "Limpakuwus"
   },
   {
-    "id": "33.02.21.2019",
-    "name": "Kedungmalang"
+    "id": "33.02.21.2015",
+    "name": "Sikapat"
+  },
+  {
+    "id": "33.02.21.2001",
+    "name": "Silado"
+  },
+  {
+    "id": "33.02.21.2004",
+    "name": "Sumbang"
+  },
+  {
+    "id": "33.02.21.2014",
+    "name": "Susukan"
+  },
+  {
+    "id": "33.02.21.2005",
+    "name": "Tambaksogra"
   }
 ]

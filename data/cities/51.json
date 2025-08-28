@@ -3,36 +3,36 @@
   "province": "BALI",
   "city": [
     {
-      "id": "51.01",
-      "name": "KAB. JEMBRANA"
-    },
-    {
-      "id": "51.02",
-      "name": "KAB. TABANAN"
-    },
-    {
       "id": "51.03",
       "name": "KAB. BADUNG"
-    },
-    {
-      "id": "51.04",
-      "name": "KAB. GIANYAR"
-    },
-    {
-      "id": "51.05",
-      "name": "KAB. KLUNGKUNG"
     },
     {
       "id": "51.06",
       "name": "KAB. BANGLI"
     },
     {
+      "id": "51.08",
+      "name": "KAB. BULELENG"
+    },
+    {
+      "id": "51.04",
+      "name": "KAB. GIANYAR"
+    },
+    {
+      "id": "51.01",
+      "name": "KAB. JEMBRANA"
+    },
+    {
       "id": "51.07",
       "name": "KAB. KARANGASEM"
     },
     {
-      "id": "51.08",
-      "name": "KAB. BULELENG"
+      "id": "51.05",
+      "name": "KAB. KLUNGKUNG"
+    },
+    {
+      "id": "51.02",
+      "name": "KAB. TABANAN"
     },
     {
       "id": "51.71",

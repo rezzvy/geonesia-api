@@ -1,15 +1,11 @@
 [
   {
-    "id": "32.13.01.2003",
-    "name": "Sukamandi"
-  },
-  {
     "id": "32.13.01.2004",
     "name": "Cicadas"
   },
   {
-    "id": "32.13.01.2005",
-    "name": "Sagalaherang Kidul"
+    "id": "32.13.01.2010",
+    "name": "Curugagung"
   },
   {
     "id": "32.13.01.2006",
@@ -20,11 +16,15 @@
     "name": "Leles"
   },
   {
-    "id": "32.13.01.2010",
-    "name": "Curugagung"
-  },
-  {
     "id": "32.13.01.2011",
     "name": "Sagalaherang Kaler"
+  },
+  {
+    "id": "32.13.01.2005",
+    "name": "Sagalaherang Kidul"
+  },
+  {
+    "id": "32.13.01.2003",
+    "name": "Sukamandi"
   }
 ]

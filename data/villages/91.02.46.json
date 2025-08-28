@@ -1,34 +1,34 @@
 [
   {
-    "id": "91.02.46.2001",
-    "name": "Tailarek"
-  },
-  {
-    "id": "91.02.46.2002",
-    "name": "Senogolik"
-  },
-  {
     "id": "91.02.46.2003",
     "name": "Bokiem"
-  },
-  {
-    "id": "91.02.46.2004",
-    "name": "Iyora"
   },
   {
     "id": "91.02.46.2005",
     "name": "Budliem"
   },
   {
-    "id": "91.02.46.2006",
-    "name": "Yoman Weya"
+    "id": "91.02.46.2008",
+    "name": "Entagekokma"
   },
   {
     "id": "91.02.46.2007",
     "name": "Huluaima"
   },
   {
-    "id": "91.02.46.2008",
-    "name": "Entagekokma"
+    "id": "91.02.46.2004",
+    "name": "Iyora"
+  },
+  {
+    "id": "91.02.46.2002",
+    "name": "Senogolik"
+  },
+  {
+    "id": "91.02.46.2001",
+    "name": "Tailarek"
+  },
+  {
+    "id": "91.02.46.2006",
+    "name": "Yoman Weya"
   }
 ]

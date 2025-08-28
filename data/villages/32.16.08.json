@@ -1,15 +1,7 @@
 [
   {
-    "id": "32.16.08.2001",
-    "name": "Telagamurni"
-  },
-  {
-    "id": "32.16.08.2002",
-    "name": "Mekarwangi"
-  },
-  {
-    "id": "32.16.08.2003",
-    "name": "Jatiwangi"
+    "id": "32.16.08.2011",
+    "name": "Cikedokan"
   },
   {
     "id": "32.16.08.2004",
@@ -24,6 +16,18 @@
     "name": "Gandasari"
   },
   {
+    "id": "32.16.08.2003",
+    "name": "Jatiwangi"
+  },
+  {
+    "id": "32.16.08.2009",
+    "name": "Kalijaya"
+  },
+  {
+    "id": "32.16.08.2002",
+    "name": "Mekarwangi"
+  },
+  {
     "id": "32.16.08.2007",
     "name": "Sukadanau"
   },
@@ -32,15 +36,11 @@
     "name": "Telaga Asih"
   },
   {
-    "id": "32.16.08.2009",
-    "name": "Kalijaya"
+    "id": "32.16.08.2001",
+    "name": "Telagamurni"
   },
   {
     "id": "32.16.08.2010",
     "name": "Telajung"
-  },
-  {
-    "id": "32.16.08.2011",
-    "name": "Cikedokan"
   }
 ]

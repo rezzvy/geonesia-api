@@ -1,23 +1,39 @@
 [
   {
-    "id": "18.08.01.2001",
-    "name": "Rambang Jaya"
+    "id": "18.08.01.1005",
+    "name": "Blambangan Umpu"
   },
   {
-    "id": "18.08.01.2002",
-    "name": "Gistang"
+    "id": "18.08.01.2020",
+    "name": "Brata Yudha"
   },
   {
-    "id": "18.08.01.2003",
-    "name": "Sidoarjo"
+    "id": "18.08.01.2014",
+    "name": "Bumi Baru"
   },
   {
     "id": "18.08.01.2004",
     "name": "Bumi Ratu"
   },
   {
-    "id": "18.08.01.1005",
-    "name": "Blambangan Umpu"
+    "id": "18.08.01.2021",
+    "name": "Gedung Batin"
+  },
+  {
+    "id": "18.08.01.2025",
+    "name": "Gedung Riang"
+  },
+  {
+    "id": "18.08.01.2002",
+    "name": "Gistang"
+  },
+  {
+    "id": "18.08.01.2009",
+    "name": "Gunung Sangkaran"
+  },
+  {
+    "id": "18.08.01.2017",
+    "name": "Karang Umpu"
   },
   {
     "id": "18.08.01.2006",
@@ -32,75 +48,59 @@
     "name": "Negeri Batin"
   },
   {
-    "id": "18.08.01.2009",
-    "name": "Gunung Sangkaran"
-  },
-  {
-    "id": "18.08.01.2010",
-    "name": "Tanjung Raja Giham"
-  },
-  {
-    "id": "18.08.01.2011",
-    "name": "Segara Mider"
-  },
-  {
-    "id": "18.08.01.2012",
-    "name": "Umpu Bhakti"
-  },
-  {
-    "id": "18.08.01.2013",
-    "name": "Sangkaran Bhakti"
-  },
-  {
-    "id": "18.08.01.2014",
-    "name": "Bumi Baru"
-  },
-  {
-    "id": "18.08.01.2015",
-    "name": "Tanjung Sari"
-  },
-  {
-    "id": "18.08.01.2016",
-    "name": "Sri Rejeki"
-  },
-  {
-    "id": "18.08.01.2017",
-    "name": "Karang Umpu"
-  },
-  {
-    "id": "18.08.01.2018",
-    "name": "Umpu Kencana"
-  },
-  {
-    "id": "18.08.01.2019",
-    "name": "Sriwijaya"
-  },
-  {
-    "id": "18.08.01.2020",
-    "name": "Brata Yudha"
-  },
-  {
-    "id": "18.08.01.2021",
-    "name": "Gedung Batin"
-  },
-  {
-    "id": "18.08.01.2022",
-    "name": "Tanjung Raja Sakti"
-  },
-  {
     "id": "18.08.01.2023",
     "name": "Negeri Bumi Putra"
+  },
+  {
+    "id": "18.08.01.2026",
+    "name": "Ojo Lali"
   },
   {
     "id": "18.08.01.2024",
     "name": "Panca Negeri"
   },
   {
-    "id": "18.08.01.2025",
-    "name": "Gedung Riang"
+    "id": "18.08.01.2001",
+    "name": "Rambang Jaya"
   },
   {
-    "id": "18.08.01.2026",
-    "name": "Ojo Lali"
+    "id": "18.08.01.2013",
+    "name": "Sangkaran Bhakti"
+  },
+  {
+    "id": "18.08.01.2011",
+    "name": "Segara Mider"
+  },
+  {
+    "id": "18.08.01.2003",
+    "name": "Sidoarjo"
+  },
+  {
+    "id": "18.08.01.2016",
+    "name": "Sri Rejeki"
+  },
+  {
+    "id": "18.08.01.2019",
+    "name": "Sriwijaya"
+  },
+  {
+    "id": "18.08.01.2010",
+    "name": "Tanjung Raja Giham"
+  },
+  {
+    "id": "18.08.01.2022",
+    "name": "Tanjung Raja Sakti"
+  },
+  {
+    "id": "18.08.01.2015",
+    "name": "Tanjung Sari"
+  },
+  {
+    "id": "18.08.01.2012",
+    "name": "Umpu Bhakti"
+  },
+  {
+    "id": "18.08.01.2018",
+    "name": "Umpu Kencana"
   }
 ]

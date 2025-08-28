@@ -1,67 +1,19 @@
 [
   {
-    "id": "11.16.04.2002",
-    "name": "Pekan Seruway"
-  },
-  {
-    "id": "11.16.04.2003",
-    "name": "Binjai"
-  },
-  {
-    "id": "11.16.04.2004",
-    "name": "Pantai Balai"
-  },
-  {
-    "id": "11.16.04.2005",
-    "name": "Padang Langgis"
-  },
-  {
-    "id": "11.16.04.2006",
-    "name": "Sukaramai Satu"
-  },
-  {
-    "id": "11.16.04.2007",
-    "name": "Sukaramai Dua"
-  },
-  {
-    "id": "11.16.04.2008",
-    "name": "Perkebunan Seruway"
-  },
-  {
-    "id": "11.16.04.2009",
-    "name": "Gedung Biara"
+    "id": "11.16.04.2013",
+    "name": "Air Masin"
   },
   {
     "id": "11.16.04.2010",
     "name": "Alur Alim"
   },
   {
-    "id": "11.16.04.2011",
-    "name": "Tualang"
+    "id": "11.16.04.2003",
+    "name": "Binjai"
   },
   {
-    "id": "11.16.04.2012",
-    "name": "Matang Sentang"
-  },
-  {
-    "id": "11.16.04.2013",
-    "name": "Air Masin"
-  },
-  {
-    "id": "11.16.04.2014",
-    "name": "Sidodadi"
-  },
-  {
-    "id": "11.16.04.2015",
-    "name": "Perk. Gedung Biara"
-  },
-  {
-    "id": "11.16.04.2016",
-    "name": "Muka Sungai Kuruk"
-  },
-  {
-    "id": "11.16.04.2017",
-    "name": "Paya Udang"
+    "id": "11.16.04.2009",
+    "name": "Gedung Biara"
   },
   {
     "id": "11.16.04.2018",
@@ -74,6 +26,54 @@
   {
     "id": "11.16.04.2020",
     "name": "Kuala Pusung Kapal"
+  },
+  {
+    "id": "11.16.04.2025",
+    "name": "Lubuk Damar"
+  },
+  {
+    "id": "11.16.04.2012",
+    "name": "Matang Sentang"
+  },
+  {
+    "id": "11.16.04.2016",
+    "name": "Muka Sungai Kuruk"
+  },
+  {
+    "id": "11.16.04.2005",
+    "name": "Padang Langgis"
+  },
+  {
+    "id": "11.16.04.2004",
+    "name": "Pantai Balai"
+  },
+  {
+    "id": "11.16.04.2017",
+    "name": "Paya Udang"
+  },
+  {
+    "id": "11.16.04.2002",
+    "name": "Pekan Seruway"
+  },
+  {
+    "id": "11.16.04.2015",
+    "name": "Perk. Gedung Biara"
+  },
+  {
+    "id": "11.16.04.2008",
+    "name": "Perkebunan Seruway"
+  },
+  {
+    "id": "11.16.04.2014",
+    "name": "Sidodadi"
+  },
+  {
+    "id": "11.16.04.2007",
+    "name": "Sukaramai Dua"
+  },
+  {
+    "id": "11.16.04.2006",
+    "name": "Sukaramai Satu"
   },
   {
     "id": "11.16.04.2021",
@@ -92,7 +92,7 @@
     "name": "Tangsi Lama"
   },
   {
-    "id": "11.16.04.2025",
-    "name": "Lubuk Damar"
+    "id": "11.16.04.2011",
+    "name": "Tualang"
   }
 ]

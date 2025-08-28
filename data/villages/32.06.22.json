@@ -1,5 +1,13 @@
 [
   {
+    "id": "32.06.22.2011",
+    "name": "Batusumur"
+  },
+  {
+    "id": "32.06.22.2004",
+    "name": "Cibeber"
+  },
+  {
     "id": "32.06.22.2001",
     "name": "Cihaur"
   },
@@ -8,12 +16,12 @@
     "name": "Cilangkap"
   },
   {
-    "id": "32.06.22.2003",
-    "name": "Pasirpanjang"
+    "id": "32.06.22.2012",
+    "name": "Gunajaya"
   },
   {
-    "id": "32.06.22.2004",
-    "name": "Cibeber"
+    "id": "32.06.22.2009",
+    "name": "Kalimanggis"
   },
   {
     "id": "32.06.22.2005",
@@ -24,6 +32,10 @@
     "name": "Manonjaya"
   },
   {
+    "id": "32.06.22.2010",
+    "name": "Margahayu"
+  },
+  {
     "id": "32.06.22.2007",
     "name": "Margaluyu"
   },
@@ -32,19 +44,7 @@
     "name": "Pasirbatang"
   },
   {
-    "id": "32.06.22.2009",
-    "name": "Kalimanggis"
-  },
-  {
-    "id": "32.06.22.2010",
-    "name": "Margahayu"
-  },
-  {
-    "id": "32.06.22.2011",
-    "name": "Batusumur"
-  },
-  {
-    "id": "32.06.22.2012",
-    "name": "Gunajaya"
+    "id": "32.06.22.2003",
+    "name": "Pasirpanjang"
   }
 ]

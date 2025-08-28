@@ -1,23 +1,11 @@
 [
   {
-    "id": "63.04.07.2001",
-    "name": "Sungai Pantai"
+    "id": "63.04.07.2009",
+    "name": "Danda Jaya"
   },
   {
     "id": "63.04.07.2002",
     "name": "Pindahan Baru"
-  },
-  {
-    "id": "63.04.07.2003",
-    "name": "Sungai Gampa Asahi"
-  },
-  {
-    "id": "63.04.07.2004",
-    "name": "Sungai Gampa"
-  },
-  {
-    "id": "63.04.07.2005",
-    "name": "Sungai Sahurai"
   },
   {
     "id": "63.04.07.2006",
@@ -32,7 +20,19 @@
     "name": "Sungai Bamban"
   },
   {
-    "id": "63.04.07.2009",
-    "name": "Danda Jaya"
+    "id": "63.04.07.2004",
+    "name": "Sungai Gampa"
+  },
+  {
+    "id": "63.04.07.2003",
+    "name": "Sungai Gampa Asahi"
+  },
+  {
+    "id": "63.04.07.2001",
+    "name": "Sungai Pantai"
+  },
+  {
+    "id": "63.04.07.2005",
+    "name": "Sungai Sahurai"
   }
 ]

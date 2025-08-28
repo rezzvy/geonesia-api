@@ -1,46 +1,46 @@
 [
   {
-    "id": "91.02.01.1001",
-    "name": "Wamena Kota"
-  },
-  {
-    "id": "91.02.01.2015",
-    "name": "Honelama"
-  },
-  {
-    "id": "91.02.01.2025",
-    "name": "Hulekama"
+    "id": "91.02.01.2037",
+    "name": "Autakma"
   },
   {
     "id": "91.02.01.2034",
     "name": "Batu Merah"
   },
   {
-    "id": "91.02.01.2037",
-    "name": "Autakma"
+    "id": "91.02.01.2059",
+    "name": "Honaima"
   },
   {
-    "id": "91.02.01.1056",
-    "name": "Sinapuk"
-  },
-  {
-    "id": "91.02.01.1057",
-    "name": "Sinakma"
+    "id": "91.02.01.2015",
+    "name": "Honelama"
   },
   {
     "id": "91.02.01.2058",
     "name": "Honelama Dua"
   },
   {
-    "id": "91.02.01.2059",
-    "name": "Honaima"
+    "id": "91.02.01.2025",
+    "name": "Hulekama"
   },
   {
     "id": "91.02.01.2060",
     "name": "Lanitipo"
   },
   {
+    "id": "91.02.01.1057",
+    "name": "Sinakma"
+  },
+  {
+    "id": "91.02.01.1056",
+    "name": "Sinapuk"
+  },
+  {
     "id": "91.02.01.2061",
     "name": "Wamaroma"
+  },
+  {
+    "id": "91.02.01.1001",
+    "name": "Wamena Kota"
   }
 ]

@@ -1,15 +1,11 @@
 [
   {
-    "id": "17.03.10.2008",
-    "name": "Datar Lebar"
-  },
-  {
     "id": "17.03.10.2009",
     "name": "Air Padang"
   },
   {
-    "id": "17.03.10.1010",
-    "name": "Pasar Lais"
+    "id": "17.03.10.2008",
+    "name": "Datar Lebar"
   },
   {
     "id": "17.03.10.2011",
@@ -20,6 +16,18 @@
     "name": "Dusun Raja"
   },
   {
+    "id": "17.03.10.2015",
+    "name": "Jagobayo"
+  },
+  {
+    "id": "17.03.10.2021",
+    "name": "Kalbang"
+  },
+  {
+    "id": "17.03.10.2018",
+    "name": "Lubuk Gedang"
+  },
+  {
     "id": "17.03.10.2013",
     "name": "Lubuk Lesung"
   },
@@ -28,16 +36,8 @@
     "name": "Pal 30"
   },
   {
-    "id": "17.03.10.2015",
-    "name": "Jagobayo"
-  },
-  {
-    "id": "17.03.10.2017",
-    "name": "Talang Rasau"
-  },
-  {
-    "id": "17.03.10.2018",
-    "name": "Lubuk Gedang"
+    "id": "17.03.10.1010",
+    "name": "Pasar Lais"
   },
   {
     "id": "17.03.10.2019",
@@ -48,7 +48,7 @@
     "name": "Taba Baru"
   },
   {
-    "id": "17.03.10.2021",
-    "name": "Kalbang"
+    "id": "17.03.10.2017",
+    "name": "Talang Rasau"
   }
 ]

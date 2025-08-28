@@ -1,9 +1,5 @@
 [
   {
-    "id": "32.08.25.2001",
-    "name": "Legokherang"
-  },
-  {
     "id": "32.08.25.2002",
     "name": "Bungurberes"
   },
@@ -12,19 +8,23 @@
     "name": "Cilebak"
   },
   {
+    "id": "32.08.25.2007",
+    "name": "Cilimusari"
+  },
+  {
     "id": "32.08.25.2004",
     "name": "Jalatrang"
   },
   {
-    "id": "32.08.25.2005",
-    "name": "Patala"
+    "id": "32.08.25.2001",
+    "name": "Legokherang"
   },
   {
     "id": "32.08.25.2006",
     "name": "Madapajaya"
   },
   {
-    "id": "32.08.25.2007",
-    "name": "Cilimusari"
+    "id": "32.08.25.2005",
+    "name": "Patala"
   }
 ]

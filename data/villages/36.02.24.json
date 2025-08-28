@@ -1,5 +1,17 @@
 [
   {
+    "id": "36.02.24.2004",
+    "name": "Aweh"
+  },
+  {
+    "id": "36.02.24.2007",
+    "name": "Cikatapis"
+  },
+  {
+    "id": "36.02.24.2003",
+    "name": "Cilangkap"
+  },
+  {
     "id": "36.02.24.2001",
     "name": "Kalanganyar"
   },
@@ -8,23 +20,11 @@
     "name": "Pasirkupa"
   },
   {
-    "id": "36.02.24.2003",
-    "name": "Cilangkap"
-  },
-  {
-    "id": "36.02.24.2004",
-    "name": "Aweh"
-  },
-  {
     "id": "36.02.24.2005",
     "name": "Sangiangtanjung"
   },
   {
     "id": "36.02.24.2006",
     "name": "Sukamekarsari"
-  },
-  {
-    "id": "36.02.24.2007",
-    "name": "Cikatapis"
   }
 ]

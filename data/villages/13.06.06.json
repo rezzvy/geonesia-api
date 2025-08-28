@@ -1,15 +1,7 @@
 [
   {
-    "id": "13.06.06.2001",
-    "name": "Padang Lua"
-  },
-  {
-    "id": "13.06.06.2002",
-    "name": "Taluak Ampek Suku"
-  },
-  {
-    "id": "13.06.06.2003",
-    "name": "Pakan Sinayan"
+    "id": "13.06.06.2006",
+    "name": "Cingkariang"
   },
   {
     "id": "13.06.06.2004",
@@ -20,11 +12,19 @@
     "name": "Ladang Laweh"
   },
   {
-    "id": "13.06.06.2006",
-    "name": "Cingkariang"
+    "id": "13.06.06.2001",
+    "name": "Padang Lua"
+  },
+  {
+    "id": "13.06.06.2003",
+    "name": "Pakan Sinayan"
   },
   {
     "id": "13.06.06.2007",
     "name": "Sungai Tanang"
+  },
+  {
+    "id": "13.06.06.2002",
+    "name": "Taluak Ampek Suku"
   }
 ]

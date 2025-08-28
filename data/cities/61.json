@@ -3,52 +3,52 @@
   "province": "KALIMANTAN BARAT",
   "city": [
     {
-      "id": "61.01",
-      "name": "KAB. SAMBAS"
-    },
-    {
-      "id": "61.02",
-      "name": "KAB. MEMPAWAH"
-    },
-    {
-      "id": "61.03",
-      "name": "KAB. SANGGAU"
-    },
-    {
-      "id": "61.04",
-      "name": "KAB. KETAPANG"
-    },
-    {
-      "id": "61.05",
-      "name": "KAB. SINTANG"
+      "id": "61.07",
+      "name": "KAB. BENGKAYANG"
     },
     {
       "id": "61.06",
       "name": "KAB. KAPUAS HULU"
     },
     {
-      "id": "61.07",
-      "name": "KAB. BENGKAYANG"
+      "id": "61.11",
+      "name": "KAB. KAYONG UTARA"
+    },
+    {
+      "id": "61.04",
+      "name": "KAB. KETAPANG"
+    },
+    {
+      "id": "61.12",
+      "name": "KAB. KUBU RAYA"
     },
     {
       "id": "61.08",
       "name": "KAB. LANDAK"
     },
     {
-      "id": "61.09",
-      "name": "KAB. SEKADAU"
-    },
-    {
       "id": "61.10",
       "name": "KAB. MELAWI"
     },
     {
-      "id": "61.11",
-      "name": "KAB. KAYONG UTARA"
+      "id": "61.02",
+      "name": "KAB. MEMPAWAH"
     },
     {
-      "id": "61.12",
-      "name": "KAB. KUBU RAYA"
+      "id": "61.01",
+      "name": "KAB. SAMBAS"
+    },
+    {
+      "id": "61.03",
+      "name": "KAB. SANGGAU"
+    },
+    {
+      "id": "61.09",
+      "name": "KAB. SEKADAU"
+    },
+    {
+      "id": "61.05",
+      "name": "KAB. SINTANG"
     },
     {
       "id": "61.71",

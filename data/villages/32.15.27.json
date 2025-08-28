@@ -1,5 +1,13 @@
 [
   {
+    "id": "32.15.27.2003",
+    "name": "Kalangligar"
+  },
+  {
+    "id": "32.15.27.2006",
+    "name": "Karangmulya"
+  },
+  {
     "id": "32.15.27.2001",
     "name": "Margakaya"
   },
@@ -8,35 +16,27 @@
     "name": "Margamulya"
   },
   {
-    "id": "32.15.27.2003",
-    "name": "Kalangligar"
-  },
-  {
     "id": "32.15.27.2004",
     "name": "Mekarmulya"
+  },
+  {
+    "id": "32.15.27.2010",
+    "name": "Mulyajaya"
   },
   {
     "id": "32.15.27.2005",
     "name": "Parungsari"
   },
   {
-    "id": "32.15.27.2006",
-    "name": "Karangmulya"
-  },
-  {
-    "id": "32.15.27.2007",
-    "name": "Wanasari"
+    "id": "32.15.27.2009",
+    "name": "Wanajaya"
   },
   {
     "id": "32.15.27.2008",
     "name": "Wanakerta"
   },
   {
-    "id": "32.15.27.2009",
-    "name": "Wanajaya"
-  },
-  {
-    "id": "32.15.27.2010",
-    "name": "Mulyajaya"
+    "id": "32.15.27.2007",
+    "name": "Wanasari"
   }
 ]

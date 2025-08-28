@@ -1,23 +1,19 @@
 [
   {
-    "id": "53.09.12.2001",
-    "name": "Watumanu"
-  },
-  {
-    "id": "53.09.12.2002",
-    "name": "Tiworiwu"
+    "id": "53.09.12.2015",
+    "name": "Batajawa"
   },
   {
     "id": "53.09.12.2003",
     "name": "Dariwali"
   },
   {
-    "id": "53.09.12.2004",
-    "name": "Naruwolo"
+    "id": "53.09.12.2009",
+    "name": "Dariwali I"
   },
   {
-    "id": "53.09.12.2005",
-    "name": "Nenowea"
+    "id": "53.09.12.2004",
+    "name": "Naruwolo"
   },
   {
     "id": "53.09.12.2007",
@@ -28,12 +24,16 @@
     "name": "Naruwolo II"
   },
   {
-    "id": "53.09.12.2009",
-    "name": "Dariwali I"
+    "id": "53.09.12.2005",
+    "name": "Nenowea"
   },
   {
     "id": "53.09.12.2010",
     "name": "Nio Lewa"
+  },
+  {
+    "id": "53.09.12.2002",
+    "name": "Tiworiwu"
   },
   {
     "id": "53.09.12.2011",
@@ -44,7 +44,7 @@
     "name": "Tiworiwu II"
   },
   {
-    "id": "53.09.12.2015",
-    "name": "Batajawa"
+    "id": "53.09.12.2001",
+    "name": "Watumanu"
   }
 ]

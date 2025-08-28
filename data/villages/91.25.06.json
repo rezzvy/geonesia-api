@@ -1,11 +1,19 @@
 [
   {
-    "id": "91.25.06.2001",
-    "name": "Yauria"
-  },
-  {
     "id": "91.25.06.2002",
     "name": "Gigobak"
+  },
+  {
+    "id": "91.25.06.2016",
+    "name": "Gigobak II"
+  },
+  {
+    "id": "91.25.06.2018",
+    "name": "Gingga Baru"
+  },
+  {
+    "id": "91.25.06.2013",
+    "name": "Gulabut"
   },
   {
     "id": "91.25.06.2009",
@@ -16,10 +24,6 @@
     "name": "Kelemame"
   },
   {
-    "id": "91.25.06.2013",
-    "name": "Gulabut"
-  },
-  {
     "id": "91.25.06.2014",
     "name": "Kolaribanak"
   },
@@ -28,19 +32,15 @@
     "name": "Mogulu"
   },
   {
-    "id": "91.25.06.2016",
-    "name": "Gigobak II"
-  },
-  {
     "id": "91.25.06.2017",
     "name": "Pasir Putih"
   },
   {
-    "id": "91.25.06.2018",
-    "name": "Gingga Baru"
-  },
-  {
     "id": "91.25.06.2019",
     "name": "Tenonggame"
+  },
+  {
+    "id": "91.25.06.2001",
+    "name": "Yauria"
   }
 ]

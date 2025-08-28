@@ -1,9 +1,5 @@
 [
   {
-    "id": "91.03.01.1001",
-    "name": "Sentani Kota"
-  },
-  {
     "id": "91.03.01.1002",
     "name": "Dobonsolo"
   },
@@ -12,12 +8,12 @@
     "name": "Hinekombe"
   },
   {
-    "id": "91.03.01.2004",
-    "name": "Sereh"
+    "id": "91.03.01.2011",
+    "name": "Hobong"
   },
   {
-    "id": "91.03.01.2005",
-    "name": "Yobeh"
+    "id": "91.03.01.2010",
+    "name": "Ifar Besar"
   },
   {
     "id": "91.03.01.2006",
@@ -28,15 +24,19 @@
     "name": "Keheran"
   },
   {
-    "id": "91.03.01.2010",
-    "name": "Ifar Besar"
+    "id": "91.03.01.1001",
+    "name": "Sentani Kota"
   },
   {
-    "id": "91.03.01.2011",
-    "name": "Hobong"
+    "id": "91.03.01.2004",
+    "name": "Sereh"
   },
   {
     "id": "91.03.01.2017",
     "name": "Yahim"
+  },
+  {
+    "id": "91.03.01.2005",
+    "name": "Yobeh"
   }
 ]

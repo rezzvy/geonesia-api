@@ -1,63 +1,47 @@
 [
   {
-    "id": "74.02.15.1001",
-    "name": "Tongauna"
-  },
-  {
-    "id": "74.02.15.1002",
-    "name": "Mata Iwoi"
-  },
-  {
-    "id": "74.02.15.1003",
-    "name": "Puosu"
-  },
-  {
-    "id": "74.02.15.1004",
-    "name": "Sendang Mulya Sari"
-  },
-  {
-    "id": "74.02.15.1005",
-    "name": "Mekar Sari"
-  },
-  {
-    "id": "74.02.15.2006",
-    "name": "Lalonggowuna"
-  },
-  {
-    "id": "74.02.15.2007",
-    "name": "Asao"
-  },
-  {
-    "id": "74.02.15.2008",
-    "name": "Waworoda Jaya"
-  },
-  {
-    "id": "74.02.15.2009",
-    "name": "Sanuanggamo"
-  },
-  {
-    "id": "74.02.15.2010",
-    "name": "Puundopi"
+    "id": "74.02.15.2018",
+    "name": "Ambepulu"
   },
   {
     "id": "74.02.15.2011",
     "name": "Ambopi"
   },
   {
-    "id": "74.02.15.2012",
-    "name": "Andeposunde"
+    "id": "74.02.15.2020",
+    "name": "Andalambe"
   },
   {
-    "id": "74.02.15.2013",
-    "name": "Momea"
+    "id": "74.02.15.2012",
+    "name": "Andeposunde"
   },
   {
     "id": "74.02.15.2014",
     "name": "Anggohu"
   },
   {
-    "id": "74.02.15.2015",
-    "name": "Olua Ao"
+    "id": "74.02.15.2007",
+    "name": "Asao"
+  },
+  {
+    "id": "74.02.15.2019",
+    "name": "Barowila"
+  },
+  {
+    "id": "74.02.15.2006",
+    "name": "Lalonggowuna"
+  },
+  {
+    "id": "74.02.15.1002",
+    "name": "Mata Iwoi"
+  },
+  {
+    "id": "74.02.15.1005",
+    "name": "Mekar Sari"
+  },
+  {
+    "id": "74.02.15.2013",
+    "name": "Momea"
   },
   {
     "id": "74.02.15.2016",
@@ -68,15 +52,31 @@
     "name": "Olo Onua"
   },
   {
-    "id": "74.02.15.2018",
-    "name": "Ambepulu"
+    "id": "74.02.15.2015",
+    "name": "Olua Ao"
   },
   {
-    "id": "74.02.15.2019",
-    "name": "Barowila"
+    "id": "74.02.15.1003",
+    "name": "Puosu"
   },
   {
-    "id": "74.02.15.2020",
-    "name": "Andalambe"
+    "id": "74.02.15.2010",
+    "name": "Puundopi"
+  },
+  {
+    "id": "74.02.15.2009",
+    "name": "Sanuanggamo"
+  },
+  {
+    "id": "74.02.15.1004",
+    "name": "Sendang Mulya Sari"
+  },
+  {
+    "id": "74.02.15.1001",
+    "name": "Tongauna"
+  },
+  {
+    "id": "74.02.15.2008",
+    "name": "Waworoda Jaya"
   }
 ]

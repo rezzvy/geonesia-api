@@ -1,21 +1,5 @@
 [
   {
-    "id": "16.09.18.2001",
-    "name": "Peninggiran"
-  },
-  {
-    "id": "16.09.18.2002",
-    "name": "Kuripan"
-  },
-  {
-    "id": "16.09.18.2003",
-    "name": "Surabaya"
-  },
-  {
-    "id": "16.09.18.2004",
-    "name": "Sukarena"
-  },
-  {
     "id": "16.09.18.2005",
     "name": "Karang Pendeta"
   },
@@ -24,11 +8,27 @@
     "name": "Kota Agung"
   },
   {
-    "id": "16.09.18.2007",
-    "name": "Sukabumi"
+    "id": "16.09.18.2002",
+    "name": "Kuripan"
   },
   {
     "id": "16.09.18.2008",
     "name": "Kuripan II"
+  },
+  {
+    "id": "16.09.18.2001",
+    "name": "Peninggiran"
+  },
+  {
+    "id": "16.09.18.2007",
+    "name": "Sukabumi"
+  },
+  {
+    "id": "16.09.18.2004",
+    "name": "Sukarena"
+  },
+  {
+    "id": "16.09.18.2003",
+    "name": "Surabaya"
   }
 ]

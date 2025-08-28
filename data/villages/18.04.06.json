@@ -1,31 +1,27 @@
 [
   {
-    "id": "18.04.06.2001",
-    "name": "Kenali"
-  },
-  {
-    "id": "18.04.06.2002",
-    "name": "Kejadian"
+    "id": "18.04.06.2005",
+    "name": "Bedudu"
   },
   {
     "id": "18.04.06.2003",
     "name": "Bumi Agung"
   },
   {
-    "id": "18.04.06.2004",
-    "name": "Turgak"
-  },
-  {
-    "id": "18.04.06.2005",
-    "name": "Bedudu"
-  },
-  {
-    "id": "18.04.06.2006",
-    "name": "Sukarame"
+    "id": "18.04.06.2020",
+    "name": "Fajar Agung"
   },
   {
     "id": "18.04.06.2007",
     "name": "Hujung"
+  },
+  {
+    "id": "18.04.06.2002",
+    "name": "Kejadian"
+  },
+  {
+    "id": "18.04.06.2001",
+    "name": "Kenali"
   },
   {
     "id": "18.04.06.2013",
@@ -36,7 +32,11 @@
     "name": "Suka Makmur"
   },
   {
-    "id": "18.04.06.2020",
-    "name": "Fajar Agung"
+    "id": "18.04.06.2006",
+    "name": "Sukarame"
+  },
+  {
+    "id": "18.04.06.2004",
+    "name": "Turgak"
   }
 ]

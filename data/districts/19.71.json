@@ -4,8 +4,16 @@
     "name": "Bukitintan"
   },
   {
-    "id": "19.71.02",
-    "name": "Taman Sari"
+    "id": "19.71.06",
+    "name": "Gabek"
+  },
+  {
+    "id": "19.71.05",
+    "name": "Gerunggang"
+  },
+  {
+    "id": "19.71.07",
+    "name": "Girimaya"
   },
   {
     "id": "19.71.03",
@@ -16,15 +24,7 @@
     "name": "Rangkui"
   },
   {
-    "id": "19.71.05",
-    "name": "Gerunggang"
-  },
-  {
-    "id": "19.71.06",
-    "name": "Gabek"
-  },
-  {
-    "id": "19.71.07",
-    "name": "Girimaya"
+    "id": "19.71.02",
+    "name": "Taman Sari"
   }
 ]

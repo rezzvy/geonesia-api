@@ -1,9 +1,5 @@
 [
   {
-    "id": "36.03.16.1001",
-    "name": "Sepatan"
-  },
-  {
     "id": "36.03.16.2002",
     "name": "Karet"
   },
@@ -16,19 +12,23 @@
     "name": "Kayu Bongkok"
   },
   {
-    "id": "36.03.16.2008",
-    "name": "Pondok Jaya"
+    "id": "36.03.16.2012",
+    "name": "Mekar Jaya"
   },
   {
     "id": "36.03.16.2011",
     "name": "Pisangan Jaya"
   },
   {
-    "id": "36.03.16.2012",
-    "name": "Mekar Jaya"
+    "id": "36.03.16.2008",
+    "name": "Pondok Jaya"
   },
   {
     "id": "36.03.16.2015",
     "name": "Sarakan"
+  },
+  {
+    "id": "36.03.16.1001",
+    "name": "Sepatan"
   }
 ]

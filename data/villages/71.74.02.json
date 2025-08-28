@@ -1,7 +1,7 @@
 [
   {
-    "id": "71.74.02.2001",
-    "name": "Moyag"
+    "id": "71.74.02.1008",
+    "name": "Kobo Besar"
   },
   {
     "id": "71.74.02.2002",
@@ -12,14 +12,6 @@
     "name": "Kotobangun"
   },
   {
-    "id": "71.74.02.1004",
-    "name": "Tumubui"
-  },
-  {
-    "id": "71.74.02.1005",
-    "name": "Sinindian"
-  },
-  {
     "id": "71.74.02.1006",
     "name": "Matali"
   },
@@ -28,8 +20,8 @@
     "name": "Motoboi Besar"
   },
   {
-    "id": "71.74.02.1008",
-    "name": "Kobo Besar"
+    "id": "71.74.02.2001",
+    "name": "Moyag"
   },
   {
     "id": "71.74.02.2009",
@@ -38,5 +30,13 @@
   {
     "id": "71.74.02.2010",
     "name": "Moyag Todulan"
+  },
+  {
+    "id": "71.74.02.1005",
+    "name": "Sinindian"
+  },
+  {
+    "id": "71.74.02.1004",
+    "name": "Tumubui"
   }
 ]

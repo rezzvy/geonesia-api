@@ -1,5 +1,33 @@
 [
   {
+    "id": "32.15.13.2008",
+    "name": "Cikampek Barat"
+  },
+  {
+    "id": "32.15.13.2003",
+    "name": "Cikampek Kota"
+  },
+  {
+    "id": "32.15.13.2007",
+    "name": "Cikampek Pusaka"
+  },
+  {
+    "id": "32.15.13.2006",
+    "name": "Cikampek Selatan"
+  },
+  {
+    "id": "32.15.13.2009",
+    "name": "Cikampek Timur"
+  },
+  {
+    "id": "32.15.13.2011",
+    "name": "Dawuan Barat"
+  },
+  {
+    "id": "32.15.13.2004",
+    "name": "Dawuan Tengah"
+  },
+  {
     "id": "32.15.13.2001",
     "name": "Dawuan Timur"
   },
@@ -8,35 +36,7 @@
     "name": "Kalihurip"
   },
   {
-    "id": "32.15.13.2003",
-    "name": "Cikampek Kota"
-  },
-  {
-    "id": "32.15.13.2004",
-    "name": "Dawuan Tengah"
-  },
-  {
-    "id": "32.15.13.2006",
-    "name": "Cikampek Selatan"
-  },
-  {
-    "id": "32.15.13.2007",
-    "name": "Cikampek Pusaka"
-  },
-  {
-    "id": "32.15.13.2008",
-    "name": "Cikampek Barat"
-  },
-  {
-    "id": "32.15.13.2009",
-    "name": "Cikampek Timur"
-  },
-  {
     "id": "32.15.13.2010",
     "name": "Kamojing"
-  },
-  {
-    "id": "32.15.13.2011",
-    "name": "Dawuan Barat"
   }
 ]

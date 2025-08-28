@@ -4,8 +4,20 @@
     "name": "Bandar Pasir Mandoge"
   },
   {
+    "id": "12.09.17.2009",
+    "name": "Gotting Sidodadi"
+  },
+  {
     "id": "12.09.17.2002",
     "name": "Huta Bagasan"
+  },
+  {
+    "id": "12.09.17.2007",
+    "name": "Huta Padang"
+  },
+  {
+    "id": "12.09.17.2006",
+    "name": "Sei Kopas"
   },
   {
     "id": "12.09.17.2003",
@@ -20,19 +32,7 @@
     "name": "Suka Makmur"
   },
   {
-    "id": "12.09.17.2006",
-    "name": "Sei Kopas"
-  },
-  {
-    "id": "12.09.17.2007",
-    "name": "Huta Padang"
-  },
-  {
     "id": "12.09.17.2008",
     "name": "Tomuan Holbung"
-  },
-  {
-    "id": "12.09.17.2009",
-    "name": "Gotting Sidodadi"
   }
 ]

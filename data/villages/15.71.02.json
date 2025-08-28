@@ -1,5 +1,9 @@
 [
   {
+    "id": "15.71.02.1006",
+    "name": "Pakuan Baru"
+  },
+  {
     "id": "15.71.02.1002",
     "name": "Pasir Putih"
   },
@@ -14,9 +18,5 @@
   {
     "id": "15.71.02.1005",
     "name": "Wijaya Pura"
-  },
-  {
-    "id": "15.71.02.1006",
-    "name": "Pakuan Baru"
   }
 ]

@@ -1,19 +1,7 @@
 [
   {
-    "id": "65.01.05.1001",
-    "name": "Tanjung Selor Hulu"
-  },
-  {
-    "id": "65.01.05.1002",
-    "name": "Tanjung Selor Hilir"
-  },
-  {
-    "id": "65.01.05.2003",
-    "name": "Jelarai Selor"
-  },
-  {
-    "id": "65.01.05.2004",
-    "name": "Gunung Seriang"
+    "id": "65.01.05.2007",
+    "name": "Apung"
   },
   {
     "id": "65.01.05.2005",
@@ -24,8 +12,20 @@
     "name": "Gunung Sari"
   },
   {
-    "id": "65.01.05.2007",
-    "name": "Apung"
+    "id": "65.01.05.2004",
+    "name": "Gunung Seriang"
+  },
+  {
+    "id": "65.01.05.2003",
+    "name": "Jelarai Selor"
+  },
+  {
+    "id": "65.01.05.1002",
+    "name": "Tanjung Selor Hilir"
+  },
+  {
+    "id": "65.01.05.1001",
+    "name": "Tanjung Selor Hulu"
   },
   {
     "id": "65.01.05.1008",

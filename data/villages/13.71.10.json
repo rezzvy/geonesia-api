@@ -1,7 +1,11 @@
 [
   {
-    "id": "13.71.10.1001",
-    "name": "Surau Gadang"
+    "id": "13.71.10.1004",
+    "name": "Gurun Laweh"
+  },
+  {
+    "id": "13.71.10.1006",
+    "name": "Kampung Lapai"
   },
   {
     "id": "13.71.10.1002",
@@ -12,15 +16,11 @@
     "name": "Kurao Pagang"
   },
   {
-    "id": "13.71.10.1004",
-    "name": "Gurun Laweh"
+    "id": "13.71.10.1001",
+    "name": "Surau Gadang"
   },
   {
     "id": "13.71.10.1005",
     "name": "Tabing Banda Gadang"
-  },
-  {
-    "id": "13.71.10.1006",
-    "name": "Kampung Lapai"
   }
 ]

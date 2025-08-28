@@ -1,23 +1,11 @@
 [
   {
-    "id": "35.73.02.1001",
-    "name": "Klojen"
+    "id": "35.73.02.1009",
+    "name": "Bareng"
   },
   {
-    "id": "35.73.02.1002",
-    "name": "Rampalcelaket"
-  },
-  {
-    "id": "35.73.02.1003",
-    "name": "Samaan"
-  },
-  {
-    "id": "35.73.02.1004",
-    "name": "Kiduldalem"
-  },
-  {
-    "id": "35.73.02.1005",
-    "name": "Sukoharjo"
+    "id": "35.73.02.1010",
+    "name": "Gading Kasri"
   },
   {
     "id": "35.73.02.1006",
@@ -28,19 +16,31 @@
     "name": "Kauman"
   },
   {
+    "id": "35.73.02.1004",
+    "name": "Kiduldalem"
+  },
+  {
+    "id": "35.73.02.1001",
+    "name": "Klojen"
+  },
+  {
     "id": "35.73.02.1008",
     "name": "Oro-oro Dowo"
   },
   {
-    "id": "35.73.02.1009",
-    "name": "Bareng"
-  },
-  {
-    "id": "35.73.02.1010",
-    "name": "Gading Kasri"
-  },
-  {
     "id": "35.73.02.1011",
     "name": "Penanggungan"
+  },
+  {
+    "id": "35.73.02.1002",
+    "name": "Rampalcelaket"
+  },
+  {
+    "id": "35.73.02.1003",
+    "name": "Samaan"
+  },
+  {
+    "id": "35.73.02.1005",
+    "name": "Sukoharjo"
   }
 ]

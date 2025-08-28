@@ -1,11 +1,15 @@
 [
   {
-    "id": "18.13.09.2001",
-    "name": "Sumber Agung"
+    "id": "18.13.09.2009",
+    "name": "Bumi Ratu"
   },
   {
-    "id": "18.13.09.2002",
-    "name": "Ulok Mukti"
+    "id": "18.13.09.2005",
+    "name": "Gedung Cahya Kuningan"
+  },
+  {
+    "id": "18.13.09.2008",
+    "name": "Muara Tembulih"
   },
   {
     "id": "18.13.09.2003",
@@ -16,10 +20,6 @@
     "name": "Pekon Mon"
   },
   {
-    "id": "18.13.09.2005",
-    "name": "Gedung Cahya Kuningan"
-  },
-  {
     "id": "18.13.09.2006",
     "name": "Suka Banjar"
   },
@@ -28,11 +28,11 @@
     "name": "Suka Negara"
   },
   {
-    "id": "18.13.09.2008",
-    "name": "Muara Tembulih"
+    "id": "18.13.09.2001",
+    "name": "Sumber Agung"
   },
   {
-    "id": "18.13.09.2009",
-    "name": "Bumi Ratu"
+    "id": "18.13.09.2002",
+    "name": "Ulok Mukti"
   }
 ]

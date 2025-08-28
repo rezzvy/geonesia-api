@@ -1,9 +1,5 @@
 [
   {
-    "id": "13.07.12.2001",
-    "name": "Maek"
-  },
-  {
     "id": "13.07.12.2002",
     "name": "Banja Loweh"
   },
@@ -12,11 +8,15 @@
     "name": "Baruah Gunuang"
   },
   {
-    "id": "13.07.12.2004",
-    "name": "Sungai Naniang"
-  },
-  {
     "id": "13.07.12.2005",
     "name": "Koto Tangah"
+  },
+  {
+    "id": "13.07.12.2001",
+    "name": "Maek"
+  },
+  {
+    "id": "13.07.12.2004",
+    "name": "Sungai Naniang"
   }
 ]

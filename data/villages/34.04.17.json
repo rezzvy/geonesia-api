@@ -4,10 +4,6 @@
     "name": "Argomulyo"
   },
   {
-    "id": "34.04.17.2002",
-    "name": "Wukirsari"
-  },
-  {
     "id": "34.04.17.2003",
     "name": "Glagaharjo"
   },
@@ -18,5 +14,9 @@
   {
     "id": "34.04.17.2005",
     "name": "Umbulharjo"
+  },
+  {
+    "id": "34.04.17.2002",
+    "name": "Wukirsari"
   }
 ]

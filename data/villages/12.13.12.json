@@ -1,5 +1,9 @@
 [
   {
+    "id": "12.13.12.2022",
+    "name": "Aek Botung"
+  },
+  {
     "id": "12.13.12.2001",
     "name": "Bandar Panjang"
   },
@@ -16,8 +20,20 @@
     "name": "Koto Baringin"
   },
   {
+    "id": "12.13.12.2023",
+    "name": "Koto Boru"
+  },
+  {
     "id": "12.13.12.2009",
     "name": "Limau Manis"
+  },
+  {
+    "id": "12.13.12.2021",
+    "name": "Muara Kumpulan"
+  },
+  {
+    "id": "12.13.12.1019",
+    "name": "Pasar Muara Sipongi"
   },
   {
     "id": "12.13.12.2012",
@@ -40,27 +56,11 @@
     "name": "Tanjung Alai"
   },
   {
-    "id": "12.13.12.1019",
-    "name": "Pasar Muara Sipongi"
+    "id": "12.13.12.2024",
+    "name": "Tanjung Larangan"
   },
   {
     "id": "12.13.12.2020",
     "name": "Tanjung Medan"
-  },
-  {
-    "id": "12.13.12.2021",
-    "name": "Muara Kumpulan"
-  },
-  {
-    "id": "12.13.12.2022",
-    "name": "Aek Botung"
-  },
-  {
-    "id": "12.13.12.2023",
-    "name": "Koto Boru"
-  },
-  {
-    "id": "12.13.12.2024",
-    "name": "Tanjung Larangan"
   }
 ]

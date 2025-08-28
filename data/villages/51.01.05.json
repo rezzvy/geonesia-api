@@ -1,5 +1,29 @@
 [
   {
+    "id": "51.01.05.2007",
+    "name": "Air Kuning"
+  },
+  {
+    "id": "51.01.05.2004",
+    "name": "Batu Agung"
+  },
+  {
+    "id": "51.01.05.2006",
+    "name": "Budeng"
+  },
+  {
+    "id": "51.01.05.2010",
+    "name": "Dangin Tukadaya"
+  },
+  {
+    "id": "51.01.05.1005",
+    "name": "Dauhwaru"
+  },
+  {
+    "id": "51.01.05.1003",
+    "name": "Loloan Timur"
+  },
+  {
     "id": "51.01.05.1001",
     "name": "Pendem"
   },
@@ -8,35 +32,11 @@
     "name": "Perancak"
   },
   {
-    "id": "51.01.05.1003",
-    "name": "Loloan Timur"
-  },
-  {
-    "id": "51.01.05.2004",
-    "name": "Batu Agung"
-  },
-  {
-    "id": "51.01.05.1005",
-    "name": "Dauhwaru"
-  },
-  {
-    "id": "51.01.05.2006",
-    "name": "Budeng"
-  },
-  {
-    "id": "51.01.05.2007",
-    "name": "Air Kuning"
-  },
-  {
-    "id": "51.01.05.2008",
-    "name": "Yehkuning"
-  },
-  {
     "id": "51.01.05.1009",
     "name": "Sangkaragung"
   },
   {
-    "id": "51.01.05.2010",
-    "name": "Dangin Tukadaya"
+    "id": "51.01.05.2008",
+    "name": "Yehkuning"
   }
 ]

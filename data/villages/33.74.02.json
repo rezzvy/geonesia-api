@@ -8,6 +8,22 @@
     "name": "Bulu Lor"
   },
   {
+    "id": "33.74.02.1009",
+    "name": "Dadapsari"
+  },
+  {
+    "id": "33.74.02.1005",
+    "name": "Kuningan"
+  },
+  {
+    "id": "33.74.02.1007",
+    "name": "Panggung Kidul"
+  },
+  {
+    "id": "33.74.02.1006",
+    "name": "Panggung Lor"
+  },
+  {
     "id": "33.74.02.1003",
     "name": "Plombokan"
   },
@@ -16,23 +32,7 @@
     "name": "Purwosari"
   },
   {
-    "id": "33.74.02.1005",
-    "name": "Kuningan"
-  },
-  {
-    "id": "33.74.02.1006",
-    "name": "Panggung Lor"
-  },
-  {
-    "id": "33.74.02.1007",
-    "name": "Panggung Kidul"
-  },
-  {
     "id": "33.74.02.1008",
     "name": "Tanjung Mas"
-  },
-  {
-    "id": "33.74.02.1009",
-    "name": "Dadapsari"
   }
 ]

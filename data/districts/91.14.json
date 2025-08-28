@@ -1,186 +1,186 @@
 [
   {
-    "id": "91.14.01",
-    "name": "Karubaga"
-  },
-  {
-    "id": "91.14.02",
-    "name": "Bokondini"
-  },
-  {
-    "id": "91.14.03",
-    "name": "Kanggime"
-  },
-  {
-    "id": "91.14.04",
-    "name": "Kembu"
-  },
-  {
-    "id": "91.14.05",
-    "name": "Goyage"
-  },
-  {
-    "id": "91.14.06",
-    "name": "Wunim"
-  },
-  {
-    "id": "91.14.07",
-    "name": "Wina"
-  },
-  {
-    "id": "91.14.08",
-    "name": "Umagi"
-  },
-  {
-    "id": "91.14.09",
-    "name": "Panaga"
-  },
-  {
-    "id": "91.14.10",
-    "name": "Woniki"
-  },
-  {
-    "id": "91.14.11",
-    "name": "Kubu"
-  },
-  {
-    "id": "91.14.12",
-    "name": "Konda/ Kondaga"
-  },
-  {
-    "id": "91.14.13",
-    "name": "Nelawi"
-  },
-  {
-    "id": "91.14.14",
-    "name": "Kuari"
-  },
-  {
-    "id": "91.14.15",
-    "name": "Bokoneri"
-  },
-  {
-    "id": "91.14.16",
-    "name": "Bewani"
-  },
-  {
-    "id": "91.14.18",
-    "name": "Nabunage"
-  },
-  {
-    "id": "91.14.19",
-    "name": "Gilubandu"
-  },
-  {
-    "id": "91.14.20",
-    "name": "Nunggawi"
-  },
-  {
-    "id": "91.14.21",
-    "name": "Gundagi"
-  },
-  {
-    "id": "91.14.22",
-    "name": "Numba"
-  },
-  {
-    "id": "91.14.23",
-    "name": "Timori"
-  },
-  {
-    "id": "91.14.24",
-    "name": "Dundu"
-  },
-  {
-    "id": "91.14.25",
-    "name": "Geya"
-  },
-  {
-    "id": "91.14.26",
-    "name": "Egiam"
-  },
-  {
-    "id": "91.14.27",
-    "name": "Poganeri"
-  },
-  {
-    "id": "91.14.28",
-    "name": "Kamboneri"
-  },
-  {
     "id": "91.14.29",
     "name": "Airgaram"
-  },
-  {
-    "id": "91.14.30",
-    "name": "Wari/Taiyeve II"
-  },
-  {
-    "id": "91.14.31",
-    "name": "Dow"
-  },
-  {
-    "id": "91.14.32",
-    "name": "Tagineri"
-  },
-  {
-    "id": "91.14.33",
-    "name": "Yuneri"
-  },
-  {
-    "id": "91.14.34",
-    "name": "Wakuwo"
-  },
-  {
-    "id": "91.14.35",
-    "name": "Gika"
-  },
-  {
-    "id": "91.14.36",
-    "name": "Telenggeme"
   },
   {
     "id": "91.14.37",
     "name": "Anawi"
   },
   {
-    "id": "91.14.38",
-    "name": "Wenam"
-  },
-  {
-    "id": "91.14.39",
-    "name": "Wugi"
-  },
-  {
-    "id": "91.14.40",
-    "name": "Danime"
-  },
-  {
-    "id": "91.14.41",
-    "name": "Tagime"
-  },
-  {
-    "id": "91.14.42",
-    "name": "Kai"
-  },
-  {
     "id": "91.14.43",
     "name": "Aweku"
   },
   {
-    "id": "91.14.44",
-    "name": "Bogonuk"
-  },
-  {
-    "id": "91.14.45",
-    "name": "Li Anogomma"
+    "id": "91.14.16",
+    "name": "Bewani"
   },
   {
     "id": "91.14.46",
     "name": "Biuk"
   },
   {
+    "id": "91.14.44",
+    "name": "Bogonuk"
+  },
+  {
+    "id": "91.14.02",
+    "name": "Bokondini"
+  },
+  {
+    "id": "91.14.15",
+    "name": "Bokoneri"
+  },
+  {
+    "id": "91.14.40",
+    "name": "Danime"
+  },
+  {
+    "id": "91.14.31",
+    "name": "Dow"
+  },
+  {
+    "id": "91.14.24",
+    "name": "Dundu"
+  },
+  {
+    "id": "91.14.26",
+    "name": "Egiam"
+  },
+  {
+    "id": "91.14.25",
+    "name": "Geya"
+  },
+  {
+    "id": "91.14.35",
+    "name": "Gika"
+  },
+  {
+    "id": "91.14.19",
+    "name": "Gilubandu"
+  },
+  {
+    "id": "91.14.05",
+    "name": "Goyage"
+  },
+  {
+    "id": "91.14.21",
+    "name": "Gundagi"
+  },
+  {
+    "id": "91.14.42",
+    "name": "Kai"
+  },
+  {
+    "id": "91.14.28",
+    "name": "Kamboneri"
+  },
+  {
+    "id": "91.14.03",
+    "name": "Kanggime"
+  },
+  {
+    "id": "91.14.01",
+    "name": "Karubaga"
+  },
+  {
+    "id": "91.14.04",
+    "name": "Kembu"
+  },
+  {
+    "id": "91.14.12",
+    "name": "Konda/ Kondaga"
+  },
+  {
+    "id": "91.14.14",
+    "name": "Kuari"
+  },
+  {
+    "id": "91.14.11",
+    "name": "Kubu"
+  },
+  {
+    "id": "91.14.45",
+    "name": "Li Anogomma"
+  },
+  {
+    "id": "91.14.18",
+    "name": "Nabunage"
+  },
+  {
+    "id": "91.14.13",
+    "name": "Nelawi"
+  },
+  {
+    "id": "91.14.22",
+    "name": "Numba"
+  },
+  {
+    "id": "91.14.20",
+    "name": "Nunggawi"
+  },
+  {
+    "id": "91.14.09",
+    "name": "Panaga"
+  },
+  {
+    "id": "91.14.27",
+    "name": "Poganeri"
+  },
+  {
+    "id": "91.14.41",
+    "name": "Tagime"
+  },
+  {
+    "id": "91.14.32",
+    "name": "Tagineri"
+  },
+  {
+    "id": "91.14.36",
+    "name": "Telenggeme"
+  },
+  {
+    "id": "91.14.23",
+    "name": "Timori"
+  },
+  {
+    "id": "91.14.08",
+    "name": "Umagi"
+  },
+  {
+    "id": "91.14.34",
+    "name": "Wakuwo"
+  },
+  {
+    "id": "91.14.30",
+    "name": "Wari/Taiyeve II"
+  },
+  {
+    "id": "91.14.38",
+    "name": "Wenam"
+  },
+  {
+    "id": "91.14.07",
+    "name": "Wina"
+  },
+  {
+    "id": "91.14.10",
+    "name": "Woniki"
+  },
+  {
+    "id": "91.14.39",
+    "name": "Wugi"
+  },
+  {
+    "id": "91.14.06",
+    "name": "Wunim"
+  },
+  {
     "id": "91.14.47",
     "name": "Yuko"
+  },
+  {
+    "id": "91.14.33",
+    "name": "Yuneri"
   }
 ]

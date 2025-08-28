@@ -1,11 +1,7 @@
 [
   {
-    "id": "32.07.12.2001",
-    "name": "Jatinagara"
-  },
-  {
-    "id": "32.07.12.2002",
-    "name": "Sukanagara"
+    "id": "32.07.12.2006",
+    "name": "Bayasari"
   },
   {
     "id": "32.07.12.2003",
@@ -16,11 +12,15 @@
     "name": "Dayeuhluhur"
   },
   {
+    "id": "32.07.12.2001",
+    "name": "Jatinagara"
+  },
+  {
     "id": "32.07.12.2005",
     "name": "Mulyasari"
   },
   {
-    "id": "32.07.12.2006",
-    "name": "Bayasari"
+    "id": "32.07.12.2002",
+    "name": "Sukanagara"
   }
 ]

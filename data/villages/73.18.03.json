@@ -4,6 +4,10 @@
     "name": "Bau"
   },
   {
+    "id": "73.18.03.2008",
+    "name": "Bau Selatan"
+  },
+  {
     "id": "73.18.03.2002",
     "name": "Buakayu"
   },
@@ -18,9 +22,5 @@
   {
     "id": "73.18.03.1007",
     "name": "Ratte Buttu"
-  },
-  {
-    "id": "73.18.03.2008",
-    "name": "Bau Selatan"
   }
 ]

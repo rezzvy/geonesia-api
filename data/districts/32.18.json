@@ -1,7 +1,7 @@
 [
   {
-    "id": "32.18.01",
-    "name": "Parigi"
+    "id": "32.18.04",
+    "name": "Cigugur"
   },
   {
     "id": "32.18.02",
@@ -12,8 +12,8 @@
     "name": "Cimerak"
   },
   {
-    "id": "32.18.04",
-    "name": "Cigugur"
+    "id": "32.18.08",
+    "name": "Kalipucang"
   },
   {
     "id": "32.18.05",
@@ -28,12 +28,12 @@
     "name": "Padaherang"
   },
   {
-    "id": "32.18.08",
-    "name": "Kalipucang"
-  },
-  {
     "id": "32.18.09",
     "name": "Pangandaran"
+  },
+  {
+    "id": "32.18.01",
+    "name": "Parigi"
   },
   {
     "id": "32.18.10",

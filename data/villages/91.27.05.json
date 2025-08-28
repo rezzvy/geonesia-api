@@ -4,20 +4,24 @@
     "name": "Agisiga"
   },
   {
-    "id": "91.27.05.2002",
-    "name": "Tousiga"
+    "id": "91.27.05.2009",
+    "name": "Danggoa"
   },
   {
-    "id": "91.27.05.2003",
-    "name": "Unabundoga"
+    "id": "91.27.05.2005",
+    "name": "Jenetapa Najasiga"
+  },
+  {
+    "id": "91.27.05.2010",
+    "name": "Kombogosiga"
   },
   {
     "id": "91.27.05.2004",
     "name": "Mbamogo"
   },
   {
-    "id": "91.27.05.2005",
-    "name": "Jenetapa Najasiga"
+    "id": "91.27.05.2008",
+    "name": "Nabia"
   },
   {
     "id": "91.27.05.2006",
@@ -28,15 +32,11 @@
     "name": "Tambage"
   },
   {
-    "id": "91.27.05.2008",
-    "name": "Nabia"
+    "id": "91.27.05.2002",
+    "name": "Tousiga"
   },
   {
-    "id": "91.27.05.2009",
-    "name": "Danggoa"
-  },
-  {
-    "id": "91.27.05.2010",
-    "name": "Kombogosiga"
+    "id": "91.27.05.2003",
+    "name": "Unabundoga"
   }
 ]

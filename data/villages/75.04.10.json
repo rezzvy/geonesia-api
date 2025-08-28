@@ -8,6 +8,10 @@
     "name": "Buntulia Barat"
   },
   {
+    "id": "75.04.10.2006",
+    "name": "Buntulia Jaya"
+  },
+  {
     "id": "75.04.10.2003",
     "name": "Buntulia Selatan"
   },
@@ -20,15 +24,11 @@
     "name": "Mekar Jaya"
   },
   {
-    "id": "75.04.10.2006",
-    "name": "Buntulia Jaya"
+    "id": "75.04.10.2008",
+    "name": "Mootilango"
   },
   {
     "id": "75.04.10.2007",
     "name": "Padengo"
-  },
-  {
-    "id": "75.04.10.2008",
-    "name": "Mootilango"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "id": "16.01.31.2005",
+    "name": "Beringin"
+  },
+  {
+    "id": "16.01.31.2007",
+    "name": "Karang Lantang"
+  },
+  {
     "id": "16.01.31.2001",
     "name": "Kemala Jaya"
   },
@@ -8,23 +16,15 @@
     "name": "Lontar"
   },
   {
-    "id": "16.01.31.2003",
-    "name": "Muara Saeh"
-  },
-  {
     "id": "16.01.31.2004",
     "name": "Lubuk Tupak"
   },
   {
-    "id": "16.01.31.2005",
-    "name": "Beringin"
+    "id": "16.01.31.2003",
+    "name": "Muara Saeh"
   },
   {
     "id": "16.01.31.2006",
     "name": "Surau"
-  },
-  {
-    "id": "16.01.31.2007",
-    "name": "Karang Lantang"
   }
 ]

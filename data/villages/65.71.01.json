@@ -4,10 +4,6 @@
     "name": "Karang Anyar"
   },
   {
-    "id": "65.71.01.1002",
-    "name": "Karang Rejo"
-  },
-  {
     "id": "65.71.01.1003",
     "name": "Karang Anyar Pantai"
   },
@@ -18,5 +14,9 @@
   {
     "id": "65.71.01.1005",
     "name": "Karang Harapan"
+  },
+  {
+    "id": "65.71.01.1002",
+    "name": "Karang Rejo"
   }
 ]

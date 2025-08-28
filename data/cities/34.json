@@ -3,16 +3,16 @@
   "province": "DAERAH ISTIMEWA YOGYAKARTA",
   "city": [
     {
-      "id": "34.01",
-      "name": "KAB. KULON PROGO"
-    },
-    {
       "id": "34.02",
       "name": "KAB. BANTUL"
     },
     {
       "id": "34.03",
       "name": "KAB. GUNUNGKIDUL"
+    },
+    {
+      "id": "34.01",
+      "name": "KAB. KULON PROGO"
     },
     {
       "id": "34.04",

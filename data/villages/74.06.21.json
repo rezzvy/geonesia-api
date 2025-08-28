@@ -1,21 +1,5 @@
 [
   {
-    "id": "74.06.21.2001",
-    "name": "Lambikasi"
-  },
-  {
-    "id": "74.06.21.2002",
-    "name": "Lantari"
-  },
-  {
-    "id": "74.06.21.2003",
-    "name": "Langkowala"
-  },
-  {
-    "id": "74.06.21.2004",
-    "name": "Pasare Apua"
-  },
-  {
     "id": "74.06.21.2006",
     "name": "Anugerah"
   },
@@ -24,12 +8,28 @@
     "name": "Kalaero"
   },
   {
-    "id": "74.06.21.2008",
-    "name": "Tinabite"
+    "id": "74.06.21.2001",
+    "name": "Lambikasi"
+  },
+  {
+    "id": "74.06.21.2003",
+    "name": "Langkowala"
+  },
+  {
+    "id": "74.06.21.2002",
+    "name": "Lantari"
+  },
+  {
+    "id": "74.06.21.2004",
+    "name": "Pasare Apua"
   },
   {
     "id": "74.06.21.2009",
     "name": "Rarongkeu"
+  },
+  {
+    "id": "74.06.21.2008",
+    "name": "Tinabite"
   },
   {
     "id": "74.06.21.2010",

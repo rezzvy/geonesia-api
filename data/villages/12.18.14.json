@@ -20,20 +20,28 @@
     "name": "Lestari Dadi"
   },
   {
-    "id": "12.18.14.2006",
-    "name": "Pegajahan"
+    "id": "12.18.14.1012",
+    "name": "Melati Kebun"
   },
   {
-    "id": "12.18.14.2007",
-    "name": "Petuaran Hulu"
+    "id": "12.18.14.2006",
+    "name": "Pegajahan"
   },
   {
     "id": "12.18.14.2008",
     "name": "Petuaran Hilir"
   },
   {
+    "id": "12.18.14.2007",
+    "name": "Petuaran Hulu"
+  },
+  {
     "id": "12.18.14.2009",
     "name": "Pondok Tengah"
+  },
+  {
+    "id": "12.18.14.2013",
+    "name": "Sennah"
   },
   {
     "id": "12.18.14.2010",
@@ -42,13 +50,5 @@
   {
     "id": "12.18.14.2011",
     "name": "Tanjung Putus"
-  },
-  {
-    "id": "12.18.14.1012",
-    "name": "Melati Kebun"
-  },
-  {
-    "id": "12.18.14.2013",
-    "name": "Sennah"
   }
 ]

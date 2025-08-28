@@ -1,7 +1,23 @@
 [
   {
+    "id": "32.09.29.2008",
+    "name": "Guwa Kidul"
+  },
+  {
+    "id": "32.09.29.2009",
+    "name": "Guwa Lor"
+  },
+  {
     "id": "32.09.29.2001",
     "name": "Kalideres"
+  },
+  {
+    "id": "32.09.29.2007",
+    "name": "Kaliwedi Kidul"
+  },
+  {
+    "id": "32.09.29.2006",
+    "name": "Kaliwedi Lor"
   },
   {
     "id": "32.09.29.2002",
@@ -18,21 +34,5 @@
   {
     "id": "32.09.29.2005",
     "name": "Wargabinangun"
-  },
-  {
-    "id": "32.09.29.2006",
-    "name": "Kaliwedi Lor"
-  },
-  {
-    "id": "32.09.29.2007",
-    "name": "Kaliwedi Kidul"
-  },
-  {
-    "id": "32.09.29.2008",
-    "name": "Guwa Kidul"
-  },
-  {
-    "id": "32.09.29.2009",
-    "name": "Guwa Lor"
   }
 ]

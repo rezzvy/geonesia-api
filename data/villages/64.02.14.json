@@ -1,5 +1,13 @@
 [
   {
+    "id": "64.02.14.1005",
+    "name": "Dondang"
+  },
+  {
+    "id": "64.02.14.1008",
+    "name": "Muara Jawa"
+  },
+  {
     "id": "64.02.14.1001",
     "name": "Muara Jawa Ilir"
   },
@@ -12,23 +20,15 @@
     "name": "Muara Jawa Ulu"
   },
   {
-    "id": "64.02.14.1004",
-    "name": "Teluk Dalam"
-  },
-  {
-    "id": "64.02.14.1005",
-    "name": "Dondang"
+    "id": "64.02.14.1007",
+    "name": "Muara Kembang"
   },
   {
     "id": "64.02.14.1006",
     "name": "Tama Pole"
   },
   {
-    "id": "64.02.14.1007",
-    "name": "Muara Kembang"
-  },
-  {
-    "id": "64.02.14.1008",
-    "name": "Muara Jawa"
+    "id": "64.02.14.1004",
+    "name": "Teluk Dalam"
   }
 ]

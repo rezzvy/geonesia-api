@@ -4,6 +4,14 @@
     "name": "Afulu"
   },
   {
+    "id": "12.24.09.2009",
+    "name": "Faekhuna'a"
+  },
+  {
+    "id": "12.24.09.2005",
+    "name": "Harewakhe"
+  },
+  {
     "id": "12.24.09.2002",
     "name": "Lauru Fadoro"
   },
@@ -12,27 +20,19 @@
     "name": "Lauru I"
   },
   {
-    "id": "12.24.09.2004",
-    "name": "Ombolata Afulu"
-  },
-  {
-    "id": "12.24.09.2005",
-    "name": "Harewakhe"
-  },
-  {
-    "id": "12.24.09.2006",
-    "name": "Sisobahili"
-  },
-  {
     "id": "12.24.09.2007",
     "name": "Lauru Lahewa"
+  },
+  {
+    "id": "12.24.09.2004",
+    "name": "Ombolata Afulu"
   },
   {
     "id": "12.24.09.2008",
     "name": "Sifaoro'asi"
   },
   {
-    "id": "12.24.09.2009",
-    "name": "Faekhuna'a"
+    "id": "12.24.09.2006",
+    "name": "Sisobahili"
   }
 ]

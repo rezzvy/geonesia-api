@@ -1,11 +1,11 @@
 [
   {
-    "id": "32.02.05.2001",
-    "name": "Cisolok"
+    "id": "32.02.05.2005",
+    "name": "Caringin"
   },
   {
-    "id": "32.02.05.2002",
-    "name": "Pasir Baru"
+    "id": "32.02.05.2010",
+    "name": "Cicadas"
   },
   {
     "id": "32.02.05.2003",
@@ -16,8 +16,8 @@
     "name": "Cikelat"
   },
   {
-    "id": "32.02.05.2005",
-    "name": "Caringin"
+    "id": "32.02.05.2001",
+    "name": "Cisolok"
   },
   {
     "id": "32.02.05.2006",
@@ -32,12 +32,16 @@
     "name": "Karangpapak"
   },
   {
+    "id": "32.02.05.2002",
+    "name": "Pasir Baru"
+  },
+  {
     "id": "32.02.05.2009",
     "name": "Sirnaresmi"
   },
   {
-    "id": "32.02.05.2010",
-    "name": "Cicadas"
+    "id": "32.02.05.2013",
+    "name": "Sukarame"
   },
   {
     "id": "32.02.05.2011",
@@ -46,9 +50,5 @@
   {
     "id": "32.02.05.2012",
     "name": "Wangunsari"
-  },
-  {
-    "id": "32.02.05.2013",
-    "name": "Sukarame"
   }
 ]

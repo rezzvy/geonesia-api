@@ -1,7 +1,23 @@
 [
   {
+    "id": "73.10.02.2007",
+    "name": "Dewakang"
+  },
+  {
+    "id": "73.10.02.2005",
+    "name": "Doang Doangan Lompo"
+  },
+  {
     "id": "73.10.02.1001",
     "name": "Kalukuang"
+  },
+  {
+    "id": "73.10.02.2004",
+    "name": "Kanyurang"
+  },
+  {
+    "id": "73.10.02.2006",
+    "name": "Marasende"
   },
   {
     "id": "73.10.02.2002",
@@ -10,21 +26,5 @@
   {
     "id": "73.10.02.2003",
     "name": "Sabaru"
-  },
-  {
-    "id": "73.10.02.2004",
-    "name": "Kanyurang"
-  },
-  {
-    "id": "73.10.02.2005",
-    "name": "Doang Doangan Lompo"
-  },
-  {
-    "id": "73.10.02.2006",
-    "name": "Marasende"
-  },
-  {
-    "id": "73.10.02.2007",
-    "name": "Dewakang"
   }
 ]

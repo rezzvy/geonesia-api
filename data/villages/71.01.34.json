@@ -4,16 +4,12 @@
     "name": "Bonawang"
   },
   {
-    "id": "71.01.34.2002",
-    "name": "Tapadaka Satu"
+    "id": "71.01.34.2010",
+    "name": "Dumara"
   },
   {
-    "id": "71.01.34.2003",
-    "name": "Tapadaka Utara"
-  },
-  {
-    "id": "71.01.34.2004",
-    "name": "Tapadaka Timur"
+    "id": "71.01.34.2009",
+    "name": "Ikuna"
   },
   {
     "id": "71.01.34.2005",
@@ -32,11 +28,15 @@
     "name": "Osion"
   },
   {
-    "id": "71.01.34.2009",
-    "name": "Ikuna"
+    "id": "71.01.34.2002",
+    "name": "Tapadaka Satu"
   },
   {
-    "id": "71.01.34.2010",
-    "name": "Dumara"
+    "id": "71.01.34.2004",
+    "name": "Tapadaka Timur"
+  },
+  {
+    "id": "71.01.34.2003",
+    "name": "Tapadaka Utara"
   }
 ]

@@ -1,7 +1,11 @@
 [
   {
-    "id": "36.04.29.2001",
-    "name": "Padarincang"
+    "id": "36.04.29.2007",
+    "name": "Barugbug"
+  },
+  {
+    "id": "36.04.29.2008",
+    "name": "Batu Kuwung"
   },
   {
     "id": "36.04.29.2002",
@@ -12,40 +16,20 @@
     "name": "Cibojong"
   },
   {
-    "id": "36.04.29.2004",
-    "name": "Citasuk"
+    "id": "36.04.29.2006",
+    "name": "Ciomas"
+  },
+  {
+    "id": "36.04.29.2012",
+    "name": "Cipayung"
   },
   {
     "id": "36.04.29.2005",
     "name": "Cisaat"
   },
   {
-    "id": "36.04.29.2006",
-    "name": "Ciomas"
-  },
-  {
-    "id": "36.04.29.2007",
-    "name": "Barugbug"
-  },
-  {
-    "id": "36.04.29.2008",
-    "name": "Batu Kuwung"
-  },
-  {
-    "id": "36.04.29.2009",
-    "name": "Kramatlaban"
-  },
-  {
-    "id": "36.04.29.2010",
-    "name": "Kelumpang"
-  },
-  {
-    "id": "36.04.29.2011",
-    "name": "Kadubeureum"
-  },
-  {
-    "id": "36.04.29.2012",
-    "name": "Cipayung"
+    "id": "36.04.29.2004",
+    "name": "Citasuk"
   },
   {
     "id": "36.04.29.2013",
@@ -54,5 +38,21 @@
   {
     "id": "36.04.29.2014",
     "name": "Kadu Kempong"
+  },
+  {
+    "id": "36.04.29.2011",
+    "name": "Kadubeureum"
+  },
+  {
+    "id": "36.04.29.2010",
+    "name": "Kelumpang"
+  },
+  {
+    "id": "36.04.29.2009",
+    "name": "Kramatlaban"
+  },
+  {
+    "id": "36.04.29.2001",
+    "name": "Padarincang"
   }
 ]

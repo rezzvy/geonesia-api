@@ -1,19 +1,7 @@
 [
   {
-    "id": "63.04.10.1001",
-    "name": "Lepasan"
-  },
-  {
-    "id": "63.04.10.2002",
-    "name": "Banua Anyar"
-  },
-  {
-    "id": "63.04.10.2003",
-    "name": "Murung Raya"
-  },
-  {
-    "id": "63.04.10.2004",
-    "name": "Palingkau"
+    "id": "63.04.10.2008",
+    "name": "Bahalayung"
   },
   {
     "id": "63.04.10.2005",
@@ -24,12 +12,24 @@
     "name": "Banitan"
   },
   {
+    "id": "63.04.10.2002",
+    "name": "Banua Anyar"
+  },
+  {
     "id": "63.04.10.2007",
     "name": "Batik"
   },
   {
-    "id": "63.04.10.2008",
-    "name": "Bahalayung"
+    "id": "63.04.10.1001",
+    "name": "Lepasan"
+  },
+  {
+    "id": "63.04.10.2003",
+    "name": "Murung Raya"
+  },
+  {
+    "id": "63.04.10.2004",
+    "name": "Palingkau"
   },
   {
     "id": "63.04.10.2009",

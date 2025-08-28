@@ -4,6 +4,10 @@
     "name": "Banjaririgasi"
   },
   {
+    "id": "36.02.25.2004",
+    "name": "Banjarsari"
+  },
+  {
     "id": "36.02.25.2002",
     "name": "Ciladaeun"
   },
@@ -12,15 +16,11 @@
     "name": "Lebakgedong"
   },
   {
-    "id": "36.02.25.2004",
-    "name": "Banjarsari"
+    "id": "36.02.25.2006",
+    "name": "Lebaksangka"
   },
   {
     "id": "36.02.25.2005",
     "name": "Lebaksitu"
-  },
-  {
-    "id": "36.02.25.2006",
-    "name": "Lebaksangka"
   }
 ]

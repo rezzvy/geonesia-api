@@ -1,7 +1,7 @@
 [
   {
-    "id": "52.08.01",
-    "name": "Tanjung"
+    "id": "52.08.04",
+    "name": "Bayan"
   },
   {
     "id": "52.08.02",
@@ -12,11 +12,11 @@
     "name": "Kayangan"
   },
   {
-    "id": "52.08.04",
-    "name": "Bayan"
-  },
-  {
     "id": "52.08.05",
     "name": "Pemenang"
+  },
+  {
+    "id": "52.08.01",
+    "name": "Tanjung"
   }
 ]

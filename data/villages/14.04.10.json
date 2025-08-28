@@ -8,12 +8,28 @@
     "name": "Selatnama"
   },
   {
+    "id": "14.04.10.2010",
+    "name": "Sungailaut"
+  },
+  {
     "id": "14.04.10.2003",
     "name": "Sungainyiur"
   },
   {
+    "id": "14.04.10.2009",
+    "name": "Tanah Merah"
+  },
+  {
     "id": "14.04.10.2004",
     "name": "Tanjungbaru"
+  },
+  {
+    "id": "14.04.10.2008",
+    "name": "Tanjungpasir"
+  },
+  {
+    "id": "14.04.10.2007",
+    "name": "Tekulai Bugis"
   },
   {
     "id": "14.04.10.2005",
@@ -22,21 +38,5 @@
   {
     "id": "14.04.10.2006",
     "name": "Tekulai Hulu"
-  },
-  {
-    "id": "14.04.10.2007",
-    "name": "Tekulai Bugis"
-  },
-  {
-    "id": "14.04.10.2008",
-    "name": "Tanjungpasir"
-  },
-  {
-    "id": "14.04.10.2009",
-    "name": "Tanah Merah"
-  },
-  {
-    "id": "14.04.10.2010",
-    "name": "Sungailaut"
   }
 ]

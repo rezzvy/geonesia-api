@@ -1,5 +1,13 @@
 [
   {
+    "id": "75.04.04.2015",
+    "name": "Batubilotahu"
+  },
+  {
+    "id": "75.04.04.2018",
+    "name": "Bulangita"
+  },
+  {
     "id": "75.04.04.2003",
     "name": "Marisa Selatan"
   },
@@ -8,27 +16,19 @@
     "name": "Marisa Utara"
   },
   {
-    "id": "75.04.04.2007",
-    "name": "Teratai"
+    "id": "75.04.04.2016",
+    "name": "Palopo"
   },
   {
     "id": "75.04.04.2008",
     "name": "Pohuwato"
   },
   {
-    "id": "75.04.04.2015",
-    "name": "Batubilotahu"
-  },
-  {
-    "id": "75.04.04.2016",
-    "name": "Palopo"
-  },
-  {
     "id": "75.04.04.2017",
     "name": "Pohuwato Timur"
   },
   {
-    "id": "75.04.04.2018",
-    "name": "Bulangita"
+    "id": "75.04.04.2007",
+    "name": "Teratai"
   }
 ]

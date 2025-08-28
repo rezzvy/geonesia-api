@@ -1,15 +1,11 @@
 [
   {
+    "id": "18.11.06.2007",
+    "name": "Adi Karya Mulya"
+  },
+  {
     "id": "18.11.06.2001",
     "name": "Adi Luhur"
-  },
-  {
-    "id": "18.11.06.2002",
-    "name": "Mukti Karya"
-  },
-  {
-    "id": "18.11.06.2003",
-    "name": "Fajar Baru"
   },
   {
     "id": "18.11.06.2004",
@@ -20,11 +16,15 @@
     "name": "Fajar Asri"
   },
   {
+    "id": "18.11.06.2003",
+    "name": "Fajar Baru"
+  },
+  {
     "id": "18.11.06.2006",
     "name": "Fajar Indah"
   },
   {
-    "id": "18.11.06.2007",
-    "name": "Adi Karya Mulya"
+    "id": "18.11.06.2002",
+    "name": "Mukti Karya"
   }
 ]

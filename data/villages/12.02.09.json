@@ -1,25 +1,5 @@
 [
   {
-    "id": "12.02.09.1001",
-    "name": "Psr Siborong Borong"
-  },
-  {
-    "id": "12.02.09.2002",
-    "name": "Siborong Borong I"
-  },
-  {
-    "id": "12.02.09.2003",
-    "name": "Siborong Borong II"
-  },
-  {
-    "id": "12.02.09.2004",
-    "name": "Sitampurung"
-  },
-  {
-    "id": "12.02.09.2005",
-    "name": "Sitabotabo"
-  },
-  {
     "id": "12.02.09.2006",
     "name": "Bahal Batu I"
   },
@@ -32,6 +12,10 @@
     "name": "Bahal Batu III"
   },
   {
+    "id": "12.02.09.2016",
+    "name": "Hutabulu"
+  },
+  {
     "id": "12.02.09.2009",
     "name": "Lobu Siregar I"
   },
@@ -40,16 +24,8 @@
     "name": "Lobu Siregar II"
   },
   {
-    "id": "12.02.09.2011",
-    "name": "Pohan Julu"
-  },
-  {
-    "id": "12.02.09.2012",
-    "name": "Pohan Tonga"
-  },
-  {
-    "id": "12.02.09.2013",
-    "name": "Pohan Jae"
+    "id": "12.02.09.2017",
+    "name": "Lumban Tonga Tonga"
   },
   {
     "id": "12.02.09.2014",
@@ -60,27 +36,51 @@
     "name": "Parik Sabungan"
   },
   {
-    "id": "12.02.09.2016",
-    "name": "Hutabulu"
+    "id": "12.02.09.2013",
+    "name": "Pohan Jae"
   },
   {
-    "id": "12.02.09.2017",
-    "name": "Lumban Tonga Tonga"
+    "id": "12.02.09.2011",
+    "name": "Pohan Julu"
   },
   {
-    "id": "12.02.09.2018",
-    "name": "Sigumbang"
+    "id": "12.02.09.2012",
+    "name": "Pohan Tonga"
+  },
+  {
+    "id": "12.02.09.1001",
+    "name": "Psr Siborong Borong"
   },
   {
     "id": "12.02.09.2019",
     "name": "Siaro"
   },
   {
+    "id": "12.02.09.2002",
+    "name": "Siborong Borong I"
+  },
+  {
+    "id": "12.02.09.2003",
+    "name": "Siborong Borong II"
+  },
+  {
+    "id": "12.02.09.2018",
+    "name": "Sigumbang"
+  },
+  {
     "id": "12.02.09.2020",
     "name": "Silait-Lait"
   },
   {
+    "id": "12.02.09.2005",
+    "name": "Sitabotabo"
+  },
+  {
     "id": "12.02.09.2021",
     "name": "Sitabotabo Toruan"
+  },
+  {
+    "id": "12.02.09.2004",
+    "name": "Sitampurung"
   }
 ]

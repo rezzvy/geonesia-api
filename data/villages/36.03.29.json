@@ -1,15 +1,11 @@
 [
   {
+    "id": "36.03.29.2007",
+    "name": "Badak Anom"
+  },
+  {
     "id": "36.03.29.2001",
     "name": "Sindang Jaya"
-  },
-  {
-    "id": "36.03.29.2002",
-    "name": "Wanakerta"
-  },
-  {
-    "id": "36.03.29.2003",
-    "name": "Sukaharja"
   },
   {
     "id": "36.03.29.2004",
@@ -24,7 +20,11 @@
     "name": "Sindangsono"
   },
   {
-    "id": "36.03.29.2007",
-    "name": "Badak Anom"
+    "id": "36.03.29.2003",
+    "name": "Sukaharja"
+  },
+  {
+    "id": "36.03.29.2002",
+    "name": "Wanakerta"
   }
 ]

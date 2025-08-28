@@ -32,6 +32,10 @@
     "name": "Hilina'a"
   },
   {
+    "id": "12.78.01.1032",
+    "name": "Ilir"
+  },
+  {
     "id": "12.78.01.2009",
     "name": "Iraonogeba"
   },
@@ -44,16 +48,12 @@
     "name": "Lolowonu Niko'otano"
   },
   {
-    "id": "12.78.01.2012",
-    "name": "Madula"
-  },
-  {
     "id": "12.78.01.2013",
     "name": "Madolaoli"
   },
   {
-    "id": "12.78.01.2014",
-    "name": "Mudik"
+    "id": "12.78.01.2012",
+    "name": "Madula"
   },
   {
     "id": "12.78.01.2015",
@@ -62,6 +62,10 @@
   {
     "id": "12.78.01.2016",
     "name": "Mo'awo"
+  },
+  {
+    "id": "12.78.01.2014",
+    "name": "Mudik"
   },
   {
     "id": "12.78.01.2017",
@@ -80,8 +84,16 @@
     "name": "Onozitoli Sifaoroasi"
   },
   {
+    "id": "12.78.01.1030",
+    "name": "Pasar Gunungsitoli"
+  },
+  {
     "id": "12.78.01.2021",
     "name": "Saewe"
+  },
+  {
+    "id": "12.78.01.1031",
+    "name": "Saombo"
   },
   {
     "id": "12.78.01.2022",
@@ -100,12 +112,12 @@
     "name": "Simandraolo"
   },
   {
-    "id": "12.78.01.2026",
-    "name": "Sisarahiligamo"
-  },
-  {
     "id": "12.78.01.2027",
     "name": "Sisarahili Sisambualahe"
+  },
+  {
+    "id": "12.78.01.2026",
+    "name": "Sisarahiligamo"
   },
   {
     "id": "12.78.01.2028",
@@ -114,17 +126,5 @@
   {
     "id": "12.78.01.2029",
     "name": "Tuhemberua Ulu"
-  },
-  {
-    "id": "12.78.01.1030",
-    "name": "Pasar Gunungsitoli"
-  },
-  {
-    "id": "12.78.01.1031",
-    "name": "Saombo"
-  },
-  {
-    "id": "12.78.01.1032",
-    "name": "Ilir"
   }
 ]

@@ -1,19 +1,27 @@
 [
   {
+    "id": "32.11.11.2008",
+    "name": "Cijambu"
+  },
+  {
+    "id": "32.11.11.2012",
+    "name": "Cinanjung"
+  },
+  {
     "id": "32.11.11.2001",
     "name": "Gudang"
   },
   {
-    "id": "32.11.11.2002",
-    "name": "Tanjungsari"
+    "id": "32.11.11.2010",
+    "name": "Gunungmanik"
   },
   {
     "id": "32.11.11.2003",
     "name": "Jatisari"
   },
   {
-    "id": "32.11.11.2004",
-    "name": "Margaluyu"
+    "id": "32.11.11.2011",
+    "name": "Kadakajaya"
   },
   {
     "id": "32.11.11.2005",
@@ -24,27 +32,19 @@
     "name": "Margajaya"
   },
   {
-    "id": "32.11.11.2007",
-    "name": "Raharja"
-  },
-  {
-    "id": "32.11.11.2008",
-    "name": "Cijambu"
+    "id": "32.11.11.2004",
+    "name": "Margaluyu"
   },
   {
     "id": "32.11.11.2009",
     "name": "Pasigaran"
   },
   {
-    "id": "32.11.11.2010",
-    "name": "Gunungmanik"
+    "id": "32.11.11.2007",
+    "name": "Raharja"
   },
   {
-    "id": "32.11.11.2011",
-    "name": "Kadakajaya"
-  },
-  {
-    "id": "32.11.11.2012",
-    "name": "Cinanjung"
+    "id": "32.11.11.2002",
+    "name": "Tanjungsari"
   }
 ]

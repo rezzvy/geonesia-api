@@ -4,6 +4,14 @@
     "name": "Kokoe"
   },
   {
+    "id": "74.14.05.2006",
+    "name": "Liwulompona"
+  },
+  {
+    "id": "74.14.05.2007",
+    "name": "Pangilia"
+  },
+  {
     "id": "74.14.05.2002",
     "name": "Talaga Besar"
   },
@@ -18,13 +26,5 @@
   {
     "id": "74.14.05.2005",
     "name": "Wulu"
-  },
-  {
-    "id": "74.14.05.2006",
-    "name": "Liwulompona"
-  },
-  {
-    "id": "74.14.05.2007",
-    "name": "Pangilia"
   }
 ]

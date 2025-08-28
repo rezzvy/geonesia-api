@@ -7,16 +7,12 @@
       "name": "KAB. ADM. KEP. SERIBU"
     },
     {
-      "id": "31.71",
-      "name": "KOTA ADM. JAKARTA PUSAT"
-    },
-    {
-      "id": "31.72",
-      "name": "KOTA ADM. JAKARTA UTARA"
-    },
-    {
       "id": "31.73",
       "name": "KOTA ADM. JAKARTA BARAT"
+    },
+    {
+      "id": "31.71",
+      "name": "KOTA ADM. JAKARTA PUSAT"
     },
     {
       "id": "31.74",
@@ -25,6 +21,10 @@
     {
       "id": "31.75",
       "name": "KOTA ADM. JAKARTA TIMUR"
+    },
+    {
+      "id": "31.72",
+      "name": "KOTA ADM. JAKARTA UTARA"
     }
   ]
 }

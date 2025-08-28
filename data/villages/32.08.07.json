@@ -1,7 +1,7 @@
 [
   {
-    "id": "32.08.07.2010",
-    "name": "Langseb"
+    "id": "32.08.07.2016",
+    "name": "Bendungan"
   },
   {
     "id": "32.08.07.2011",
@@ -16,6 +16,10 @@
     "name": "Cipetir"
   },
   {
+    "id": "32.08.07.2010",
+    "name": "Langseb"
+  },
+  {
     "id": "32.08.07.2014",
     "name": "Lebakwangi"
   },
@@ -24,31 +28,27 @@
     "name": "Mancagar"
   },
   {
-    "id": "32.08.07.2016",
-    "name": "Bendungan"
-  },
-  {
-    "id": "32.08.07.2017",
-    "name": "Sindang"
-  },
-  {
-    "id": "32.08.07.2018",
-    "name": "Pasayangan"
-  },
-  {
-    "id": "32.08.07.2019",
-    "name": "Pajawankidul"
-  },
-  {
-    "id": "32.08.07.2020",
-    "name": "Pagundan"
+    "id": "32.08.07.2025",
+    "name": "Manggari"
   },
   {
     "id": "32.08.07.2021",
     "name": "Mekarwangi"
   },
   {
-    "id": "32.08.07.2025",
-    "name": "Manggari"
+    "id": "32.08.07.2020",
+    "name": "Pagundan"
+  },
+  {
+    "id": "32.08.07.2019",
+    "name": "Pajawankidul"
+  },
+  {
+    "id": "32.08.07.2018",
+    "name": "Pasayangan"
+  },
+  {
+    "id": "32.08.07.2017",
+    "name": "Sindang"
   }
 ]

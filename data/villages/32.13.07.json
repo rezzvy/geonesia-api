@@ -1,19 +1,31 @@
 [
   {
-    "id": "32.13.07.2004",
-    "name": "Gunungsembung"
+    "id": "32.13.07.2010",
+    "name": "Gambarsari"
   },
   {
     "id": "32.13.07.2005",
     "name": "Gembor"
   },
   {
+    "id": "32.13.07.2015",
+    "name": "Gunungsari"
+  },
+  {
+    "id": "32.13.07.2004",
+    "name": "Gunungsembung"
+  },
+  {
+    "id": "32.13.07.2019",
+    "name": "Jabong"
+  },
+  {
     "id": "32.13.07.2006",
     "name": "Kamarung"
   },
   {
-    "id": "32.13.07.2010",
-    "name": "Gambarsari"
+    "id": "32.13.07.2013",
+    "name": "Neglasari"
   },
   {
     "id": "32.13.07.2011",
@@ -24,19 +36,7 @@
     "name": "Sukamulya"
   },
   {
-    "id": "32.13.07.2013",
-    "name": "Neglasari"
-  },
-  {
     "id": "32.13.07.2014",
     "name": "Sumbersari"
-  },
-  {
-    "id": "32.13.07.2015",
-    "name": "Gunungsari"
-  },
-  {
-    "id": "32.13.07.2019",
-    "name": "Jabong"
   }
 ]

@@ -1,7 +1,19 @@
 [
   {
+    "id": "12.16.08.2011",
+    "name": "Aek Godang Arbaan"
+  },
+  {
     "id": "12.16.08.2001",
     "name": "Batu Nagodang Siatas"
+  },
+  {
+    "id": "12.16.08.2008",
+    "name": "Hutajulu"
+  },
+  {
+    "id": "12.16.08.2006",
+    "name": "Janji Nagodang"
   },
   {
     "id": "12.16.08.2002",
@@ -12,24 +24,16 @@
     "name": "Parbotihan"
   },
   {
-    "id": "12.16.08.2004",
-    "name": "Sihikit"
-  },
-  {
     "id": "12.16.08.2005",
     "name": "Parnapa"
-  },
-  {
-    "id": "12.16.08.2006",
-    "name": "Janji Nagodang"
   },
   {
     "id": "12.16.08.2007",
     "name": "Sampe Tua"
   },
   {
-    "id": "12.16.08.2008",
-    "name": "Hutajulu"
+    "id": "12.16.08.2012",
+    "name": "Sanggaran II"
   },
   {
     "id": "12.16.08.2009",
@@ -40,11 +44,7 @@
     "name": "Sigalogo"
   },
   {
-    "id": "12.16.08.2011",
-    "name": "Aek Godang Arbaan"
-  },
-  {
-    "id": "12.16.08.2012",
-    "name": "Sanggaran II"
+    "id": "12.16.08.2004",
+    "name": "Sihikit"
   }
 ]

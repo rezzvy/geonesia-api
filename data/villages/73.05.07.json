@@ -1,15 +1,7 @@
 [
   {
-    "id": "73.05.07.1001",
-    "name": "Pattallassang"
-  },
-  {
-    "id": "73.05.07.1002",
-    "name": "Pallantikang"
-  },
-  {
-    "id": "73.05.07.1003",
-    "name": "Sombabella"
+    "id": "73.05.07.1007",
+    "name": "Bajeng"
   },
   {
     "id": "73.05.07.1004",
@@ -20,12 +12,16 @@
     "name": "Mardekaya"
   },
   {
+    "id": "73.05.07.1002",
+    "name": "Pallantikang"
+  },
+  {
     "id": "73.05.07.1006",
     "name": "Pappa"
   },
   {
-    "id": "73.05.07.1007",
-    "name": "Bajeng"
+    "id": "73.05.07.1001",
+    "name": "Pattallassang"
   },
   {
     "id": "73.05.07.1008",
@@ -34,5 +30,9 @@
   {
     "id": "73.05.07.1009",
     "name": "Salaka"
+  },
+  {
+    "id": "73.05.07.1003",
+    "name": "Sombabella"
   }
 ]

@@ -12,12 +12,20 @@
     "name": "Berawang Gading"
   },
   {
+    "id": "11.04.13.2016",
+    "name": "Blang Delem"
+  },
+  {
     "id": "11.04.13.2004",
     "name": "Celala"
   },
   {
     "id": "11.04.13.2005",
     "name": "Cibro"
+  },
+  {
+    "id": "11.04.13.2017",
+    "name": "Depet Indah"
   },
   {
     "id": "11.04.13.2006",
@@ -58,13 +66,5 @@
   {
     "id": "11.04.13.2015",
     "name": "Uning Berawang Ramung"
-  },
-  {
-    "id": "11.04.13.2016",
-    "name": "Blang Delem"
-  },
-  {
-    "id": "11.04.13.2017",
-    "name": "Depet Indah"
   }
 ]

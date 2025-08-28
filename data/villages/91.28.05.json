@@ -1,5 +1,9 @@
 [
   {
+    "id": "91.28.05.2004",
+    "name": "Idego"
+  },
+  {
     "id": "91.28.05.2001",
     "name": "Komauto/Kapiraya"
   },
@@ -8,15 +12,11 @@
     "name": "Mogodagi"
   },
   {
-    "id": "91.28.05.2003",
-    "name": "Yamouwitina"
-  },
-  {
-    "id": "91.28.05.2004",
-    "name": "Idego"
-  },
-  {
     "id": "91.28.05.2005",
     "name": "Uwe Onagei"
+  },
+  {
+    "id": "91.28.05.2003",
+    "name": "Yamouwitina"
   }
 ]

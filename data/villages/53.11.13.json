@@ -1,5 +1,17 @@
 [
   {
+    "id": "53.11.13.2011",
+    "name": "Ananjaki"
+  },
+  {
+    "id": "53.11.13.2006",
+    "name": "Janggamangu"
+  },
+  {
+    "id": "53.11.13.2005",
+    "name": "Nangga"
+  },
+  {
     "id": "53.11.13.2001",
     "name": "Nggongi"
   },
@@ -14,17 +26,5 @@
   {
     "id": "53.11.13.2004",
     "name": "Tandula Jangga"
-  },
-  {
-    "id": "53.11.13.2005",
-    "name": "Nangga"
-  },
-  {
-    "id": "53.11.13.2006",
-    "name": "Janggamangu"
-  },
-  {
-    "id": "53.11.13.2011",
-    "name": "Ananjaki"
   }
 ]

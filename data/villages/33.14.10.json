@@ -1,5 +1,17 @@
 [
   {
+    "id": "33.14.10.1006",
+    "name": "Karang Tengah"
+  },
+  {
+    "id": "33.14.10.2008",
+    "name": "Kedungupit"
+  },
+  {
+    "id": "33.14.10.1005",
+    "name": "Nglorog"
+  },
+  {
     "id": "33.14.10.1001",
     "name": "Sine"
   },
@@ -16,19 +28,7 @@
     "name": "Sragen Wetan"
   },
   {
-    "id": "33.14.10.1005",
-    "name": "Nglorog"
-  },
-  {
-    "id": "33.14.10.1006",
-    "name": "Karang Tengah"
-  },
-  {
     "id": "33.14.10.2007",
     "name": "Tangkil"
-  },
-  {
-    "id": "33.14.10.2008",
-    "name": "Kedungupit"
   }
 ]

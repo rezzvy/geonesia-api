@@ -1,15 +1,11 @@
 [
   {
-    "id": "12.19.01.1001",
-    "name": "Pangkalan Dodek"
-  },
-  {
-    "id": "12.19.01.1002",
-    "name": "Pangkalan Dodek Baru"
-  },
-  {
     "id": "12.19.01.2003",
     "name": "Aek Nauli"
+  },
+  {
+    "id": "12.19.01.2019",
+    "name": "Cengkering Pekan"
   },
   {
     "id": "12.19.01.2004",
@@ -20,8 +16,24 @@
     "name": "Lalang"
   },
   {
+    "id": "12.19.01.2016",
+    "name": "Mandarsah"
+  },
+  {
     "id": "12.19.01.2006",
     "name": "Medang"
+  },
+  {
+    "id": "12.19.01.2017",
+    "name": "Medang Baru"
+  },
+  {
+    "id": "12.19.01.2014",
+    "name": "Nenas Siam"
+  },
+  {
+    "id": "12.19.01.1021",
+    "name": "Pagurawan"
   },
   {
     "id": "12.19.01.2007",
@@ -32,12 +44,32 @@
     "name": "Pakam Raya"
   },
   {
+    "id": "12.19.01.2015",
+    "name": "Pakam Raya Selatan"
+  },
+  {
+    "id": "12.19.01.1001",
+    "name": "Pangkalan Dodek"
+  },
+  {
+    "id": "12.19.01.1002",
+    "name": "Pangkalan Dodek Baru"
+  },
+  {
     "id": "12.19.01.2009",
     "name": "Pematang Cengkering"
   },
   {
+    "id": "12.19.01.2018",
+    "name": "Pematang Nibung"
+  },
+  {
     "id": "12.19.01.2010",
     "name": "Sei Buah Keras"
+  },
+  {
+    "id": "12.19.01.2020",
+    "name": "Sei Raja"
   },
   {
     "id": "12.19.01.2011",
@@ -50,37 +82,5 @@
   {
     "id": "12.19.01.2013",
     "name": "Tanjung Sigoni"
-  },
-  {
-    "id": "12.19.01.2014",
-    "name": "Nenas Siam"
-  },
-  {
-    "id": "12.19.01.2015",
-    "name": "Pakam Raya Selatan"
-  },
-  {
-    "id": "12.19.01.2016",
-    "name": "Mandarsah"
-  },
-  {
-    "id": "12.19.01.2017",
-    "name": "Medang Baru"
-  },
-  {
-    "id": "12.19.01.2018",
-    "name": "Pematang Nibung"
-  },
-  {
-    "id": "12.19.01.2019",
-    "name": "Cengkering Pekan"
-  },
-  {
-    "id": "12.19.01.2020",
-    "name": "Sei Raja"
-  },
-  {
-    "id": "12.19.01.1021",
-    "name": "Pagurawan"
   }
 ]

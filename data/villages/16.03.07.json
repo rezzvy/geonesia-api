@@ -1,11 +1,23 @@
 [
   {
-    "id": "16.03.07.1001",
-    "name": "Tanjung Enim"
+    "id": "16.03.07.2007",
+    "name": "Darmo"
+  },
+  {
+    "id": "16.03.07.2006",
+    "name": "Keban Agung"
+  },
+  {
+    "id": "16.03.07.2005",
+    "name": "Lingga"
   },
   {
     "id": "16.03.07.1002",
     "name": "Pasar Tanjung Enim"
+  },
+  {
+    "id": "16.03.07.1001",
+    "name": "Tanjung Enim"
   },
   {
     "id": "16.03.07.1003",
@@ -14,17 +26,5 @@
   {
     "id": "16.03.07.2004",
     "name": "Tegal Rejo"
-  },
-  {
-    "id": "16.03.07.2005",
-    "name": "Lingga"
-  },
-  {
-    "id": "16.03.07.2006",
-    "name": "Keban Agung"
-  },
-  {
-    "id": "16.03.07.2007",
-    "name": "Darmo"
   }
 ]

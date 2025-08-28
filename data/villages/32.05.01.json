@@ -1,5 +1,13 @@
 [
   {
+    "id": "32.05.01.1011",
+    "name": "Cimuncang"
+  },
+  {
+    "id": "32.05.01.1007",
+    "name": "Ciwalen"
+  },
+  {
     "id": "32.05.01.1001",
     "name": "Kota Kulon"
   },
@@ -12,20 +20,12 @@
     "name": "Margawati"
   },
   {
-    "id": "32.05.01.1004",
-    "name": "Pakuwon"
-  },
-  {
     "id": "32.05.01.1005",
     "name": "Muara Sanding"
   },
   {
-    "id": "32.05.01.1006",
-    "name": "Sukamentri"
-  },
-  {
-    "id": "32.05.01.1007",
-    "name": "Ciwalen"
+    "id": "32.05.01.1004",
+    "name": "Pakuwon"
   },
   {
     "id": "32.05.01.1008",
@@ -36,11 +36,11 @@
     "name": "Regol"
   },
   {
-    "id": "32.05.01.1010",
-    "name": "Sukanegla"
+    "id": "32.05.01.1006",
+    "name": "Sukamentri"
   },
   {
-    "id": "32.05.01.1011",
-    "name": "Cimuncang"
+    "id": "32.05.01.1010",
+    "name": "Sukanegla"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "id": "35.78.27.1001",
-    "name": "Sukomanunggal"
-  },
-  {
-    "id": "35.78.27.1002",
-    "name": "Tanjungsari"
-  },
-  {
-    "id": "35.78.27.1003",
-    "name": "Sonokwijenan"
-  },
-  {
     "id": "35.78.27.1004",
     "name": "Putat Gede"
   },
@@ -22,5 +10,17 @@
   {
     "id": "35.78.27.1006",
     "name": "Simomulyo Baru"
+  },
+  {
+    "id": "35.78.27.1003",
+    "name": "Sonokwijenan"
+  },
+  {
+    "id": "35.78.27.1001",
+    "name": "Sukomanunggal"
+  },
+  {
+    "id": "35.78.27.1002",
+    "name": "Tanjungsari"
   }
 ]

@@ -3,14 +3,6 @@
   "province": "KALIMANTAN TIMUR",
   "city": [
     {
-      "id": "64.01",
-      "name": "KAB. PASER"
-    },
-    {
-      "id": "64.02",
-      "name": "KAB. KUTAI KARTANEGARA"
-    },
-    {
       "id": "64.03",
       "name": "KAB. BERAU"
     },
@@ -19,28 +11,36 @@
       "name": "KAB. KUTAI BARAT"
     },
     {
-      "id": "64.08",
-      "name": "KAB. KUTAI TIMUR"
+      "id": "64.02",
+      "name": "KAB. KUTAI KARTANEGARA"
     },
     {
-      "id": "64.09",
-      "name": "KAB. PENAJAM PASER UTARA"
+      "id": "64.08",
+      "name": "KAB. KUTAI TIMUR"
     },
     {
       "id": "64.11",
       "name": "KAB. MAHAKAM ULU"
     },
     {
+      "id": "64.01",
+      "name": "KAB. PASER"
+    },
+    {
+      "id": "64.09",
+      "name": "KAB. PENAJAM PASER UTARA"
+    },
+    {
       "id": "64.71",
       "name": "KOTA BALIKPAPAN"
     },
     {
-      "id": "64.72",
-      "name": "KOTA SAMARINDA"
-    },
-    {
       "id": "64.74",
       "name": "KOTA BONTANG"
+    },
+    {
+      "id": "64.72",
+      "name": "KOTA SAMARINDA"
     }
   ]
 }

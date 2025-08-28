@@ -8,6 +8,10 @@
     "name": "Jepitu"
   },
   {
+    "id": "34.03.16.2005",
+    "name": "Jerukwudel"
+  },
+  {
     "id": "34.03.16.2003",
     "name": "Karangawen"
   },
@@ -16,19 +20,15 @@
     "name": "Nglindur"
   },
   {
-    "id": "34.03.16.2005",
-    "name": "Jerukwudel"
-  },
-  {
-    "id": "34.03.16.2006",
-    "name": "Tileng"
-  },
-  {
     "id": "34.03.16.2007",
     "name": "Pucung"
   },
   {
     "id": "34.03.16.2008",
     "name": "Songbanyu"
+  },
+  {
+    "id": "34.03.16.2006",
+    "name": "Tileng"
   }
 ]

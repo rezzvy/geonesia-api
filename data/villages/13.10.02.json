@@ -1,19 +1,7 @@
 [
   {
-    "id": "13.10.02.2001",
-    "name": "Sungai Dareh"
-  },
-  {
-    "id": "13.10.02.2002",
-    "name": "Tebing Tinggi"
-  },
-  {
     "id": "13.10.02.2006",
     "name": "Empat Koto Pulau Punjung"
-  },
-  {
-    "id": "13.10.02.2007",
-    "name": "Sungai Kambut"
   },
   {
     "id": "13.10.02.2008",
@@ -22,5 +10,17 @@
   {
     "id": "13.10.02.2009",
     "name": "Sikabau"
+  },
+  {
+    "id": "13.10.02.2001",
+    "name": "Sungai Dareh"
+  },
+  {
+    "id": "13.10.02.2007",
+    "name": "Sungai Kambut"
+  },
+  {
+    "id": "13.10.02.2002",
+    "name": "Tebing Tinggi"
   }
 ]

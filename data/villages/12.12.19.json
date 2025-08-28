@@ -1,5 +1,17 @@
 [
   {
+    "id": "12.12.19.2010",
+    "name": "Banua Huta"
+  },
+  {
+    "id": "12.12.19.2006",
+    "name": "Dolok Jior"
+  },
+  {
+    "id": "12.12.19.2005",
+    "name": "Maju"
+  },
+  {
     "id": "12.12.19.2001",
     "name": "Marsangap"
   },
@@ -8,20 +20,12 @@
     "name": "Nauli"
   },
   {
-    "id": "12.12.19.2003",
-    "name": "Situa-tua"
-  },
-  {
     "id": "12.12.19.2004",
     "name": "Sigumpar"
   },
   {
-    "id": "12.12.19.2005",
-    "name": "Maju"
-  },
-  {
-    "id": "12.12.19.2006",
-    "name": "Dolok Jior"
+    "id": "12.12.19.2009",
+    "name": "Sigumpar Barat"
   },
   {
     "id": "12.12.19.1007",
@@ -32,11 +36,7 @@
     "name": "Sigumpar Julu"
   },
   {
-    "id": "12.12.19.2009",
-    "name": "Sigumpar Barat"
-  },
-  {
-    "id": "12.12.19.2010",
-    "name": "Banua Huta"
+    "id": "12.12.19.2003",
+    "name": "Situa-tua"
   }
 ]

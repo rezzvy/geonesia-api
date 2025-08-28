@@ -1,11 +1,15 @@
 [
   {
-    "id": "12.05.23.2001",
-    "name": "Pematang Tengah"
-  },
-  {
     "id": "12.05.23.2002",
     "name": "Damar Condong"
+  },
+  {
+    "id": "12.05.23.2005",
+    "name": "Limau Mungkur"
+  },
+  {
+    "id": "12.05.23.2001",
+    "name": "Pematang Tengah"
   },
   {
     "id": "12.05.23.2003",
@@ -16,19 +20,15 @@
     "name": "Perkebunan Perapen"
   },
   {
-    "id": "12.05.23.2005",
-    "name": "Limau Mungkur"
-  },
-  {
-    "id": "12.05.23.2006",
-    "name": "Serang Jaya Hilir"
+    "id": "12.05.23.2008",
+    "name": "Sala Haji"
   },
   {
     "id": "12.05.23.2007",
     "name": "Serang Jaya"
   },
   {
-    "id": "12.05.23.2008",
-    "name": "Sala Haji"
+    "id": "12.05.23.2006",
+    "name": "Serang Jaya Hilir"
   }
 ]

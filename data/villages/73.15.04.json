@@ -1,11 +1,11 @@
 [
   {
-    "id": "73.15.04.1001",
-    "name": "Jaya"
+    "id": "73.15.04.1006",
+    "name": "Bentengnge"
   },
   {
-    "id": "73.15.04.1002",
-    "name": "Sawito"
+    "id": "73.15.04.1001",
+    "name": "Jaya"
   },
   {
     "id": "73.15.04.1003",
@@ -20,15 +20,15 @@
     "name": "Salo"
   },
   {
-    "id": "73.15.04.1006",
-    "name": "Bentengnge"
-  },
-  {
-    "id": "73.15.04.1007",
-    "name": "Sipatokkong"
+    "id": "73.15.04.1002",
+    "name": "Sawito"
   },
   {
     "id": "73.15.04.1008",
     "name": "Siparappe"
+  },
+  {
+    "id": "73.15.04.1007",
+    "name": "Sipatokkong"
   }
 ]

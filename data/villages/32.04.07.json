@@ -1,9 +1,5 @@
 [
   {
-    "id": "32.04.07.2001",
-    "name": "Jatiendah"
-  },
-  {
     "id": "32.04.07.2002",
     "name": "Cilengkrang"
   },
@@ -12,15 +8,19 @@
     "name": "Cipanjalu"
   },
   {
-    "id": "32.04.07.2004",
-    "name": "Melatiwangi"
-  },
-  {
     "id": "32.04.07.2005",
     "name": "Ciporeat"
   },
   {
     "id": "32.04.07.2006",
     "name": "Girimekar"
+  },
+  {
+    "id": "32.04.07.2001",
+    "name": "Jatiendah"
+  },
+  {
+    "id": "32.04.07.2004",
+    "name": "Melatiwangi"
   }
 ]

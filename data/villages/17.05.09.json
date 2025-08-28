@@ -1,15 +1,19 @@
 [
   {
-    "id": "17.05.09.2001",
-    "name": "Talang Sali"
+    "id": "17.05.09.1006",
+    "name": "Bunga Mas"
+  },
+  {
+    "id": "17.05.09.2003",
+    "name": "Kota Agung"
   },
   {
     "id": "17.05.09.2002",
     "name": "Kunduran"
   },
   {
-    "id": "17.05.09.2003",
-    "name": "Kota Agung"
+    "id": "17.05.09.2008",
+    "name": "Rawa Sari"
   },
   {
     "id": "17.05.09.1004",
@@ -20,15 +24,11 @@
     "name": "Sembayat"
   },
   {
-    "id": "17.05.09.1006",
-    "name": "Bunga Mas"
+    "id": "17.05.09.2001",
+    "name": "Talang Sali"
   },
   {
     "id": "17.05.09.2007",
     "name": "Tenangan"
-  },
-  {
-    "id": "17.05.09.2008",
-    "name": "Rawa Sari"
   }
 ]

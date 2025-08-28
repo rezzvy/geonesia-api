@@ -1,67 +1,63 @@
 [
   {
-    "id": "91.16.01",
-    "name": "Mandobo"
-  },
-  {
-    "id": "91.16.02",
-    "name": "Mindiptana"
-  },
-  {
-    "id": "91.16.03",
-    "name": "Waropko"
-  },
-  {
-    "id": "91.16.04",
-    "name": "Kouh"
-  },
-  {
-    "id": "91.16.05",
-    "name": "Jair"
-  },
-  {
-    "id": "91.16.06",
-    "name": "Bomakia"
-  },
-  {
-    "id": "91.16.07",
-    "name": "Kombut"
-  },
-  {
-    "id": "91.16.08",
-    "name": "Iniyandit"
+    "id": "91.16.11",
+    "name": "Ambatkwi"
   },
   {
     "id": "91.16.09",
     "name": "Arimop"
   },
   {
-    "id": "91.16.10",
-    "name": "Fofi"
-  },
-  {
-    "id": "91.16.11",
-    "name": "Ambatkwi"
-  },
-  {
-    "id": "91.16.12",
-    "name": "Manggelum"
+    "id": "91.16.06",
+    "name": "Bomakia"
   },
   {
     "id": "91.16.13",
     "name": "Firiwage"
   },
   {
-    "id": "91.16.14",
-    "name": "Yaniruma"
+    "id": "91.16.10",
+    "name": "Fofi"
   },
   {
-    "id": "91.16.15",
-    "name": "Subur"
+    "id": "91.16.08",
+    "name": "Iniyandit"
+  },
+  {
+    "id": "91.16.05",
+    "name": "Jair"
+  },
+  {
+    "id": "91.16.20",
+    "name": "Kawagit"
+  },
+  {
+    "id": "91.16.19",
+    "name": "Ki"
   },
   {
     "id": "91.16.16",
     "name": "Kombay"
+  },
+  {
+    "id": "91.16.07",
+    "name": "Kombut"
+  },
+  {
+    "id": "91.16.04",
+    "name": "Kouh"
+  },
+  {
+    "id": "91.16.01",
+    "name": "Mandobo"
+  },
+  {
+    "id": "91.16.12",
+    "name": "Manggelum"
+  },
+  {
+    "id": "91.16.02",
+    "name": "Mindiptana"
   },
   {
     "id": "91.16.17",
@@ -72,11 +68,15 @@
     "name": "Sesnuk"
   },
   {
-    "id": "91.16.19",
-    "name": "Ki"
+    "id": "91.16.15",
+    "name": "Subur"
   },
   {
-    "id": "91.16.20",
-    "name": "Kawagit"
+    "id": "91.16.03",
+    "name": "Waropko"
+  },
+  {
+    "id": "91.16.14",
+    "name": "Yaniruma"
   }
 ]

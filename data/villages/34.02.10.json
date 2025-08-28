@@ -1,5 +1,25 @@
 [
   {
+    "id": "34.02.10.2006",
+    "name": "Girirejo"
+  },
+  {
+    "id": "34.02.10.2008",
+    "name": "Imogiri"
+  },
+  {
+    "id": "34.02.10.2007",
+    "name": "Karangtalun"
+  },
+  {
+    "id": "34.02.10.2005",
+    "name": "Karangtengah"
+  },
+  {
+    "id": "34.02.10.2004",
+    "name": "Kebonagung"
+  },
+  {
     "id": "34.02.10.2001",
     "name": "Selopamioro"
   },
@@ -10,25 +30,5 @@
   {
     "id": "34.02.10.2003",
     "name": "Wukirsari"
-  },
-  {
-    "id": "34.02.10.2004",
-    "name": "Kebonagung"
-  },
-  {
-    "id": "34.02.10.2005",
-    "name": "Karangtengah"
-  },
-  {
-    "id": "34.02.10.2006",
-    "name": "Girirejo"
-  },
-  {
-    "id": "34.02.10.2007",
-    "name": "Karangtalun"
-  },
-  {
-    "id": "34.02.10.2008",
-    "name": "Imogiri"
   }
 ]

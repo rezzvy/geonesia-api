@@ -1,17 +1,5 @@
 [
   {
-    "id": "12.71.06.1001",
-    "name": "Titipapan"
-  },
-  {
-    "id": "12.71.06.1002",
-    "name": "Tanjung Mulia Hilir"
-  },
-  {
-    "id": "12.71.06.1003",
-    "name": "Tanjung Mulya"
-  },
-  {
     "id": "12.71.06.1004",
     "name": "Kota Bangun"
   },
@@ -22,5 +10,17 @@
   {
     "id": "12.71.06.1006",
     "name": "Mabar Hilir"
+  },
+  {
+    "id": "12.71.06.1002",
+    "name": "Tanjung Mulia Hilir"
+  },
+  {
+    "id": "12.71.06.1003",
+    "name": "Tanjung Mulya"
+  },
+  {
+    "id": "12.71.06.1001",
+    "name": "Titipapan"
   }
 ]

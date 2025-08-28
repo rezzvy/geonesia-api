@@ -1,27 +1,11 @@
 [
   {
+    "id": "91.26.10",
+    "name": "Dogiyai"
+  },
+  {
     "id": "91.26.01",
     "name": "Kamu"
-  },
-  {
-    "id": "91.26.02",
-    "name": "Mapia"
-  },
-  {
-    "id": "91.26.03",
-    "name": "Piyaiye"
-  },
-  {
-    "id": "91.26.04",
-    "name": "Kamu Utara"
-  },
-  {
-    "id": "91.26.05",
-    "name": "Sukikai Selatan"
-  },
-  {
-    "id": "91.26.06",
-    "name": "Mapia Barat"
   },
   {
     "id": "91.26.07",
@@ -32,11 +16,27 @@
     "name": "Kamu Timur"
   },
   {
+    "id": "91.26.04",
+    "name": "Kamu Utara"
+  },
+  {
+    "id": "91.26.02",
+    "name": "Mapia"
+  },
+  {
+    "id": "91.26.06",
+    "name": "Mapia Barat"
+  },
+  {
     "id": "91.26.09",
     "name": "Mapia Tengah"
   },
   {
-    "id": "91.26.10",
-    "name": "Dogiyai"
+    "id": "91.26.03",
+    "name": "Piyaiye"
+  },
+  {
+    "id": "91.26.05",
+    "name": "Sukikai Selatan"
   }
 ]

@@ -1,9 +1,5 @@
 [
   {
-    "id": "36.01.15.2001",
-    "name": "Palanyar"
-  },
-  {
     "id": "36.01.15.2002",
     "name": "Baturanjang"
   },
@@ -12,24 +8,28 @@
     "name": "Cikadueun"
   },
   {
-    "id": "36.01.15.2004",
-    "name": "Koncang"
+    "id": "36.01.15.2007",
+    "name": "Curugbarang"
   },
   {
     "id": "36.01.15.2005",
     "name": "Kadugadung"
   },
   {
-    "id": "36.01.15.2006",
-    "name": "Parumasan"
-  },
-  {
-    "id": "36.01.15.2007",
-    "name": "Curugbarang"
-  },
-  {
     "id": "36.01.15.2008",
     "name": "Kalanggunung"
+  },
+  {
+    "id": "36.01.15.2004",
+    "name": "Koncang"
+  },
+  {
+    "id": "36.01.15.2001",
+    "name": "Palanyar"
+  },
+  {
+    "id": "36.01.15.2006",
+    "name": "Parumasan"
   },
   {
     "id": "36.01.15.2009",

@@ -1,15 +1,23 @@
 [
   {
+    "id": "13.71.11.1003",
+    "name": "Aie Pacah"
+  },
+  {
     "id": "13.71.11.1001",
     "name": "Balai Gadang"
   },
   {
-    "id": "13.71.11.1002",
-    "name": "Lubuk Minturun"
+    "id": "13.71.11.1010",
+    "name": "Batang Kabung Ganting"
   },
   {
-    "id": "13.71.11.1003",
-    "name": "Aie Pacah"
+    "id": "13.71.11.1007",
+    "name": "Batipuh Panjang"
+  },
+  {
+    "id": "13.71.11.1011",
+    "name": "Bungo Pasang"
   },
   {
     "id": "13.71.11.1004",
@@ -24,24 +32,16 @@
     "name": "Koto Pulai"
   },
   {
-    "id": "13.71.11.1007",
-    "name": "Batipuh Panjang"
-  },
-  {
-    "id": "13.71.11.1008",
-    "name": "Padang Sarai"
-  },
-  {
     "id": "13.71.11.1009",
     "name": "Lubuk Buaya"
   },
   {
-    "id": "13.71.11.1010",
-    "name": "Batang Kabung Ganting"
+    "id": "13.71.11.1002",
+    "name": "Lubuk Minturun"
   },
   {
-    "id": "13.71.11.1011",
-    "name": "Bungo Pasang"
+    "id": "13.71.11.1008",
+    "name": "Padang Sarai"
   },
   {
     "id": "13.71.11.1012",

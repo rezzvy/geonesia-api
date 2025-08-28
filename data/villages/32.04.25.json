@@ -1,15 +1,15 @@
 [
   {
+    "id": "32.04.25.2003",
+    "name": "Babakan Peuteuy"
+  },
+  {
     "id": "32.04.25.2001",
     "name": "Cicalengka Kulon"
   },
   {
     "id": "32.04.25.2002",
     "name": "Cicalengka Wetan"
-  },
-  {
-    "id": "32.04.25.2003",
-    "name": "Babakan Peuteuy"
   },
   {
     "id": "32.04.25.2004",
@@ -22,6 +22,10 @@
   {
     "id": "32.04.25.2006",
     "name": "Margaasih"
+  },
+  {
+    "id": "32.04.25.2012",
+    "name": "Nagrog"
   },
   {
     "id": "32.04.25.2007",
@@ -42,9 +46,5 @@
   {
     "id": "32.04.25.2011",
     "name": "Waluya"
-  },
-  {
-    "id": "32.04.25.2012",
-    "name": "Nagrog"
   }
 ]

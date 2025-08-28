@@ -1,5 +1,33 @@
 [
   {
+    "id": "76.03.06.2009",
+    "name": "Banea"
+  },
+  {
+    "id": "76.03.06.2003",
+    "name": "Batang Uru"
+  },
+  {
+    "id": "76.03.06.2007",
+    "name": "Batangnguru Timur"
+  },
+  {
+    "id": "76.03.06.2010",
+    "name": "Rante Kamase"
+  },
+  {
+    "id": "76.03.06.2008",
+    "name": "Salubalo"
+  },
+  {
+    "id": "76.03.06.2004",
+    "name": "Sasakan"
+  },
+  {
+    "id": "76.03.06.2006",
+    "name": "Sibanawa"
+  },
+  {
     "id": "76.03.06.1001",
     "name": "Sumarorong"
   },
@@ -8,35 +36,7 @@
     "name": "Tabone"
   },
   {
-    "id": "76.03.06.2003",
-    "name": "Batang Uru"
-  },
-  {
-    "id": "76.03.06.2004",
-    "name": "Sasakan"
-  },
-  {
     "id": "76.03.06.2005",
     "name": "Tadisi"
-  },
-  {
-    "id": "76.03.06.2006",
-    "name": "Sibanawa"
-  },
-  {
-    "id": "76.03.06.2007",
-    "name": "Batangnguru Timur"
-  },
-  {
-    "id": "76.03.06.2008",
-    "name": "Salubalo"
-  },
-  {
-    "id": "76.03.06.2009",
-    "name": "Banea"
-  },
-  {
-    "id": "76.03.06.2010",
-    "name": "Rante Kamase"
   }
 ]

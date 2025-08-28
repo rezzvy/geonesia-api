@@ -3,6 +3,30 @@
   "province": "KALIMANTAN TENGAH",
   "city": [
     {
+      "id": "62.04",
+      "name": "KAB. BARITO SELATAN"
+    },
+    {
+      "id": "62.13",
+      "name": "KAB. BARITO TIMUR"
+    },
+    {
+      "id": "62.05",
+      "name": "KAB. BARITO UTARA"
+    },
+    {
+      "id": "62.10",
+      "name": "KAB. GUNUNG MAS"
+    },
+    {
+      "id": "62.03",
+      "name": "KAB. KAPUAS"
+    },
+    {
+      "id": "62.06",
+      "name": "KAB. KATINGAN"
+    },
+    {
       "id": "62.01",
       "name": "KAB. KOTAWARINGIN BARAT"
     },
@@ -11,20 +35,16 @@
       "name": "KAB. KOTAWARINGIN TIMUR"
     },
     {
-      "id": "62.03",
-      "name": "KAB. KAPUAS"
+      "id": "62.09",
+      "name": "KAB. LAMANDAU"
     },
     {
-      "id": "62.04",
-      "name": "KAB. BARITO SELATAN"
+      "id": "62.12",
+      "name": "KAB. MURUNG RAYA"
     },
     {
-      "id": "62.05",
-      "name": "KAB. BARITO UTARA"
-    },
-    {
-      "id": "62.06",
-      "name": "KAB. KATINGAN"
+      "id": "62.11",
+      "name": "KAB. PULANG PISAU"
     },
     {
       "id": "62.07",
@@ -33,26 +53,6 @@
     {
       "id": "62.08",
       "name": "KAB. SUKAMARA"
-    },
-    {
-      "id": "62.09",
-      "name": "KAB. LAMANDAU"
-    },
-    {
-      "id": "62.10",
-      "name": "KAB. GUNUNG MAS"
-    },
-    {
-      "id": "62.11",
-      "name": "KAB. PULANG PISAU"
-    },
-    {
-      "id": "62.12",
-      "name": "KAB. MURUNG RAYA"
-    },
-    {
-      "id": "62.13",
-      "name": "KAB. BARITO TIMUR"
     },
     {
       "id": "62.71",

@@ -1,5 +1,13 @@
 [
   {
+    "id": "17.07.10.1009",
+    "name": "Amen"
+  },
+  {
+    "id": "17.07.10.2008",
+    "name": "Garut"
+  },
+  {
     "id": "17.07.10.2001",
     "name": "Nangai Tayau"
   },
@@ -12,6 +20,10 @@
     "name": "Pyang Mbik"
   },
   {
+    "id": "17.07.10.2007",
+    "name": "Selebar Jaya"
+  },
+  {
     "id": "17.07.10.2004",
     "name": "Sukau Mergo"
   },
@@ -20,23 +32,11 @@
     "name": "Sukau Rajo"
   },
   {
-    "id": "17.07.10.2006",
-    "name": "Talang Bunut"
-  },
-  {
-    "id": "17.07.10.2007",
-    "name": "Selebar Jaya"
-  },
-  {
-    "id": "17.07.10.2008",
-    "name": "Garut"
-  },
-  {
-    "id": "17.07.10.1009",
-    "name": "Amen"
-  },
-  {
     "id": "17.07.10.2010",
     "name": "Sungai Gerong"
+  },
+  {
+    "id": "17.07.10.2006",
+    "name": "Talang Bunut"
   }
 ]

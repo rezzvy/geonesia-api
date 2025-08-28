@@ -1,19 +1,11 @@
 [
   {
-    "id": "12.17.07.2001",
-    "name": "Salaon Toba"
-  },
-  {
     "id": "12.17.07.2002",
     "name": "Lintong Nihuta"
   },
   {
-    "id": "12.17.07.2003",
-    "name": "Salaon Tonga Tonga"
-  },
-  {
-    "id": "12.17.07.2004",
-    "name": "Salaon Dolok"
+    "id": "12.17.07.2007",
+    "name": "Paraduan"
   },
   {
     "id": "12.17.07.2005",
@@ -24,8 +16,16 @@
     "name": "Sabungan Nihuta"
   },
   {
-    "id": "12.17.07.2007",
-    "name": "Paraduan"
+    "id": "12.17.07.2004",
+    "name": "Salaon Dolok"
+  },
+  {
+    "id": "12.17.07.2001",
+    "name": "Salaon Toba"
+  },
+  {
+    "id": "12.17.07.2003",
+    "name": "Salaon Tonga Tonga"
   },
   {
     "id": "12.17.07.2008",

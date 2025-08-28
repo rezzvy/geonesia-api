@@ -1,27 +1,7 @@
 [
   {
-    "id": "18.03.15.2001",
-    "name": "Negeri Ujung Karang"
-  },
-  {
     "id": "18.03.15.2002",
     "name": "Bandar Agung"
-  },
-  {
-    "id": "18.03.15.2003",
-    "name": "Karang Sari"
-  },
-  {
-    "id": "18.03.15.2004",
-    "name": "Karang Rejo II"
-  },
-  {
-    "id": "18.03.15.2005",
-    "name": "Karang Sakti"
-  },
-  {
-    "id": "18.03.15.2006",
-    "name": "Karang Mulyo"
   },
   {
     "id": "18.03.15.2007",
@@ -32,8 +12,28 @@
     "name": "Banjar Ratu"
   },
   {
+    "id": "18.03.15.2006",
+    "name": "Karang Mulyo"
+  },
+  {
+    "id": "18.03.15.2004",
+    "name": "Karang Rejo II"
+  },
+  {
+    "id": "18.03.15.2005",
+    "name": "Karang Sakti"
+  },
+  {
+    "id": "18.03.15.2003",
+    "name": "Karang Sari"
+  },
+  {
     "id": "18.03.15.2009",
     "name": "Negeri Ratu"
+  },
+  {
+    "id": "18.03.15.2001",
+    "name": "Negeri Ujung Karang"
   },
   {
     "id": "18.03.15.2010",

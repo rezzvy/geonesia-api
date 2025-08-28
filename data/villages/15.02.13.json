@@ -1,23 +1,11 @@
 [
   {
-    "id": "15.02.13.2001",
-    "name": "Tanjung Lamin"
-  },
-  {
-    "id": "15.02.13.2002",
-    "name": "Limbur Merangin"
-  },
-  {
     "id": "15.02.13.2003",
     "name": "Karang Anyar"
   },
   {
-    "id": "15.02.13.2004",
-    "name": "Pinang Merah"
-  },
-  {
-    "id": "15.02.13.2005",
-    "name": "Simpang L. Merangin"
+    "id": "15.02.13.2002",
+    "name": "Limbur Merangin"
   },
   {
     "id": "15.02.13.2006",
@@ -28,7 +16,19 @@
     "name": "Papit"
   },
   {
+    "id": "15.02.13.2004",
+    "name": "Pinang Merah"
+  },
+  {
     "id": "15.02.13.2008",
     "name": "PulauTujuh"
+  },
+  {
+    "id": "15.02.13.2005",
+    "name": "Simpang L. Merangin"
+  },
+  {
+    "id": "15.02.13.2001",
+    "name": "Tanjung Lamin"
   }
 ]

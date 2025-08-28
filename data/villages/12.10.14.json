@@ -1,17 +1,5 @@
 [
   {
-    "id": "12.10.14.2001",
-    "name": "Sidorukun"
-  },
-  {
-    "id": "12.10.14.2002",
-    "name": "Tebing Tinggi Pangkatan"
-  },
-  {
-    "id": "12.10.14.2003",
-    "name": "Perkebunan Pangkatan"
-  },
-  {
     "id": "12.10.14.2004",
     "name": "Kampung Padang"
   },
@@ -20,11 +8,23 @@
     "name": "Pangkatan"
   },
   {
+    "id": "12.10.14.2003",
+    "name": "Perkebunan Pangkatan"
+  },
+  {
     "id": "12.10.14.2006",
     "name": "Sennah"
   },
   {
+    "id": "12.10.14.2001",
+    "name": "Sidorukun"
+  },
+  {
     "id": "12.10.14.2007",
     "name": "Tanjung Harapan"
+  },
+  {
+    "id": "12.10.14.2002",
+    "name": "Tebing Tinggi Pangkatan"
   }
 ]

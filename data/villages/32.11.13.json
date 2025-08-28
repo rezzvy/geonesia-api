@@ -8,14 +8,6 @@
     "name": "Cijeruk"
   },
   {
-    "id": "32.11.13.2003",
-    "name": "Pamulihan"
-  },
-  {
-    "id": "32.11.13.2004",
-    "name": "Haurgombong"
-  },
-  {
     "id": "32.11.13.2005",
     "name": "Cilembu"
   },
@@ -28,19 +20,27 @@
     "name": "Cinanggerang"
   },
   {
-    "id": "32.11.13.2008",
-    "name": "Mekarbakti"
-  },
-  {
-    "id": "32.11.13.2009",
-    "name": "Sukawangi"
-  },
-  {
     "id": "32.11.13.2010",
     "name": "Ciptasari"
   },
   {
     "id": "32.11.13.2011",
     "name": "Citali"
+  },
+  {
+    "id": "32.11.13.2004",
+    "name": "Haurgombong"
+  },
+  {
+    "id": "32.11.13.2008",
+    "name": "Mekarbakti"
+  },
+  {
+    "id": "32.11.13.2003",
+    "name": "Pamulihan"
+  },
+  {
+    "id": "32.11.13.2009",
+    "name": "Sukawangi"
   }
 ]

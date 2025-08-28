@@ -8,18 +8,6 @@
     "name": "Bandar Selamat"
   },
   {
-    "id": "12.23.04.2003",
-    "name": "Perk. Padang Halaban"
-  },
-  {
-    "id": "12.23.04.2004",
-    "name": "Perkebunan Panigoran"
-  },
-  {
-    "id": "12.23.04.2005",
-    "name": "Sidomulyo"
-  },
-  {
     "id": "12.23.04.2006",
     "name": "Karang Anyar"
   },
@@ -28,7 +16,19 @@
     "name": "Padang Maninjau"
   },
   {
+    "id": "12.23.04.2003",
+    "name": "Perk. Padang Halaban"
+  },
+  {
+    "id": "12.23.04.2004",
+    "name": "Perkebunan Panigoran"
+  },
+  {
     "id": "12.23.04.2008",
     "name": "Purworejo"
+  },
+  {
+    "id": "12.23.04.2005",
+    "name": "Sidomulyo"
   }
 ]

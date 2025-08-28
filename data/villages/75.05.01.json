@@ -1,9 +1,5 @@
 [
   {
-    "id": "75.05.01.2003",
-    "name": "Imana"
-  },
-  {
     "id": "75.05.01.2004",
     "name": "Bintana"
   },
@@ -12,28 +8,36 @@
     "name": "Buata"
   },
   {
-    "id": "75.05.01.2006",
-    "name": "Pinontoyonga"
-  },
-  {
-    "id": "75.05.01.2007",
-    "name": "Monggupo"
-  },
-  {
-    "id": "75.05.01.2008",
-    "name": "Kotajin"
+    "id": "75.05.01.2013",
+    "name": "Iloheluma"
   },
   {
     "id": "75.05.01.2011",
     "name": "Ilomata"
   },
   {
-    "id": "75.05.01.2013",
-    "name": "Iloheluma"
+    "id": "75.05.01.2003",
+    "name": "Imana"
   },
   {
-    "id": "75.05.01.2014",
-    "name": "Wapalo"
+    "id": "75.05.01.2008",
+    "name": "Kotajin"
+  },
+  {
+    "id": "75.05.01.2018",
+    "name": "Kotajin Utara"
+  },
+  {
+    "id": "75.05.01.2007",
+    "name": "Monggupo"
+  },
+  {
+    "id": "75.05.01.2019",
+    "name": "Oluhuta"
+  },
+  {
+    "id": "75.05.01.2006",
+    "name": "Pinontoyonga"
   },
   {
     "id": "75.05.01.2015",
@@ -48,11 +52,7 @@
     "name": "Tombulilato"
   },
   {
-    "id": "75.05.01.2018",
-    "name": "Kotajin Utara"
-  },
-  {
-    "id": "75.05.01.2019",
-    "name": "Oluhuta"
+    "id": "75.05.01.2014",
+    "name": "Wapalo"
   }
 ]

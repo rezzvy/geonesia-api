@@ -4,24 +4,12 @@
     "name": "Anggalan"
   },
   {
-    "id": "36.02.17.2002",
-    "name": "Muncangkopong"
-  },
-  {
-    "id": "36.02.17.2003",
-    "name": "Sukaharja"
-  },
-  {
-    "id": "36.02.17.2004",
-    "name": "Tamanjaya"
+    "id": "36.02.17.2009",
+    "name": "Cigoong Selatan"
   },
   {
     "id": "36.02.17.2005",
     "name": "Cigoong Utara"
-  },
-  {
-    "id": "36.02.17.2006",
-    "name": "Muaradua"
   },
   {
     "id": "36.02.17.2007",
@@ -32,23 +20,35 @@
     "name": "Curugpanjang"
   },
   {
-    "id": "36.02.17.2009",
-    "name": "Cigoong Selatan"
+    "id": "36.02.17.2006",
+    "name": "Muaradua"
   },
   {
-    "id": "36.02.17.2010",
-    "name": "Sumurbandung"
+    "id": "36.02.17.2002",
+    "name": "Muncangkopong"
   },
   {
     "id": "36.02.17.2011",
     "name": "Parage"
   },
   {
+    "id": "36.02.17.2013",
+    "name": "Pasirgintung"
+  },
+  {
     "id": "36.02.17.2012",
     "name": "Sukadaya"
   },
   {
-    "id": "36.02.17.2013",
-    "name": "Pasirgintung"
+    "id": "36.02.17.2003",
+    "name": "Sukaharja"
+  },
+  {
+    "id": "36.02.17.2010",
+    "name": "Sumurbandung"
+  },
+  {
+    "id": "36.02.17.2004",
+    "name": "Tamanjaya"
   }
 ]

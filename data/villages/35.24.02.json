@@ -1,9 +1,5 @@
 [
   {
-    "id": "35.24.02.2001",
-    "name": "Talunrejo"
-  },
-  {
     "id": "35.24.02.2002",
     "name": "Banjargondang"
   },
@@ -12,27 +8,31 @@
     "name": "Bluluk"
   },
   {
-    "id": "35.24.02.2004",
-    "name": "Cangkring"
-  },
-  {
     "id": "35.24.02.2005",
     "name": "Bronjong"
   },
   {
-    "id": "35.24.02.2006",
-    "name": "Songowareng"
+    "id": "35.24.02.2004",
+    "name": "Cangkring"
   },
   {
     "id": "35.24.02.2007",
     "name": "Kuwurejo"
   },
   {
+    "id": "35.24.02.2009",
+    "name": "Primpen"
+  },
+  {
+    "id": "35.24.02.2006",
+    "name": "Songowareng"
+  },
+  {
     "id": "35.24.02.2008",
     "name": "Sumberbanjar"
   },
   {
-    "id": "35.24.02.2009",
-    "name": "Primpen"
+    "id": "35.24.02.2001",
+    "name": "Talunrejo"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "63.02.17.2003",
+    "name": "Langadai"
+  },
+  {
+    "id": "63.02.17.2007",
+    "name": "Mandala"
+  },
+  {
+    "id": "63.02.17.2005",
+    "name": "Pelajau Baru"
+  },
+  {
+    "id": "63.02.17.2004",
+    "name": "Pulau Panci"
+  },
+  {
+    "id": "63.02.17.2009",
+    "name": "Sahapi"
+  },
+  {
     "id": "63.02.17.2001",
     "name": "Serongga"
   },
@@ -8,31 +28,11 @@
     "name": "Tarjun"
   },
   {
-    "id": "63.02.17.2003",
-    "name": "Langadai"
-  },
-  {
-    "id": "63.02.17.2004",
-    "name": "Pulau Panci"
-  },
-  {
-    "id": "63.02.17.2005",
-    "name": "Pelajau Baru"
-  },
-  {
     "id": "63.02.17.2006",
     "name": "Tegal Rejo"
   },
   {
-    "id": "63.02.17.2007",
-    "name": "Mandala"
-  },
-  {
     "id": "63.02.17.2008",
     "name": "Telagasari"
-  },
-  {
-    "id": "63.02.17.2009",
-    "name": "Sahapi"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": "73.72.03.1007",
+    "name": "Bukit Harapan"
+  },
+  {
+    "id": "73.72.03.1006",
+    "name": "Bukit Indah"
+  },
+  {
+    "id": "73.72.03.1004",
+    "name": "Kampung Pisang"
+  },
+  {
     "id": "73.72.03.1001",
     "name": "Lakessi"
   },
@@ -8,23 +20,11 @@
     "name": "Ujung Baru"
   },
   {
-    "id": "73.72.03.1003",
-    "name": "Watang Soreang"
-  },
-  {
-    "id": "73.72.03.1004",
-    "name": "Kampung Pisang"
-  },
-  {
     "id": "73.72.03.1005",
     "name": "Ujung Lare"
   },
   {
-    "id": "73.72.03.1006",
-    "name": "Bukit Indah"
-  },
-  {
-    "id": "73.72.03.1007",
-    "name": "Bukit Harapan"
+    "id": "73.72.03.1003",
+    "name": "Watang Soreang"
   }
 ]

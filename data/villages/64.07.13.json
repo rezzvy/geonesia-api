@@ -1,15 +1,15 @@
 [
   {
+    "id": "64.07.13.2006",
+    "name": "Bakung"
+  },
+  {
     "id": "64.07.13.2001",
     "name": "Loa Deras"
   },
   {
     "id": "64.07.13.2002",
     "name": "Minta"
-  },
-  {
-    "id": "64.07.13.2003",
-    "name": "Tanjung Haur"
   },
   {
     "id": "64.07.13.2004",
@@ -20,7 +20,7 @@
     "name": "Penyinggahan Ulu"
   },
   {
-    "id": "64.07.13.2006",
-    "name": "Bakung"
+    "id": "64.07.13.2003",
+    "name": "Tanjung Haur"
   }
 ]

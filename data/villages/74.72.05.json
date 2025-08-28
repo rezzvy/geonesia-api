@@ -1,5 +1,17 @@
 [
   {
+    "id": "74.72.05.1006",
+    "name": "Kadolo"
+  },
+  {
+    "id": "74.72.05.1005",
+    "name": "Kadolomoko"
+  },
+  {
+    "id": "74.72.05.1003",
+    "name": "Lakologou"
+  },
+  {
     "id": "74.72.05.1001",
     "name": "Liwuto"
   },
@@ -8,19 +20,7 @@
     "name": "Sukanaeyo"
   },
   {
-    "id": "74.72.05.1003",
-    "name": "Lakologou"
-  },
-  {
     "id": "74.72.05.1004",
     "name": "Waruruma"
-  },
-  {
-    "id": "74.72.05.1005",
-    "name": "Kadolomoko"
-  },
-  {
-    "id": "74.72.05.1006",
-    "name": "Kadolo"
   }
 ]

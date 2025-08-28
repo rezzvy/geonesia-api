@@ -1,19 +1,15 @@
 [
   {
-    "id": "32.78.01.1001",
-    "name": "Yudanagara"
-  },
-  {
-    "id": "32.78.01.1002",
-    "name": "Nagarawangi"
+    "id": "32.78.01.1004",
+    "name": "Argasari"
   },
   {
     "id": "32.78.01.1003",
     "name": "Cilembang"
   },
   {
-    "id": "32.78.01.1004",
-    "name": "Argasari"
+    "id": "32.78.01.1002",
+    "name": "Nagarawangi"
   },
   {
     "id": "32.78.01.1005",
@@ -22,5 +18,9 @@
   {
     "id": "32.78.01.1006",
     "name": "Tuguraja"
+  },
+  {
+    "id": "32.78.01.1001",
+    "name": "Yudanagara"
   }
 ]

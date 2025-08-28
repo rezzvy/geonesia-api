@@ -4,12 +4,16 @@
     "name": "Cibodas"
   },
   {
+    "id": "36.71.09.1003",
+    "name": "Cibodas Baru"
+  },
+  {
     "id": "36.71.09.1002",
     "name": "Cibodasari"
   },
   {
-    "id": "36.71.09.1003",
-    "name": "Cibodas Baru"
+    "id": "36.71.09.1006",
+    "name": "Jatiuwung"
   },
   {
     "id": "36.71.09.1004",
@@ -18,9 +22,5 @@
   {
     "id": "36.71.09.1005",
     "name": "Uwung Jaya"
-  },
-  {
-    "id": "36.71.09.1006",
-    "name": "Jatiuwung"
   }
 ]

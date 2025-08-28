@@ -1,17 +1,5 @@
 [
   {
-    "id": "71.07.01.2003",
-    "name": "Rasi"
-  },
-  {
-    "id": "71.07.01.1004",
-    "name": "Tosuraya"
-  },
-  {
-    "id": "71.07.01.1005",
-    "name": "Wawali"
-  },
-  {
     "id": "71.07.01.1008",
     "name": "Lowu Dua"
   },
@@ -28,6 +16,18 @@
     "name": "Nataan"
   },
   {
+    "id": "71.07.01.2003",
+    "name": "Rasi"
+  },
+  {
+    "id": "71.07.01.2021",
+    "name": "Rasi Satu"
+  },
+  {
+    "id": "71.07.01.1004",
+    "name": "Tosuraya"
+  },
+  {
     "id": "71.07.01.1018",
     "name": "Tosuraya Barat"
   },
@@ -36,11 +36,11 @@
     "name": "Tosuraya Selatan"
   },
   {
-    "id": "71.07.01.1020",
-    "name": "Wawali Pasan"
+    "id": "71.07.01.1005",
+    "name": "Wawali"
   },
   {
-    "id": "71.07.01.2021",
-    "name": "Rasi Satu"
+    "id": "71.07.01.1020",
+    "name": "Wawali Pasan"
   }
 ]

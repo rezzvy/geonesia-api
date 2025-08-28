@@ -4,10 +4,6 @@
     "name": "Mundidok"
   },
   {
-    "id": "91.25.24.2002",
-    "name": "Yaiki Maiki"
-  },
-  {
     "id": "91.25.24.2003",
     "name": "Tobenggi"
   },
@@ -18,5 +14,9 @@
   {
     "id": "91.25.24.2005",
     "name": "Welenggaru"
+  },
+  {
+    "id": "91.25.24.2002",
+    "name": "Yaiki Maiki"
   }
 ]

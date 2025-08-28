@@ -1,15 +1,11 @@
 [
   {
-    "id": "61.02.15.2001",
-    "name": "Peniti Besar"
-  },
-  {
-    "id": "61.02.15.2002",
-    "name": "Sungai Purun Besar"
-  },
-  {
     "id": "61.02.15.2003",
     "name": "Parit Bugis"
+  },
+  {
+    "id": "61.02.15.2001",
+    "name": "Peniti Besar"
   },
   {
     "id": "61.02.15.2004",
@@ -22,5 +18,9 @@
   {
     "id": "61.02.15.2006",
     "name": "Sungai Burung"
+  },
+  {
+    "id": "61.02.15.2002",
+    "name": "Sungai Purun Besar"
   }
 ]

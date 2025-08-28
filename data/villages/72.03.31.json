@@ -1,13 +1,5 @@
 [
   {
-    "id": "72.03.31.2001",
-    "name": "Walandano"
-  },
-  {
-    "id": "72.03.31.2002",
-    "name": "Malei"
-  },
-  {
     "id": "72.03.31.2003",
     "name": "Kamonji"
   },
@@ -16,19 +8,27 @@
     "name": "Ketong"
   },
   {
-    "id": "72.03.31.2005",
-    "name": "Rano"
+    "id": "72.03.31.2002",
+    "name": "Malei"
   },
   {
-    "id": "72.03.31.2006",
-    "name": "Pomolulu"
+    "id": "72.03.31.2008",
+    "name": "Manimbaya"
   },
   {
     "id": "72.03.31.2007",
     "name": "Palau"
   },
   {
-    "id": "72.03.31.2008",
-    "name": "Manimbaya"
+    "id": "72.03.31.2006",
+    "name": "Pomolulu"
+  },
+  {
+    "id": "72.03.31.2005",
+    "name": "Rano"
+  },
+  {
+    "id": "72.03.31.2001",
+    "name": "Walandano"
   }
 ]

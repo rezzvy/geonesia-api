@@ -1,5 +1,9 @@
 [
   {
+    "id": "63.71.04.1003",
+    "name": "Alalak Selatan"
+  },
+  {
     "id": "63.71.04.1001",
     "name": "Alalak Tengah"
   },
@@ -8,8 +12,20 @@
     "name": "Alalak Utara"
   },
   {
-    "id": "63.71.04.1003",
-    "name": "Alalak Selatan"
+    "id": "63.71.04.1008",
+    "name": "Antasan Kecil Timur"
+  },
+  {
+    "id": "63.71.04.1009",
+    "name": "Kuin Utara"
+  },
+  {
+    "id": "63.71.04.1007",
+    "name": "Pangeran"
+  },
+  {
+    "id": "63.71.04.1010",
+    "name": "Sungai Andai"
   },
   {
     "id": "63.71.04.1004",
@@ -22,21 +38,5 @@
   {
     "id": "63.71.04.1006",
     "name": "Surgi Mufti"
-  },
-  {
-    "id": "63.71.04.1007",
-    "name": "Pangeran"
-  },
-  {
-    "id": "63.71.04.1008",
-    "name": "Antasan Kecil Timur"
-  },
-  {
-    "id": "63.71.04.1009",
-    "name": "Kuin Utara"
-  },
-  {
-    "id": "63.71.04.1010",
-    "name": "Sungai Andai"
   }
 ]

@@ -1,9 +1,5 @@
 [
   {
-    "id": "74.04.11",
-    "name": "Pasarwajo"
-  },
-  {
     "id": "74.04.22",
     "name": "Kapontori"
   },
@@ -16,15 +12,19 @@
     "name": "Lasalimu Selatan"
   },
   {
+    "id": "74.04.11",
+    "name": "Pasarwajo"
+  },
+  {
     "id": "74.04.27",
     "name": "Siotapina"
   },
   {
-    "id": "74.04.28",
-    "name": "Wolowa"
-  },
-  {
     "id": "74.04.29",
     "name": "Wabula"
+  },
+  {
+    "id": "74.04.28",
+    "name": "Wolowa"
   }
 ]

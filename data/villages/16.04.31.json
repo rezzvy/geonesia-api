@@ -4,18 +4,6 @@
     "name": "Banjar Negara"
   },
   {
-    "id": "16.04.31.2002",
-    "name": "Tanjung Payang"
-  },
-  {
-    "id": "16.04.31.2003",
-    "name": "Tanjung Tebat"
-  },
-  {
-    "id": "16.04.31.2004",
-    "name": "Nantal"
-  },
-  {
     "id": "16.04.31.2005",
     "name": "Karang Anyar"
   },
@@ -32,11 +20,23 @@
     "name": "Muara Cawang"
   },
   {
+    "id": "16.04.31.2004",
+    "name": "Nantal"
+  },
+  {
     "id": "16.04.31.2009",
     "name": "Talang Sawah"
   },
   {
     "id": "16.04.31.2010",
     "name": "Talang Sejemput"
+  },
+  {
+    "id": "16.04.31.2002",
+    "name": "Tanjung Payang"
+  },
+  {
+    "id": "16.04.31.2003",
+    "name": "Tanjung Tebat"
   }
 ]

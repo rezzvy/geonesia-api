@@ -1,5 +1,9 @@
 [
   {
+    "id": "18.12.02.2006",
+    "name": "Daya Asri"
+  },
+  {
     "id": "18.12.02.1001",
     "name": "Daya Murni"
   },
@@ -8,20 +12,24 @@
     "name": "Daya Sakti"
   },
   {
-    "id": "18.12.02.2003",
-    "name": "Margo Mulyo"
+    "id": "18.12.02.2005",
+    "name": "Gunung Menanti"
+  },
+  {
+    "id": "18.12.02.2010",
+    "name": "Gunung Timbul"
   },
   {
     "id": "18.12.02.2004",
     "name": "Makarti"
   },
   {
-    "id": "18.12.02.2005",
-    "name": "Gunung Menanti"
+    "id": "18.12.02.2009",
+    "name": "Margo Dadi"
   },
   {
-    "id": "18.12.02.2006",
-    "name": "Daya Asri"
+    "id": "18.12.02.2003",
+    "name": "Margo Mulyo"
   },
   {
     "id": "18.12.02.2007",
@@ -30,13 +38,5 @@
   {
     "id": "18.12.02.2008",
     "name": "Sumber Rejo"
-  },
-  {
-    "id": "18.12.02.2009",
-    "name": "Margo Dadi"
-  },
-  {
-    "id": "18.12.02.2010",
-    "name": "Gunung Timbul"
   }
 ]

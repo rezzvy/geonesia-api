@@ -1,7 +1,15 @@
 [
   {
-    "id": "15.71.01",
-    "name": "Telanaipura"
+    "id": "15.71.09",
+    "name": "Alam Barajo"
+  },
+  {
+    "id": "15.71.10",
+    "name": "Danau Sipin"
+  },
+  {
+    "id": "15.71.06",
+    "name": "Danau Teluk"
   },
   {
     "id": "15.71.02",
@@ -12,6 +20,18 @@
     "name": "Jambi Timur"
   },
   {
+    "id": "15.71.08",
+    "name": "Jelutung"
+  },
+  {
+    "id": "15.71.07",
+    "name": "Kota Baru"
+  },
+  {
+    "id": "15.71.11",
+    "name": "Paal Merah"
+  },
+  {
     "id": "15.71.04",
     "name": "Pasar Jambi"
   },
@@ -20,27 +40,7 @@
     "name": "Pelayangan"
   },
   {
-    "id": "15.71.06",
-    "name": "Danau Teluk"
-  },
-  {
-    "id": "15.71.07",
-    "name": "Kota Baru"
-  },
-  {
-    "id": "15.71.08",
-    "name": "Jelutung"
-  },
-  {
-    "id": "15.71.09",
-    "name": "Alam Barajo"
-  },
-  {
-    "id": "15.71.10",
-    "name": "Danau Sipin"
-  },
-  {
-    "id": "15.71.11",
-    "name": "Paal Merah"
+    "id": "15.71.01",
+    "name": "Telanaipura"
   }
 ]

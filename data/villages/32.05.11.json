@@ -1,11 +1,19 @@
 [
   {
-    "id": "32.05.11.2001",
-    "name": "Leuwigoong"
+    "id": "32.05.11.2005",
+    "name": "Dungusiku"
   },
   {
     "id": "32.05.11.2002",
     "name": "Karanganyar"
+  },
+  {
+    "id": "32.05.11.2008",
+    "name": "Karangsari"
+  },
+  {
+    "id": "32.05.11.2001",
+    "name": "Leuwigoong"
   },
   {
     "id": "32.05.11.2003",
@@ -16,19 +24,11 @@
     "name": "Margahayu"
   },
   {
-    "id": "32.05.11.2005",
-    "name": "Dungusiku"
-  },
-  {
-    "id": "32.05.11.2006",
-    "name": "Tambak Sari"
-  },
-  {
     "id": "32.05.11.2007",
     "name": "Sindangsari"
   },
   {
-    "id": "32.05.11.2008",
-    "name": "Karangsari"
+    "id": "32.05.11.2006",
+    "name": "Tambak Sari"
   }
 ]

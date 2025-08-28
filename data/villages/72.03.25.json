@@ -1,9 +1,5 @@
 [
   {
-    "id": "72.03.25.2001",
-    "name": "Sikara Tobata"
-  },
-  {
     "id": "72.03.25.2002",
     "name": "Alindau"
   },
@@ -12,15 +8,19 @@
     "name": "Oti"
   },
   {
-    "id": "72.03.25.2004",
-    "name": "Tamarenja"
+    "id": "72.03.25.2001",
+    "name": "Sikara Tobata"
+  },
+  {
+    "id": "72.03.25.2006",
+    "name": "Sindosa"
   },
   {
     "id": "72.03.25.2005",
     "name": "Sipeso"
   },
   {
-    "id": "72.03.25.2006",
-    "name": "Sindosa"
+    "id": "72.03.25.2004",
+    "name": "Tamarenja"
   }
 ]

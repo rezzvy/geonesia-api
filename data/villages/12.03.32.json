@@ -1,23 +1,27 @@
 [
   {
+    "id": "12.03.32.2003",
+    "name": "Basilam Baru"
+  },
+  {
     "id": "12.03.32.1001",
     "name": "Bintuju"
+  },
+  {
+    "id": "12.03.32.2005",
+    "name": "Huta Holbung"
   },
   {
     "id": "12.03.32.1002",
     "name": "Huta Tonga"
   },
   {
-    "id": "12.03.32.2003",
-    "name": "Basilam Baru"
+    "id": "12.03.32.2009",
+    "name": "Janji Mauli MT"
   },
   {
-    "id": "12.03.32.2004",
-    "name": "Sipangko"
-  },
-  {
-    "id": "12.03.32.2005",
-    "name": "Huta Holbung"
+    "id": "12.03.32.2014",
+    "name": "Muara Purba Nauli"
   },
   {
     "id": "12.03.32.2006",
@@ -32,28 +36,24 @@
     "name": "Muara Tais III"
   },
   {
-    "id": "12.03.32.2009",
-    "name": "Janji Mauli MT"
+    "id": "12.03.32.2011",
+    "name": "Pangaribuan"
   },
   {
     "id": "12.03.32.2010",
     "name": "Pargumbangan"
   },
   {
-    "id": "12.03.32.2011",
-    "name": "Pangaribuan"
-  },
-  {
     "id": "12.03.32.2012",
     "name": "Pasir Matogu"
   },
   {
-    "id": "12.03.32.2013",
-    "name": "Sori Manaon"
+    "id": "12.03.32.2004",
+    "name": "Sipangko"
   },
   {
-    "id": "12.03.32.2014",
-    "name": "Muara Purba Nauli"
+    "id": "12.03.32.2013",
+    "name": "Sori Manaon"
   },
   {
     "id": "12.03.32.2015",

@@ -8,6 +8,10 @@
     "name": "Gerpa"
   },
   {
+    "id": "11.17.03.2019",
+    "name": "Geruti Jaya"
+  },
+  {
     "id": "11.17.03.2004",
     "name": "Goneng"
   },
@@ -28,6 +32,10 @@
     "name": "Payung"
   },
   {
+    "id": "11.17.03.2017",
+    "name": "Rata Mulie"
+  },
+  {
     "id": "11.17.03.2012",
     "name": "Rusip"
   },
@@ -36,23 +44,15 @@
     "name": "Tembolon"
   },
   {
+    "id": "11.17.03.2018",
+    "name": "Tempen Baru"
+  },
+  {
     "id": "11.17.03.2015",
     "name": "Uning"
   },
   {
     "id": "11.17.03.2016",
     "name": "Wihni Durin"
-  },
-  {
-    "id": "11.17.03.2017",
-    "name": "Rata Mulie"
-  },
-  {
-    "id": "11.17.03.2018",
-    "name": "Tempen Baru"
-  },
-  {
-    "id": "11.17.03.2019",
-    "name": "Geruti Jaya"
   }
 ]

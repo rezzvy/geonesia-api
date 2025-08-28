@@ -1,35 +1,11 @@
 [
   {
-    "id": "53.09.20.2001",
-    "name": "Paupaga"
-  },
-  {
-    "id": "53.09.20.2002",
-    "name": "Sebowuli"
-  },
-  {
     "id": "53.09.20.2003",
     "name": "Inerie"
   },
   {
-    "id": "53.09.20.2004",
-    "name": "Warupele Satu"
-  },
-  {
-    "id": "53.09.20.2005",
-    "name": "Warupele Dua"
-  },
-  {
     "id": "53.09.20.2006",
     "name": "Kelitei"
-  },
-  {
-    "id": "53.09.20.2007",
-    "name": "Waebela"
-  },
-  {
-    "id": "53.09.20.2008",
-    "name": "Tiwurana"
   },
   {
     "id": "53.09.20.2009",
@@ -38,5 +14,29 @@
   {
     "id": "53.09.20.2010",
     "name": "Manubhara"
+  },
+  {
+    "id": "53.09.20.2001",
+    "name": "Paupaga"
+  },
+  {
+    "id": "53.09.20.2002",
+    "name": "Sebowuli"
+  },
+  {
+    "id": "53.09.20.2008",
+    "name": "Tiwurana"
+  },
+  {
+    "id": "53.09.20.2007",
+    "name": "Waebela"
+  },
+  {
+    "id": "53.09.20.2005",
+    "name": "Warupele Dua"
+  },
+  {
+    "id": "53.09.20.2004",
+    "name": "Warupele Satu"
   }
 ]

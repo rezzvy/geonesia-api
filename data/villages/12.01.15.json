@@ -1,17 +1,5 @@
 [
   {
-    "id": "12.01.15.1001",
-    "name": "Hutabalang"
-  },
-  {
-    "id": "12.01.15.1002",
-    "name": "Lopian"
-  },
-  {
-    "id": "12.01.15.2003",
-    "name": "Jago Jago"
-  },
-  {
     "id": "12.01.15.2004",
     "name": "Aek Horsik"
   },
@@ -20,8 +8,20 @@
     "name": "Gunung Kelambu"
   },
   {
+    "id": "12.01.15.1001",
+    "name": "Hutabalang"
+  },
+  {
+    "id": "12.01.15.2003",
+    "name": "Jago Jago"
+  },
+  {
     "id": "12.01.15.2006",
     "name": "Kebun Pisang"
+  },
+  {
+    "id": "12.01.15.1002",
+    "name": "Lopian"
   },
   {
     "id": "12.01.15.2007",

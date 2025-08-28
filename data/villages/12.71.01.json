@@ -1,15 +1,7 @@
 [
   {
-    "id": "12.71.01.1001",
-    "name": "Pasar Baru"
-  },
-  {
-    "id": "12.71.01.1002",
-    "name": "Pusat Pasar"
-  },
-  {
-    "id": "12.71.01.1003",
-    "name": "Sei Rengas I"
+    "id": "12.71.01.1006",
+    "name": "Kotamatsum III"
   },
   {
     "id": "12.71.01.1004",
@@ -20,20 +12,24 @@
     "name": "Pandau Hulu I"
   },
   {
-    "id": "12.71.01.1006",
-    "name": "Kotamatsum III"
+    "id": "12.71.01.1001",
+    "name": "Pasar Baru"
   },
   {
     "id": "12.71.01.1007",
     "name": "Pasar Merah Barat"
   },
   {
-    "id": "12.71.01.1008",
-    "name": "Teladan Timur"
+    "id": "12.71.01.1002",
+    "name": "Pusat Pasar"
   },
   {
-    "id": "12.71.01.1009",
-    "name": "Teladan Barat"
+    "id": "12.71.01.1003",
+    "name": "Sei Rengas I"
+  },
+  {
+    "id": "12.71.01.1012",
+    "name": "Sitirejo I"
   },
   {
     "id": "12.71.01.1010",
@@ -44,7 +40,11 @@
     "name": "Sudirejo II"
   },
   {
-    "id": "12.71.01.1012",
-    "name": "Sitirejo I"
+    "id": "12.71.01.1009",
+    "name": "Teladan Barat"
+  },
+  {
+    "id": "12.71.01.1008",
+    "name": "Teladan Timur"
   }
 ]

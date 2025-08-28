@@ -1,5 +1,13 @@
 [
   {
+    "id": "21.71.06.1006",
+    "name": "Baloi Indah"
+  },
+  {
+    "id": "21.71.06.1004",
+    "name": "Batu Selicin"
+  },
+  {
     "id": "21.71.06.1001",
     "name": "Kampung Pelita"
   },
@@ -8,15 +16,7 @@
     "name": "Lubuk Baja Kota"
   },
   {
-    "id": "21.71.06.1004",
-    "name": "Batu Selicin"
-  },
-  {
     "id": "21.71.06.1005",
     "name": "Tanjung Uma"
-  },
-  {
-    "id": "21.71.06.1006",
-    "name": "Baloi Indah"
   }
 ]

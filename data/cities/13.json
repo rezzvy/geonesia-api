@@ -3,80 +3,80 @@
   "province": "SUMATERA BARAT",
   "city": [
     {
-      "id": "13.01",
-      "name": "KAB. PESISIR SELATAN"
-    },
-    {
-      "id": "13.02",
-      "name": "KAB. SOLOK"
-    },
-    {
-      "id": "13.03",
-      "name": "KAB. SIJUNJUNG"
-    },
-    {
-      "id": "13.04",
-      "name": "KAB. TANAH DATAR"
-    },
-    {
-      "id": "13.05",
-      "name": "KAB. PADANG PARIAMAN"
-    },
-    {
       "id": "13.06",
       "name": "KAB. AGAM"
-    },
-    {
-      "id": "13.07",
-      "name": "KAB. LIMA PULUH KOTA"
-    },
-    {
-      "id": "13.08",
-      "name": "KAB. PASAMAN"
-    },
-    {
-      "id": "13.09",
-      "name": "KAB. KEPULAUAN MENTAWAI"
     },
     {
       "id": "13.10",
       "name": "KAB. DHARMASRAYA"
     },
     {
-      "id": "13.11",
-      "name": "KAB. SOLOK SELATAN"
+      "id": "13.09",
+      "name": "KAB. KEPULAUAN MENTAWAI"
+    },
+    {
+      "id": "13.07",
+      "name": "KAB. LIMA PULUH KOTA"
+    },
+    {
+      "id": "13.05",
+      "name": "KAB. PADANG PARIAMAN"
+    },
+    {
+      "id": "13.08",
+      "name": "KAB. PASAMAN"
     },
     {
       "id": "13.12",
       "name": "KAB. PASAMAN BARAT"
     },
     {
-      "id": "13.71",
-      "name": "KOTA PADANG"
+      "id": "13.01",
+      "name": "KAB. PESISIR SELATAN"
     },
     {
-      "id": "13.72",
-      "name": "KOTA SOLOK"
+      "id": "13.03",
+      "name": "KAB. SIJUNJUNG"
     },
     {
-      "id": "13.73",
-      "name": "KOTA SAWAHLUNTO"
+      "id": "13.02",
+      "name": "KAB. SOLOK"
     },
     {
-      "id": "13.74",
-      "name": "KOTA PADANG PANJANG"
+      "id": "13.11",
+      "name": "KAB. SOLOK SELATAN"
+    },
+    {
+      "id": "13.04",
+      "name": "KAB. TANAH DATAR"
     },
     {
       "id": "13.75",
       "name": "KOTA BUKITTINGGI"
     },
     {
-      "id": "13.76",
-      "name": "KOTA PAYAKUMBUH"
+      "id": "13.71",
+      "name": "KOTA PADANG"
+    },
+    {
+      "id": "13.74",
+      "name": "KOTA PADANG PANJANG"
     },
     {
       "id": "13.77",
       "name": "KOTA PARIAMAN"
+    },
+    {
+      "id": "13.76",
+      "name": "KOTA PAYAKUMBUH"
+    },
+    {
+      "id": "13.73",
+      "name": "KOTA SAWAHLUNTO"
+    },
+    {
+      "id": "13.72",
+      "name": "KOTA SOLOK"
     }
   ]
 }

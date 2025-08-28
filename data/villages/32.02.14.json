@@ -1,5 +1,13 @@
 [
   {
+    "id": "32.02.14.2003",
+    "name": "Berekah"
+  },
+  {
+    "id": "32.02.14.2005",
+    "name": "Bojonggaling"
+  },
+  {
     "id": "32.02.14.2001",
     "name": "Bojonggenteng"
   },
@@ -8,15 +16,7 @@
     "name": "Cibodas"
   },
   {
-    "id": "32.02.14.2003",
-    "name": "Berekah"
-  },
-  {
     "id": "32.02.14.2004",
     "name": "Cipanengah"
-  },
-  {
-    "id": "32.02.14.2005",
-    "name": "Bojonggaling"
   }
 ]

@@ -4,24 +4,20 @@
     "name": "Cigunungsari"
   },
   {
-    "id": "32.15.28.2002",
-    "name": "Wargasetra"
-  },
-  {
-    "id": "32.15.28.2003",
-    "name": "Mekarbuana"
-  },
-  {
     "id": "32.15.28.2004",
     "name": "Cintalaksana"
+  },
+  {
+    "id": "32.15.28.2006",
+    "name": "Cintalanggeng"
   },
   {
     "id": "32.15.28.2005",
     "name": "Cintawargi"
   },
   {
-    "id": "32.15.28.2006",
-    "name": "Cintalanggeng"
+    "id": "32.15.28.2009",
+    "name": "Cipurwasari"
   },
   {
     "id": "32.15.28.2007",
@@ -32,7 +28,11 @@
     "name": "Kutamaneuh"
   },
   {
-    "id": "32.15.28.2009",
-    "name": "Cipurwasari"
+    "id": "32.15.28.2003",
+    "name": "Mekarbuana"
+  },
+  {
+    "id": "32.15.28.2002",
+    "name": "Wargasetra"
   }
 ]

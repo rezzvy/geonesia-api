@@ -4,8 +4,20 @@
     "name": "Amondo"
   },
   {
+    "id": "74.05.14.2008",
+    "name": "Koeono"
+  },
+  {
     "id": "74.05.14.2002",
     "name": "Lakara"
+  },
+  {
+    "id": "74.05.14.2009",
+    "name": "Lalowua"
+  },
+  {
+    "id": "74.05.14.2010",
+    "name": "Mondoe"
   },
   {
     "id": "74.05.14.2003",
@@ -20,23 +32,11 @@
     "name": "Watu Mbohoti"
   },
   {
-    "id": "74.05.14.2006",
-    "name": "Wawo Wonua"
-  },
-  {
     "id": "74.05.14.2007",
     "name": "Watu Rapa"
   },
   {
-    "id": "74.05.14.2008",
-    "name": "Koeono"
-  },
-  {
-    "id": "74.05.14.2009",
-    "name": "Lalowua"
-  },
-  {
-    "id": "74.05.14.2010",
-    "name": "Mondoe"
+    "id": "74.05.14.2006",
+    "name": "Wawo Wonua"
   }
 ]

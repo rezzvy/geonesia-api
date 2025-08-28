@@ -1,9 +1,5 @@
 [
   {
-    "id": "34.01.07.2001",
-    "name": "Tawangsari"
-  },
-  {
     "id": "34.01.07.2002",
     "name": "Karangsari"
   },
@@ -26,5 +22,9 @@
   {
     "id": "34.01.07.2007",
     "name": "Sidomulyo"
+  },
+  {
+    "id": "34.01.07.2001",
+    "name": "Tawangsari"
   }
 ]

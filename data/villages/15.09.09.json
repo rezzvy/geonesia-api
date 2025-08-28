@@ -1,5 +1,13 @@
 [
   {
+    "id": "15.09.09.2005",
+    "name": "Lubuk Mandarsah"
+  },
+  {
+    "id": "15.09.09.2003",
+    "name": "Mengupeh"
+  },
+  {
     "id": "15.09.09.2001",
     "name": "Muara Kilis"
   },
@@ -8,15 +16,7 @@
     "name": "Penapalan"
   },
   {
-    "id": "15.09.09.2003",
-    "name": "Mengupeh"
-  },
-  {
     "id": "15.09.09.2004",
     "name": "Rantau Api"
-  },
-  {
-    "id": "15.09.09.2005",
-    "name": "Lubuk Mandarsah"
   }
 ]

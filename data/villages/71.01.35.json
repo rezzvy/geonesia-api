@@ -8,6 +8,10 @@
     "name": "Ibolian Satu"
   },
   {
+    "id": "71.01.35.2006",
+    "name": "Kasio Barat"
+  },
+  {
     "id": "71.01.35.2003",
     "name": "Kinomalingan"
   },
@@ -20,10 +24,6 @@
     "name": "Kosio Timur"
   },
   {
-    "id": "71.01.35.2006",
-    "name": "Kasio Barat"
-  },
-  {
     "id": "71.01.35.2007",
     "name": "Werdhi Agung"
   },
@@ -32,11 +32,11 @@
     "name": "Werdhi Agung Selatan"
   },
   {
-    "id": "71.01.35.2009",
-    "name": "Werdhi Agung Utara"
-  },
-  {
     "id": "71.01.35.2010",
     "name": "Werdhi Agung Timur"
+  },
+  {
+    "id": "71.01.35.2009",
+    "name": "Werdhi Agung Utara"
   }
 ]

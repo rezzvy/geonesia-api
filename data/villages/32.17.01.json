@@ -1,23 +1,19 @@
 [
   {
-    "id": "32.17.01.2001",
-    "name": "Pagerwangi"
+    "id": "32.17.01.2009",
+    "name": "Cibodas"
   },
   {
-    "id": "32.17.01.2002",
-    "name": "Kayuambon"
-  },
-  {
-    "id": "32.17.01.2003",
-    "name": "Lembang"
-  },
-  {
-    "id": "32.17.01.2004",
-    "name": "Cikidang"
+    "id": "32.17.01.2012",
+    "name": "Cibogo"
   },
   {
     "id": "32.17.01.2005",
     "name": "Cikahuripan"
+  },
+  {
+    "id": "32.17.01.2004",
+    "name": "Cikidang"
   },
   {
     "id": "32.17.01.2006",
@@ -32,20 +28,24 @@
     "name": "Jayagiri"
   },
   {
-    "id": "32.17.01.2009",
-    "name": "Cibodas"
+    "id": "32.17.01.2002",
+    "name": "Kayuambon"
   },
   {
     "id": "32.17.01.2010",
     "name": "Langensari"
   },
   {
+    "id": "32.17.01.2003",
+    "name": "Lembang"
+  },
+  {
     "id": "32.17.01.2011",
     "name": "Mekarwangi"
   },
   {
-    "id": "32.17.01.2012",
-    "name": "Cibogo"
+    "id": "32.17.01.2001",
+    "name": "Pagerwangi"
   },
   {
     "id": "32.17.01.2013",

@@ -4,14 +4,6 @@
     "name": "Botuliodu"
   },
   {
-    "id": "71.11.07.2002",
-    "name": "Nunuka Raya"
-  },
-  {
-    "id": "71.11.07.2003",
-    "name": "Tolutu"
-  },
-  {
     "id": "71.11.07.2004",
     "name": "Milangodaa"
   },
@@ -24,7 +16,15 @@
     "name": "Milangodaa Utara"
   },
   {
+    "id": "71.11.07.2002",
+    "name": "Nunuka Raya"
+  },
+  {
     "id": "71.11.07.2007",
     "name": "Pakuku Jaya"
+  },
+  {
+    "id": "71.11.07.2003",
+    "name": "Tolutu"
   }
 ]

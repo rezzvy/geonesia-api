@@ -1,23 +1,19 @@
 [
   {
-    "id": "15.08.11.1001",
-    "name": "Manggis"
-  },
-  {
-    "id": "15.08.11.2002",
-    "name": "Lubuk Benteng"
+    "id": "15.08.11.2005",
+    "name": "Air Gemuruh"
   },
   {
     "id": "15.08.11.1003",
     "name": "Bungo Taman Agung"
   },
   {
-    "id": "15.08.11.1004",
-    "name": "Sungai Binjai"
+    "id": "15.08.11.2002",
+    "name": "Lubuk Benteng"
   },
   {
-    "id": "15.08.11.2005",
-    "name": "Air Gemuruh"
+    "id": "15.08.11.1001",
+    "name": "Manggis"
   },
   {
     "id": "15.08.11.2006",
@@ -26,6 +22,10 @@
   {
     "id": "15.08.11.2007",
     "name": "Sarana Jaya"
+  },
+  {
+    "id": "15.08.11.1004",
+    "name": "Sungai Binjai"
   },
   {
     "id": "15.08.11.2008",

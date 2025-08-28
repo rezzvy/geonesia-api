@@ -8,10 +8,6 @@
     "name": "Janting"
   },
   {
-    "id": "61.06.14.2003",
-    "name": "Semuntik"
-  },
-  {
     "id": "61.06.14.2004",
     "name": "Kekurak"
   },
@@ -20,19 +16,23 @@
     "name": "Pulau Majang"
   },
   {
-    "id": "61.06.14.2006",
-    "name": "Seriang"
-  },
-  {
     "id": "61.06.14.2007",
     "name": "Sebindang"
   },
   {
-    "id": "61.06.14.2008",
-    "name": "Tinting Seligi"
+    "id": "61.06.14.2003",
+    "name": "Semuntik"
+  },
+  {
+    "id": "61.06.14.2006",
+    "name": "Seriang"
   },
   {
     "id": "61.06.14.2009",
     "name": "Tajum"
+  },
+  {
+    "id": "61.06.14.2008",
+    "name": "Tinting Seligi"
   }
 ]

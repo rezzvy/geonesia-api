@@ -1,7 +1,27 @@
 [
   {
+    "id": "73.24.04.2011",
+    "name": "Atue"
+  },
+  {
+    "id": "73.24.04.2010",
+    "name": "Balantang"
+  },
+  {
+    "id": "73.24.04.2006",
+    "name": "Baruga"
+  },
+  {
     "id": "73.24.04.2001",
     "name": "Harapan"
+  },
+  {
+    "id": "73.24.04.2007",
+    "name": "Lakawali"
+  },
+  {
+    "id": "73.24.04.2015",
+    "name": "Lakawali Pantai"
   },
   {
     "id": "73.24.04.2002",
@@ -16,32 +36,8 @@
     "name": "Manurung"
   },
   {
-    "id": "73.24.04.2005",
-    "name": "Wewangriu"
-  },
-  {
-    "id": "73.24.04.2006",
-    "name": "Baruga"
-  },
-  {
-    "id": "73.24.04.2007",
-    "name": "Lakawali"
-  },
-  {
-    "id": "73.24.04.2008",
-    "name": "Ussu"
-  },
-  {
-    "id": "73.24.04.2009",
-    "name": "Tarabbi"
-  },
-  {
-    "id": "73.24.04.2010",
-    "name": "Balantang"
-  },
-  {
-    "id": "73.24.04.2011",
-    "name": "Atue"
+    "id": "73.24.04.2014",
+    "name": "Pasi-Pasi"
   },
   {
     "id": "73.24.04.2012",
@@ -52,11 +48,15 @@
     "name": "Puncak Indah"
   },
   {
-    "id": "73.24.04.2014",
-    "name": "Pasi-Pasi"
+    "id": "73.24.04.2009",
+    "name": "Tarabbi"
   },
   {
-    "id": "73.24.04.2015",
-    "name": "Lakawali Pantai"
+    "id": "73.24.04.2008",
+    "name": "Ussu"
+  },
+  {
+    "id": "73.24.04.2005",
+    "name": "Wewangriu"
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "id": "15.71.11.1001",
-    "name": "Talang Bakung"
-  },
-  {
-    "id": "15.71.11.1002",
-    "name": "Payo Selincah"
-  },
-  {
     "id": "15.71.11.1003",
     "name": "Eka Jaya"
   },
@@ -18,5 +10,13 @@
   {
     "id": "15.71.11.1005",
     "name": "Paal Merah"
+  },
+  {
+    "id": "15.71.11.1002",
+    "name": "Payo Selincah"
+  },
+  {
+    "id": "15.71.11.1001",
+    "name": "Talang Bakung"
   }
 ]

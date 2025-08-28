@@ -1,11 +1,15 @@
 [
   {
-    "id": "91.10.01",
-    "name": "Sarmi"
+    "id": "91.10.09",
+    "name": "Apawer Hulu"
   },
   {
-    "id": "91.10.02",
-    "name": "Tor Atas"
+    "id": "91.10.05",
+    "name": "Bonggo"
+  },
+  {
+    "id": "91.10.15",
+    "name": "Bonggo Timur"
   },
   {
     "id": "91.10.03",
@@ -16,12 +20,12 @@
     "name": "Pantai Timur"
   },
   {
-    "id": "91.10.05",
-    "name": "Bonggo"
+    "id": "91.10.14",
+    "name": "Pantai Timur Bagian Barat"
   },
   {
-    "id": "91.10.09",
-    "name": "Apawer Hulu"
+    "id": "91.10.01",
+    "name": "Sarmi"
   },
   {
     "id": "91.10.12",
@@ -32,11 +36,7 @@
     "name": "Sarmi Timur"
   },
   {
-    "id": "91.10.14",
-    "name": "Pantai Timur Bagian Barat"
-  },
-  {
-    "id": "91.10.15",
-    "name": "Bonggo Timur"
+    "id": "91.10.02",
+    "name": "Tor Atas"
   }
 ]

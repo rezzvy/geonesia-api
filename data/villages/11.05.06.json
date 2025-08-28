@@ -1,11 +1,11 @@
 [
   {
-    "id": "11.05.06.2001",
-    "name": "Alue Lhok"
-  },
-  {
     "id": "11.05.06.2002",
     "name": "Alue Bakong"
+  },
+  {
+    "id": "11.05.06.2001",
+    "name": "Alue Lhok"
   },
   {
     "id": "11.05.06.2003",
@@ -28,12 +28,12 @@
     "name": "Gunong Panah"
   },
   {
-    "id": "11.05.06.2008",
-    "name": "Kuta Padang"
-  },
-  {
     "id": "11.05.06.2009",
     "name": "Kuala Pling"
+  },
+  {
+    "id": "11.05.06.2008",
+    "name": "Kuta Padang"
   },
   {
     "id": "11.05.06.2010",
@@ -56,12 +56,12 @@
     "name": "Seumuleng"
   },
   {
-    "id": "11.05.06.2015",
-    "name": "Suak Pangkat"
-  },
-  {
     "id": "11.05.06.2016",
     "name": "Seuneubok Trap"
+  },
+  {
+    "id": "11.05.06.2015",
+    "name": "Suak Pangkat"
   },
   {
     "id": "11.05.06.2017",

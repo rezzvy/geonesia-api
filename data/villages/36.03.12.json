@@ -1,15 +1,15 @@
 [
   {
-    "id": "36.03.12.2001",
-    "name": "Pasar Kemis"
+    "id": "36.03.12.2013",
+    "name": "Gelam Jaya"
   },
   {
-    "id": "36.03.12.1005",
-    "name": "Sindangsari"
+    "id": "36.03.12.1014",
+    "name": "Kuta Baru"
   },
   {
-    "id": "36.03.12.2008",
-    "name": "Sukamantri"
+    "id": "36.03.12.1012",
+    "name": "Kuta Jaya"
   },
   {
     "id": "36.03.12.1010",
@@ -20,19 +20,19 @@
     "name": "Pangadegan"
   },
   {
-    "id": "36.03.12.1012",
-    "name": "Kuta Jaya"
+    "id": "36.03.12.2001",
+    "name": "Pasar Kemis"
   },
   {
-    "id": "36.03.12.2013",
-    "name": "Gelam Jaya"
-  },
-  {
-    "id": "36.03.12.1014",
-    "name": "Kuta Baru"
+    "id": "36.03.12.1005",
+    "name": "Sindangsari"
   },
   {
     "id": "36.03.12.2015",
     "name": "Suka Asih"
+  },
+  {
+    "id": "36.03.12.2008",
+    "name": "Sukamantri"
   }
 ]

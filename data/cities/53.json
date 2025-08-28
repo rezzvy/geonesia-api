@@ -3,88 +3,88 @@
   "province": "NUSA TENGGARA TIMUR",
   "city": [
     {
-      "id": "53.01",
-      "name": "KAB. KUPANG"
-    },
-    {
       "id": "53.02",
       "name": "KAB TIMOR TENGAH SELATAN"
-    },
-    {
-      "id": "53.03",
-      "name": "KAB. TIMOR TENGAH UTARA"
-    },
-    {
-      "id": "53.04",
-      "name": "KAB. BELU"
     },
     {
       "id": "53.05",
       "name": "KAB. ALOR"
     },
     {
-      "id": "53.06",
-      "name": "KAB. FLORES TIMUR"
-    },
-    {
-      "id": "53.07",
-      "name": "KAB. SIKKA"
+      "id": "53.04",
+      "name": "KAB. BELU"
     },
     {
       "id": "53.08",
       "name": "KAB. ENDE"
     },
     {
-      "id": "53.09",
-      "name": "KAB. NGADA"
+      "id": "53.06",
+      "name": "KAB. FLORES TIMUR"
     },
     {
-      "id": "53.10",
-      "name": "KAB. MANGGARAI"
-    },
-    {
-      "id": "53.11",
-      "name": "KAB. SUMBA TIMUR"
-    },
-    {
-      "id": "53.12",
-      "name": "KAB. SUMBA BARAT"
+      "id": "53.01",
+      "name": "KAB. KUPANG"
     },
     {
       "id": "53.13",
       "name": "KAB. LEMBATA"
     },
     {
-      "id": "53.14",
-      "name": "KAB. ROTE NDAO"
+      "id": "53.21",
+      "name": "KAB. MALAKA"
+    },
+    {
+      "id": "53.10",
+      "name": "KAB. MANGGARAI"
     },
     {
       "id": "53.15",
       "name": "KAB. MANGGARAI BARAT"
     },
     {
+      "id": "53.19",
+      "name": "KAB. MANGGARAI TIMUR"
+    },
+    {
       "id": "53.16",
       "name": "KAB. NAGEKEO"
     },
     {
-      "id": "53.17",
-      "name": "KAB. SUMBA TENGAH"
+      "id": "53.09",
+      "name": "KAB. NGADA"
     },
     {
-      "id": "53.18",
-      "name": "KAB. SUMBA BARAT DAYA"
-    },
-    {
-      "id": "53.19",
-      "name": "KAB. MANGGARAI TIMUR"
+      "id": "53.14",
+      "name": "KAB. ROTE NDAO"
     },
     {
       "id": "53.20",
       "name": "KAB. SABU RAIJUA"
     },
     {
-      "id": "53.21",
-      "name": "KAB. MALAKA"
+      "id": "53.07",
+      "name": "KAB. SIKKA"
+    },
+    {
+      "id": "53.12",
+      "name": "KAB. SUMBA BARAT"
+    },
+    {
+      "id": "53.18",
+      "name": "KAB. SUMBA BARAT DAYA"
+    },
+    {
+      "id": "53.17",
+      "name": "KAB. SUMBA TENGAH"
+    },
+    {
+      "id": "53.11",
+      "name": "KAB. SUMBA TIMUR"
+    },
+    {
+      "id": "53.03",
+      "name": "KAB. TIMOR TENGAH UTARA"
     },
     {
       "id": "53.71",

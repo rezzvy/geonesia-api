@@ -1,11 +1,7 @@
 [
   {
-    "id": "32.08.05.2001",
-    "name": "Cipondoh"
-  },
-  {
-    "id": "32.08.05.2002",
-    "name": "Sindangjawa"
+    "id": "32.08.05.2007",
+    "name": "Bantarpanjang"
   },
   {
     "id": "32.08.05.2003",
@@ -16,6 +12,14 @@
     "name": "Cibingbin"
   },
   {
+    "id": "32.08.05.2001",
+    "name": "Cipondoh"
+  },
+  {
+    "id": "32.08.05.2010",
+    "name": "Cisaat"
+  },
+  {
     "id": "32.08.05.2005",
     "name": "Citenjo"
   },
@@ -24,19 +28,15 @@
     "name": "Dukuhbadag"
   },
   {
-    "id": "32.08.05.2007",
-    "name": "Bantarpanjang"
-  },
-  {
-    "id": "32.08.05.2008",
-    "name": "Sukamaju"
+    "id": "32.08.05.2002",
+    "name": "Sindangjawa"
   },
   {
     "id": "32.08.05.2009",
     "name": "Sukaharja"
   },
   {
-    "id": "32.08.05.2010",
-    "name": "Cisaat"
+    "id": "32.08.05.2008",
+    "name": "Sukamaju"
   }
 ]

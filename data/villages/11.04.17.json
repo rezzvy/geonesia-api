@@ -1,9 +1,5 @@
 [
   {
-    "id": "11.04.17.2001",
-    "name": "Takengon Timur"
-  },
-  {
     "id": "11.04.17.2002",
     "name": "Asir Asir"
   },
@@ -36,6 +32,10 @@
     "name": "Kuteni Reje"
   },
   {
+    "id": "11.04.17.2017",
+    "name": "Merah Mersa"
+  },
+  {
     "id": "11.04.17.2010",
     "name": "Pedemun One One"
   },
@@ -48,24 +48,24 @@
     "name": "Takengon Barat"
   },
   {
-    "id": "11.04.17.2013",
-    "name": "Toweren Antara"
-  },
-  {
-    "id": "11.04.17.2014",
-    "name": "Toweran Toa"
-  },
-  {
-    "id": "11.04.17.2015",
-    "name": "Toweren Uken"
+    "id": "11.04.17.2001",
+    "name": "Takengon Timur"
   },
   {
     "id": "11.04.17.2016",
     "name": "Teluk One-One"
   },
   {
-    "id": "11.04.17.2017",
-    "name": "Merah Mersa"
+    "id": "11.04.17.2014",
+    "name": "Toweran Toa"
+  },
+  {
+    "id": "11.04.17.2013",
+    "name": "Toweren Antara"
+  },
+  {
+    "id": "11.04.17.2015",
+    "name": "Toweren Uken"
   },
   {
     "id": "11.04.17.2018",

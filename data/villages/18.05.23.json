@@ -1,15 +1,23 @@
 [
   {
-    "id": "18.05.23.2001",
-    "name": "Gedung Harapan"
-  },
-  {
     "id": "18.05.23.2002",
     "name": "Gedung Asri"
   },
   {
+    "id": "18.05.23.2001",
+    "name": "Gedung Harapan"
+  },
+  {
     "id": "18.05.23.2003",
     "name": "Gedung Rejo Sakti"
+  },
+  {
+    "id": "18.05.23.2006",
+    "name": "Karya Makmur"
+  },
+  {
+    "id": "18.05.23.2008",
+    "name": "Panca Tunggal Jaya"
   },
   {
     "id": "18.05.23.2004",
@@ -20,19 +28,11 @@
     "name": "Suka Makmur"
   },
   {
-    "id": "18.05.23.2006",
-    "name": "Karya Makmur"
+    "id": "18.05.23.2009",
+    "name": "Sumber Sari"
   },
   {
     "id": "18.05.23.2007",
     "name": "Wono Rejo"
-  },
-  {
-    "id": "18.05.23.2008",
-    "name": "Panca Tunggal Jaya"
-  },
-  {
-    "id": "18.05.23.2009",
-    "name": "Sumber Sari"
   }
 ]

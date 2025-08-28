@@ -1,13 +1,5 @@
 [
   {
-    "id": "19.05.01",
-    "name": "Muntok"
-  },
-  {
-    "id": "19.05.02",
-    "name": "Simpang Teritip"
-  },
-  {
     "id": "19.05.03",
     "name": "Jebus"
   },
@@ -16,11 +8,19 @@
     "name": "Kelapa"
   },
   {
-    "id": "19.05.05",
-    "name": "Tempilang"
+    "id": "19.05.01",
+    "name": "Muntok"
   },
   {
     "id": "19.05.06",
     "name": "Parittiga"
+  },
+  {
+    "id": "19.05.02",
+    "name": "Simpang Teritip"
+  },
+  {
+    "id": "19.05.05",
+    "name": "Tempilang"
   }
 ]

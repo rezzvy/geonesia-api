@@ -1,7 +1,11 @@
 [
   {
-    "id": "12.15.04.2001",
-    "name": "Ulumerah"
+    "id": "12.15.04.2005",
+    "name": "Cikaok"
+  },
+  {
+    "id": "12.15.04.2004",
+    "name": "Lae Langge Namuseng"
   },
   {
     "id": "12.15.04.2002",
@@ -12,11 +16,7 @@
     "name": "Silima Kuta"
   },
   {
-    "id": "12.15.04.2004",
-    "name": "Lae Langge Namuseng"
-  },
-  {
-    "id": "12.15.04.2005",
-    "name": "Cikaok"
+    "id": "12.15.04.2001",
+    "name": "Ulumerah"
   }
 ]

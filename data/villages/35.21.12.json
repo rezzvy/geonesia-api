@@ -4,6 +4,22 @@
     "name": "Banyubiru"
   },
   {
+    "id": "35.21.12.2009",
+    "name": "Gendingan"
+  },
+  {
+    "id": "35.21.12.2007",
+    "name": "Karangbanyu"
+  },
+  {
+    "id": "35.21.12.2010",
+    "name": "Kauman"
+  },
+  {
+    "id": "35.21.12.2005",
+    "name": "Kayutrejo"
+  },
+  {
     "id": "35.21.12.2002",
     "name": "Kedunggudel"
   },
@@ -16,28 +32,8 @@
     "name": "Sekarputih"
   },
   {
-    "id": "35.21.12.2005",
-    "name": "Kayutrejo"
-  },
-  {
     "id": "35.21.12.2006",
     "name": "Sidolaju"
-  },
-  {
-    "id": "35.21.12.2007",
-    "name": "Karangbanyu"
-  },
-  {
-    "id": "35.21.12.2008",
-    "name": "Widodaren"
-  },
-  {
-    "id": "35.21.12.2009",
-    "name": "Gendingan"
-  },
-  {
-    "id": "35.21.12.2010",
-    "name": "Kauman"
   },
   {
     "id": "35.21.12.2011",
@@ -46,5 +42,9 @@
   {
     "id": "35.21.12.2012",
     "name": "Walikukun"
+  },
+  {
+    "id": "35.21.12.2008",
+    "name": "Widodaren"
   }
 ]

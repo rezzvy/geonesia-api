@@ -1,7 +1,15 @@
 [
   {
+    "id": "32.17.03.2005",
+    "name": "Cipada"
+  },
+  {
     "id": "32.17.03.2001",
     "name": "Jambudipa"
+  },
+  {
+    "id": "32.17.03.2006",
+    "name": "Kertawangi"
   },
   {
     "id": "32.17.03.2002",
@@ -16,19 +24,11 @@
     "name": "Pasirlangu"
   },
   {
-    "id": "32.17.03.2005",
-    "name": "Cipada"
-  },
-  {
-    "id": "32.17.03.2006",
-    "name": "Kertawangi"
+    "id": "32.17.03.2008",
+    "name": "Sadangmekar"
   },
   {
     "id": "32.17.03.2007",
     "name": "Tugumukti"
-  },
-  {
-    "id": "32.17.03.2008",
-    "name": "Sadangmekar"
   }
 ]

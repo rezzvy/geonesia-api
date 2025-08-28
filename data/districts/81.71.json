@@ -1,5 +1,13 @@
 [
   {
+    "id": "81.71.03",
+    "name": "Baguala"
+  },
+  {
+    "id": "81.71.05",
+    "name": "Leitimur Selatan"
+  },
+  {
     "id": "81.71.01",
     "name": "Nusaniwe"
   },
@@ -8,15 +16,7 @@
     "name": "Sirimau"
   },
   {
-    "id": "81.71.03",
-    "name": "Baguala"
-  },
-  {
     "id": "81.71.04",
     "name": "Teluk Ambon"
-  },
-  {
-    "id": "81.71.05",
-    "name": "Leitimur Selatan"
   }
 ]

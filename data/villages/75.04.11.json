@@ -1,15 +1,11 @@
 [
   {
-    "id": "75.04.11.2001",
-    "name": "Wanggarasi Timur"
+    "id": "75.04.11.2003",
+    "name": "Bohusami"
   },
   {
     "id": "75.04.11.2002",
     "name": "Bukit Harapan"
-  },
-  {
-    "id": "75.04.11.2003",
-    "name": "Bohusami"
   },
   {
     "id": "75.04.11.2004",
@@ -20,11 +16,15 @@
     "name": "Limbula"
   },
   {
-    "id": "75.04.11.2006",
-    "name": "Yipilo"
-  },
-  {
     "id": "75.04.11.2007",
     "name": "Tuweya"
+  },
+  {
+    "id": "75.04.11.2001",
+    "name": "Wanggarasi Timur"
+  },
+  {
+    "id": "75.04.11.2006",
+    "name": "Yipilo"
   }
 ]

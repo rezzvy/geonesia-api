@@ -4,8 +4,8 @@
     "name": "Air Balui"
   },
   {
-    "id": "16.06.05.2002",
-    "name": "Nganti"
+    "id": "16.06.05.2013",
+    "name": "Air Itam"
   },
   {
     "id": "16.06.05.2003",
@@ -16,12 +16,32 @@
     "name": "Jud II"
   },
   {
-    "id": "16.06.05.2005",
-    "name": "Penggage"
+    "id": "16.06.05.2014",
+    "name": "Keban I"
   },
   {
-    "id": "16.06.05.2006",
-    "name": "Ngunang"
+    "id": "16.06.05.2015",
+    "name": "Keban II"
+  },
+  {
+    "id": "16.06.05.2011",
+    "name": "Kemang"
+  },
+  {
+    "id": "16.06.05.2018",
+    "name": "Macang Sakti"
+  },
+  {
+    "id": "16.06.05.2002",
+    "name": "Nganti"
+  },
+  {
+    "id": "16.06.05.1019",
+    "name": "Ngulak"
+  },
+  {
+    "id": "16.06.05.1016",
+    "name": "Ngulak I"
   },
   {
     "id": "16.06.05.2007",
@@ -32,47 +52,27 @@
     "name": "Ngulak III"
   },
   {
-    "id": "16.06.05.2009",
-    "name": "Ulak Embacang"
-  },
-  {
-    "id": "16.06.05.2010",
-    "name": "Terusan"
-  },
-  {
-    "id": "16.06.05.2011",
-    "name": "Kemang"
-  },
-  {
-    "id": "16.06.05.2012",
-    "name": "Tanjung Raya"
-  },
-  {
-    "id": "16.06.05.2013",
-    "name": "Air Itam"
-  },
-  {
-    "id": "16.06.05.2014",
-    "name": "Keban I"
-  },
-  {
-    "id": "16.06.05.2015",
-    "name": "Keban II"
-  },
-  {
-    "id": "16.06.05.1016",
-    "name": "Ngulak I"
+    "id": "16.06.05.2006",
+    "name": "Ngunang"
   },
   {
     "id": "16.06.05.2017",
     "name": "Panai"
   },
   {
-    "id": "16.06.05.2018",
-    "name": "Macang Sakti"
+    "id": "16.06.05.2005",
+    "name": "Penggage"
   },
   {
-    "id": "16.06.05.1019",
-    "name": "Ngulak"
+    "id": "16.06.05.2012",
+    "name": "Tanjung Raya"
+  },
+  {
+    "id": "16.06.05.2010",
+    "name": "Terusan"
+  },
+  {
+    "id": "16.06.05.2009",
+    "name": "Ulak Embacang"
   }
 ]

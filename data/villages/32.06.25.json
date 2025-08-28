@@ -1,13 +1,5 @@
 [
   {
-    "id": "32.06.25.2001",
-    "name": "Sukasukur"
-  },
-  {
-    "id": "32.06.25.2002",
-    "name": "Salebu"
-  },
-  {
     "id": "32.06.25.2003",
     "name": "Mangunreja"
   },
@@ -20,7 +12,15 @@
     "name": "Pasirsalam"
   },
   {
+    "id": "32.06.25.2002",
+    "name": "Salebu"
+  },
+  {
     "id": "32.06.25.2006",
     "name": "Sukaluyu"
+  },
+  {
+    "id": "32.06.25.2001",
+    "name": "Sukasukur"
   }
 ]

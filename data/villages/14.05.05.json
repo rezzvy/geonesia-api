@@ -4,8 +4,16 @@
     "name": "Langgam"
   },
   {
-    "id": "14.05.05.2002",
-    "name": "Tambak"
+    "id": "14.05.05.2007",
+    "name": "Langkan"
+  },
+  {
+    "id": "14.05.05.2008",
+    "name": "Padang Luas"
+  },
+  {
+    "id": "14.05.05.2006",
+    "name": "Pangkalan Gondai"
   },
   {
     "id": "14.05.05.2003",
@@ -20,15 +28,7 @@
     "name": "Sotol"
   },
   {
-    "id": "14.05.05.2006",
-    "name": "Pangkalan Gondai"
-  },
-  {
-    "id": "14.05.05.2007",
-    "name": "Langkan"
-  },
-  {
-    "id": "14.05.05.2008",
-    "name": "Padang Luas"
+    "id": "14.05.05.2002",
+    "name": "Tambak"
   }
 ]

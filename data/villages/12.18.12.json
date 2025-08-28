@@ -1,11 +1,7 @@
 [
   {
-    "id": "12.18.12.2010",
-    "name": "Tanjung Harap"
-  },
-  {
-    "id": "12.18.12.2011",
-    "name": "Kuala Bali"
+    "id": "12.18.12.2038",
+    "name": "Bah Sidua-dua"
   },
   {
     "id": "12.18.12.2014",
@@ -14,6 +10,10 @@
   {
     "id": "12.18.12.2015",
     "name": "Kelapa Bajohom"
+  },
+  {
+    "id": "12.18.12.2011",
+    "name": "Kuala Bali"
   },
   {
     "id": "12.18.12.2018",
@@ -36,7 +36,7 @@
     "name": "Tambak Cekur"
   },
   {
-    "id": "12.18.12.2038",
-    "name": "Bah Sidua-dua"
+    "id": "12.18.12.2010",
+    "name": "Tanjung Harap"
   }
 ]

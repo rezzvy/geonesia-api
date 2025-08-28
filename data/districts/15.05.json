@@ -1,15 +1,23 @@
 [
   {
+    "id": "15.05.10",
+    "name": "Bahar Selatan"
+  },
+  {
+    "id": "15.05.09",
+    "name": "Bahar Utara"
+  },
+  {
     "id": "15.05.01",
     "name": "Jambi Luar Kota"
   },
   {
-    "id": "15.05.02",
-    "name": "Sekernan"
-  },
-  {
     "id": "15.05.03",
     "name": "Kumpeh"
+  },
+  {
+    "id": "15.05.06",
+    "name": "Kumpeh Ulu"
   },
   {
     "id": "15.05.04",
@@ -20,8 +28,8 @@
     "name": "Mestong"
   },
   {
-    "id": "15.05.06",
-    "name": "Kumpeh Ulu"
+    "id": "15.05.02",
+    "name": "Sekernan"
   },
   {
     "id": "15.05.07",
@@ -30,14 +38,6 @@
   {
     "id": "15.05.08",
     "name": "Sungai Gelam"
-  },
-  {
-    "id": "15.05.09",
-    "name": "Bahar Utara"
-  },
-  {
-    "id": "15.05.10",
-    "name": "Bahar Selatan"
   },
   {
     "id": "15.05.11",

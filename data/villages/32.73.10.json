@@ -1,5 +1,13 @@
 [
   {
+    "id": "32.73.10.1005",
+    "name": "Cibadak"
+  },
+  {
+    "id": "32.73.10.1003",
+    "name": "Karang Anyar"
+  },
+  {
     "id": "32.73.10.1001",
     "name": "Karasak"
   },
@@ -8,16 +16,8 @@
     "name": "Nyengseret"
   },
   {
-    "id": "32.73.10.1003",
-    "name": "Karang Anyar"
-  },
-  {
     "id": "32.73.10.1004",
     "name": "Panjunan"
-  },
-  {
-    "id": "32.73.10.1005",
-    "name": "Cibadak"
   },
   {
     "id": "32.73.10.1006",

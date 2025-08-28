@@ -4,12 +4,8 @@
     "name": "Cinta Rakyat"
   },
   {
-    "id": "12.06.15.2002",
-    "name": "Semangat"
-  },
-  {
-    "id": "12.06.15.2003",
-    "name": "Ujung Teran"
+    "id": "12.06.15.2007",
+    "name": "Deram"
   },
   {
     "id": "12.06.15.2004",
@@ -20,19 +16,23 @@
     "name": "Jaranguda"
   },
   {
-    "id": "12.06.15.2006",
-    "name": "Semangat Gunung"
-  },
-  {
-    "id": "12.06.15.2007",
-    "name": "Deram"
-  },
-  {
     "id": "12.06.15.2008",
     "name": "Merdeka"
   },
   {
     "id": "12.06.15.2009",
     "name": "Sada Perarih"
+  },
+  {
+    "id": "12.06.15.2002",
+    "name": "Semangat"
+  },
+  {
+    "id": "12.06.15.2006",
+    "name": "Semangat Gunung"
+  },
+  {
+    "id": "12.06.15.2003",
+    "name": "Ujung Teran"
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
-    "id": "32.06.27.2001",
-    "name": "Kersamaju"
+    "id": "32.06.27.2009",
+    "name": "Cidugaleun"
   },
   {
-    "id": "32.06.27.2002",
-    "name": "Nangtang"
-  },
-  {
-    "id": "32.06.27.2003",
-    "name": "Pusparaja"
+    "id": "32.06.27.2013",
+    "name": "Cigalontang"
   },
   {
     "id": "32.06.27.2004",
     "name": "Jayapura"
+  },
+  {
+    "id": "32.06.27.2001",
+    "name": "Kersamaju"
   },
   {
     "id": "32.06.27.2005",
@@ -24,16 +24,8 @@
     "name": "Nangerang"
   },
   {
-    "id": "32.06.27.2007",
-    "name": "Sukamanah"
-  },
-  {
-    "id": "32.06.27.2008",
-    "name": "Sirnaraja"
-  },
-  {
-    "id": "32.06.27.2009",
-    "name": "Cidugaleun"
+    "id": "32.06.27.2002",
+    "name": "Nangtang"
   },
   {
     "id": "32.06.27.2010",
@@ -44,23 +36,31 @@
     "name": "Puspamukti"
   },
   {
-    "id": "32.06.27.2012",
-    "name": "Tenjonagara"
-  },
-  {
-    "id": "32.06.27.2013",
-    "name": "Cigalontang"
+    "id": "32.06.27.2003",
+    "name": "Pusparaja"
   },
   {
     "id": "32.06.27.2014",
     "name": "Sirnagalih"
   },
   {
+    "id": "32.06.27.2016",
+    "name": "Sirnaputra"
+  },
+  {
+    "id": "32.06.27.2008",
+    "name": "Sirnaraja"
+  },
+  {
+    "id": "32.06.27.2007",
+    "name": "Sukamanah"
+  },
+  {
     "id": "32.06.27.2015",
     "name": "Tanjungkarang"
   },
   {
-    "id": "32.06.27.2016",
-    "name": "Sirnaputra"
+    "id": "32.06.27.2012",
+    "name": "Tenjonagara"
   }
 ]

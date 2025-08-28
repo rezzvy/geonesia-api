@@ -1,7 +1,11 @@
 [
   {
-    "id": "73.05.10.2001",
-    "name": "Tompotana"
+    "id": "73.05.10.2004",
+    "name": "Balangdatu"
+  },
+  {
+    "id": "73.05.10.2005",
+    "name": "Maccini Baji"
   },
   {
     "id": "73.05.10.2002",
@@ -12,11 +16,7 @@
     "name": "Rewataya"
   },
   {
-    "id": "73.05.10.2004",
-    "name": "Balangdatu"
-  },
-  {
-    "id": "73.05.10.2005",
-    "name": "Maccini Baji"
+    "id": "73.05.10.2001",
+    "name": "Tompotana"
   }
 ]

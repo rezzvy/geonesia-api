@@ -4,16 +4,12 @@
     "name": "Caringin"
   },
   {
-    "id": "32.05.36.2002",
-    "name": "Indralayang"
-  },
-  {
     "id": "32.05.36.2003",
     "name": "Cimahi"
   },
   {
-    "id": "32.05.36.2004",
-    "name": "Sukarame"
+    "id": "32.05.36.2002",
+    "name": "Indralayang"
   },
   {
     "id": "32.05.36.2005",
@@ -22,5 +18,9 @@
   {
     "id": "32.05.36.2006",
     "name": "Samuderajaya"
+  },
+  {
+    "id": "32.05.36.2004",
+    "name": "Sukarame"
   }
 ]

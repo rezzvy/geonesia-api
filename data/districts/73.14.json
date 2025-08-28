@@ -1,23 +1,11 @@
 [
   {
-    "id": "73.14.01",
-    "name": "Panca Lautan"
-  },
-  {
-    "id": "73.14.02",
-    "name": "Tellu Limpoe"
-  },
-  {
-    "id": "73.14.03",
-    "name": "Watang Pulu"
-  },
-  {
     "id": "73.14.04",
     "name": "Baranti"
   },
   {
-    "id": "73.14.05",
-    "name": "Panca Rijang"
+    "id": "73.14.09",
+    "name": "Dua Pitue"
   },
   {
     "id": "73.14.06",
@@ -28,19 +16,31 @@
     "name": "Maritengngae"
   },
   {
-    "id": "73.14.08",
-    "name": "WT. Sidenreng"
+    "id": "73.14.01",
+    "name": "Panca Lautan"
   },
   {
-    "id": "73.14.09",
-    "name": "Dua Pitue"
+    "id": "73.14.05",
+    "name": "Panca Rijang"
+  },
+  {
+    "id": "73.14.11",
+    "name": "Pitu Raise"
   },
   {
     "id": "73.14.10",
     "name": "Pitu Riawa"
   },
   {
-    "id": "73.14.11",
-    "name": "Pitu Raise"
+    "id": "73.14.02",
+    "name": "Tellu Limpoe"
+  },
+  {
+    "id": "73.14.03",
+    "name": "Watang Pulu"
+  },
+  {
+    "id": "73.14.08",
+    "name": "WT. Sidenreng"
   }
 ]

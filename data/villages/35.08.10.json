@@ -4,12 +4,20 @@
     "name": "Banjarwaru"
   },
   {
-    "id": "35.08.10.2002",
-    "name": "Labruk Lor"
+    "id": "35.08.10.2007",
+    "name": "Blukon"
+  },
+  {
+    "id": "35.08.10.2008",
+    "name": "Boreng"
   },
   {
     "id": "35.08.10.1003",
     "name": "Citrodiwangsan"
+  },
+  {
+    "id": "35.08.10.2006",
+    "name": "Denok"
   },
   {
     "id": "35.08.10.1004",
@@ -20,20 +28,16 @@
     "name": "Jogotrunan"
   },
   {
-    "id": "35.08.10.2006",
-    "name": "Denok"
-  },
-  {
-    "id": "35.08.10.2007",
-    "name": "Blukon"
-  },
-  {
-    "id": "35.08.10.2008",
-    "name": "Boreng"
-  },
-  {
     "id": "35.08.10.1009",
     "name": "Jogoyudan"
+  },
+  {
+    "id": "35.08.10.1012",
+    "name": "Kepuharjo"
+  },
+  {
+    "id": "35.08.10.2002",
+    "name": "Labruk Lor"
   },
   {
     "id": "35.08.10.1010",
@@ -42,9 +46,5 @@
   {
     "id": "35.08.10.1011",
     "name": "Tompokersan"
-  },
-  {
-    "id": "35.08.10.1012",
-    "name": "Kepuharjo"
   }
 ]

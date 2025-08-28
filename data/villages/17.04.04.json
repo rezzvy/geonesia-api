@@ -1,19 +1,19 @@
 [
   {
-    "id": "17.04.04.2001",
-    "name": "Sukarami"
+    "id": "17.04.04.2004",
+    "name": "Kemang Manis"
   },
   {
-    "id": "17.04.04.2002",
-    "name": "Pajar Bulan"
+    "id": "17.04.04.2009",
+    "name": "Padang Baru"
   },
   {
     "id": "17.04.04.2003",
     "name": "Padang Hangat"
   },
   {
-    "id": "17.04.04.2004",
-    "name": "Kemang Manis"
+    "id": "17.04.04.2002",
+    "name": "Pajar Bulan"
   },
   {
     "id": "17.04.04.2005",
@@ -24,15 +24,15 @@
     "name": "Sinar Jaya"
   },
   {
+    "id": "17.04.04.2001",
+    "name": "Sukarami"
+  },
+  {
     "id": "17.04.04.1007",
     "name": "Tanjung Iman"
   },
   {
     "id": "17.04.04.2008",
     "name": "Tanjung Pandan"
-  },
-  {
-    "id": "17.04.04.2009",
-    "name": "Padang Baru"
   }
 ]

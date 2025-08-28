@@ -1,7 +1,7 @@
 [
   {
-    "id": "52.71.06.1001",
-    "name": "Dasan Cermen"
+    "id": "52.71.06.1005",
+    "name": "Abian Tubuh Baru"
   },
   {
     "id": "52.71.06.1002",
@@ -12,19 +12,19 @@
     "name": "Bertais"
   },
   {
-    "id": "52.71.06.1004",
-    "name": "Selagalas"
-  },
-  {
-    "id": "52.71.06.1005",
-    "name": "Abian Tubuh Baru"
-  },
-  {
-    "id": "52.71.06.1006",
-    "name": "Turida"
+    "id": "52.71.06.1001",
+    "name": "Dasan Cermen"
   },
   {
     "id": "52.71.06.1007",
     "name": "Mandalika"
+  },
+  {
+    "id": "52.71.06.1004",
+    "name": "Selagalas"
+  },
+  {
+    "id": "52.71.06.1006",
+    "name": "Turida"
   }
 ]

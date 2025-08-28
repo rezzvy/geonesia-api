@@ -1,7 +1,15 @@
 [
   {
+    "id": "13.07.10.2004",
+    "name": "Situjuah Banda Dalam"
+  },
+  {
     "id": "13.07.10.2001",
     "name": "Situjuah Batua"
+  },
+  {
+    "id": "13.07.10.2005",
+    "name": "Situjuah Gadang"
   },
   {
     "id": "13.07.10.2002",
@@ -10,13 +18,5 @@
   {
     "id": "13.07.10.2003",
     "name": "Tungka"
-  },
-  {
-    "id": "13.07.10.2004",
-    "name": "Situjuah Banda Dalam"
-  },
-  {
-    "id": "13.07.10.2005",
-    "name": "Situjuah Gadang"
   }
 ]

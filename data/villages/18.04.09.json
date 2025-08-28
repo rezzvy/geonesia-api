@@ -1,19 +1,11 @@
 [
   {
-    "id": "18.04.09.2003",
-    "name": "Suka Marga"
-  },
-  {
-    "id": "18.04.09.2004",
-    "name": "Sumber Agung"
-  },
-  {
-    "id": "18.04.09.2005",
-    "name": "Tuguratu"
-  },
-  {
     "id": "18.04.09.2006",
     "name": "Banding Agung"
+  },
+  {
+    "id": "18.04.09.2018",
+    "name": "Ringin Sari"
   },
   {
     "id": "18.04.09.2010",
@@ -24,7 +16,15 @@
     "name": "Sidorejo"
   },
   {
-    "id": "18.04.09.2018",
-    "name": "Ringin Sari"
+    "id": "18.04.09.2003",
+    "name": "Suka Marga"
+  },
+  {
+    "id": "18.04.09.2004",
+    "name": "Sumber Agung"
+  },
+  {
+    "id": "18.04.09.2005",
+    "name": "Tuguratu"
   }
 ]

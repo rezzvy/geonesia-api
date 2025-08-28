@@ -4,8 +4,20 @@
     "name": "Daulu"
   },
   {
+    "id": "12.06.02.1008",
+    "name": "Gundaling I"
+  },
+  {
+    "id": "12.06.02.1009",
+    "name": "Gundaling II"
+  },
+  {
     "id": "12.06.02.2002",
     "name": "Gurusinga"
+  },
+  {
+    "id": "12.06.02.2010",
+    "name": "Lau Gumba"
   },
   {
     "id": "12.06.02.2003",
@@ -26,17 +38,5 @@
   {
     "id": "12.06.02.1007",
     "name": "Tambak Lau Mulgab II"
-  },
-  {
-    "id": "12.06.02.1008",
-    "name": "Gundaling I"
-  },
-  {
-    "id": "12.06.02.1009",
-    "name": "Gundaling II"
-  },
-  {
-    "id": "12.06.02.2010",
-    "name": "Lau Gumba"
   }
 ]

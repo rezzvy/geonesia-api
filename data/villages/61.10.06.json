@@ -1,15 +1,11 @@
 [
   {
+    "id": "61.10.06.2016",
+    "name": "Bata Luar"
+  },
+  {
     "id": "61.10.06.2001",
     "name": "Batu Begigi"
-  },
-  {
-    "id": "61.10.06.2002",
-    "name": "Loka Jaya"
-  },
-  {
-    "id": "61.10.06.2003",
-    "name": "Suka Maju"
   },
   {
     "id": "61.10.06.2004",
@@ -20,12 +16,16 @@
     "name": "Bina Karya"
   },
   {
-    "id": "61.10.06.2006",
-    "name": "Madong Jaya"
+    "id": "61.10.06.2022",
+    "name": "Keranjik"
   },
   {
-    "id": "61.10.06.2016",
-    "name": "Bata Luar"
+    "id": "61.10.06.2002",
+    "name": "Loka Jaya"
+  },
+  {
+    "id": "61.10.06.2006",
+    "name": "Madong Jaya"
   },
   {
     "id": "61.10.06.2017",
@@ -36,15 +36,15 @@
     "name": "Pelita Kenaya"
   },
   {
+    "id": "61.10.06.2003",
+    "name": "Suka Maju"
+  },
+  {
     "id": "61.10.06.2020",
     "name": "Tanjung Beringin Raya"
   },
   {
     "id": "61.10.06.2021",
     "name": "Tanjung Gunung"
-  },
-  {
-    "id": "61.10.06.2022",
-    "name": "Keranjik"
   }
 ]

@@ -4,6 +4,10 @@
     "name": "Biduk-Biduk"
   },
   {
+    "id": "64.03.08.2009",
+    "name": "Giring-Giring"
+  },
+  {
     "id": "64.03.08.2002",
     "name": "Pantai Harapan"
   },
@@ -12,15 +16,11 @@
     "name": "Tanjung Prepat"
   },
   {
-    "id": "64.03.08.2004",
-    "name": "Teluk Sumbang"
-  },
-  {
     "id": "64.03.08.2008",
     "name": "Teluk Sulaiman"
   },
   {
-    "id": "64.03.08.2009",
-    "name": "Giring-Giring"
+    "id": "64.03.08.2004",
+    "name": "Teluk Sumbang"
   }
 ]

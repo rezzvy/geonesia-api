@@ -1,31 +1,23 @@
 [
   {
-    "id": "91.14.02.1001",
-    "name": "Bokondini"
-  },
-  {
-    "id": "91.14.02.2006",
-    "name": "Mairini"
-  },
-  {
     "id": "91.14.02.2007",
     "name": "Apiam"
   },
   {
-    "id": "91.14.02.2008",
-    "name": "Umaga"
+    "id": "91.14.02.1001",
+    "name": "Bokondini"
+  },
+  {
+    "id": "91.14.02.2041",
+    "name": "Dunduma"
   },
   {
     "id": "91.14.02.2015",
     "name": "Galala"
   },
   {
-    "id": "91.14.02.2016",
-    "name": "Mingganggo"
-  },
-  {
-    "id": "91.14.02.2022",
-    "name": "Tenggagama"
+    "id": "91.14.02.2039",
+    "name": "Jawalane"
   },
   {
     "id": "91.14.02.2035",
@@ -36,11 +28,19 @@
     "name": "Lambogo"
   },
   {
-    "id": "91.14.02.2039",
-    "name": "Jawalane"
+    "id": "91.14.02.2006",
+    "name": "Mairini"
   },
   {
-    "id": "91.14.02.2041",
-    "name": "Dunduma"
+    "id": "91.14.02.2016",
+    "name": "Mingganggo"
+  },
+  {
+    "id": "91.14.02.2022",
+    "name": "Tenggagama"
+  },
+  {
+    "id": "91.14.02.2008",
+    "name": "Umaga"
   }
 ]

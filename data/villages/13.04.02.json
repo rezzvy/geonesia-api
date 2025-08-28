@@ -4,16 +4,16 @@
     "name": "Andaleh"
   },
   {
-    "id": "13.04.02.2002",
-    "name": "Sabu"
-  },
-  {
     "id": "13.04.02.2003",
     "name": "Batipuah Ateh"
   },
   {
     "id": "13.04.02.2004",
     "name": "Batipuah Baruah"
+  },
+  {
+    "id": "13.04.02.2008",
+    "name": "Bungo Tanjuang"
   },
   {
     "id": "13.04.02.2005",
@@ -24,11 +24,11 @@
     "name": "Pitalah"
   },
   {
-    "id": "13.04.02.2007",
-    "name": "Tanjuang Barulak"
+    "id": "13.04.02.2002",
+    "name": "Sabu"
   },
   {
-    "id": "13.04.02.2008",
-    "name": "Bungo Tanjuang"
+    "id": "13.04.02.2007",
+    "name": "Tanjuang Barulak"
   }
 ]

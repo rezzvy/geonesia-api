@@ -1,13 +1,5 @@
 [
   {
-    "id": "14.07.11.1001",
-    "name": "Simpang Kanan"
-  },
-  {
-    "id": "14.07.11.2002",
-    "name": "Kota Parit"
-  },
-  {
     "id": "14.07.11.2003",
     "name": "Bagan Nibung"
   },
@@ -22,5 +14,13 @@
   {
     "id": "14.07.11.2006",
     "name": "Bukit Selamat"
+  },
+  {
+    "id": "14.07.11.2002",
+    "name": "Kota Parit"
+  },
+  {
+    "id": "14.07.11.1001",
+    "name": "Simpang Kanan"
   }
 ]

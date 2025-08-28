@@ -1,5 +1,13 @@
 [
   {
+    "id": "74.05.24.2007",
+    "name": "Asaria"
+  },
+  {
+    "id": "74.05.24.2005",
+    "name": "Karoonua"
+  },
+  {
     "id": "74.05.24.2001",
     "name": "Sabulakoa"
   },
@@ -12,20 +20,12 @@
     "name": "Tetenggabo"
   },
   {
-    "id": "74.05.24.2004",
-    "name": "Watu-watu"
-  },
-  {
-    "id": "74.05.24.2005",
-    "name": "Karoonua"
-  },
-  {
     "id": "74.05.24.2006",
     "name": "Ulu Sabulakoa"
   },
   {
-    "id": "74.05.24.2007",
-    "name": "Asaria"
+    "id": "74.05.24.2004",
+    "name": "Watu-watu"
   },
   {
     "id": "74.05.24.2008",

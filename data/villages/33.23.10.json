@@ -1,15 +1,11 @@
 [
   {
-    "id": "33.23.10.2001",
-    "name": "Jumo"
+    "id": "33.23.10.2007",
+    "name": "Barang"
   },
   {
-    "id": "33.23.10.2002",
-    "name": "Jamusan"
-  },
-  {
-    "id": "33.23.10.2003",
-    "name": "Kertosari"
+    "id": "33.23.10.2013",
+    "name": "Gedongsari"
   },
   {
     "id": "33.23.10.2004",
@@ -20,16 +16,24 @@
     "name": "Gununggempol"
   },
   {
-    "id": "33.23.10.2006",
-    "name": "Padureso"
-  },
-  {
-    "id": "33.23.10.2007",
-    "name": "Barang"
+    "id": "33.23.10.2002",
+    "name": "Jamusan"
   },
   {
     "id": "33.23.10.2008",
     "name": "Jombor"
+  },
+  {
+    "id": "33.23.10.2001",
+    "name": "Jumo"
+  },
+  {
+    "id": "33.23.10.2011",
+    "name": "Karangtejo"
+  },
+  {
+    "id": "33.23.10.2003",
+    "name": "Kertosari"
   },
   {
     "id": "33.23.10.2009",
@@ -40,15 +44,11 @@
     "name": "Morobongo"
   },
   {
-    "id": "33.23.10.2011",
-    "name": "Karangtejo"
+    "id": "33.23.10.2006",
+    "name": "Padureso"
   },
   {
     "id": "33.23.10.2012",
     "name": "Sukomarto"
-  },
-  {
-    "id": "33.23.10.2013",
-    "name": "Gedongsari"
   }
 ]

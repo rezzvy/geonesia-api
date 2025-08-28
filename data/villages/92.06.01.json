@@ -1,17 +1,5 @@
 [
   {
-    "id": "92.06.01.1001",
-    "name": "Bintuni Timur"
-  },
-  {
-    "id": "92.06.01.1002",
-    "name": "Bintuni Barat"
-  },
-  {
-    "id": "92.06.01.2004",
-    "name": "Tuasai"
-  },
-  {
     "id": "92.06.01.2005",
     "name": "Argosigemerai"
   },
@@ -20,12 +8,24 @@
     "name": "Beimes"
   },
   {
+    "id": "92.06.01.1002",
+    "name": "Bintuni Barat"
+  },
+  {
+    "id": "92.06.01.1001",
+    "name": "Bintuni Timur"
+  },
+  {
     "id": "92.06.01.2010",
     "name": "Iguriji"
   },
   {
     "id": "92.06.01.2022",
     "name": "Masina"
+  },
+  {
+    "id": "92.06.01.2004",
+    "name": "Tuasai"
   },
   {
     "id": "92.06.01.2026",

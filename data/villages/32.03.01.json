@@ -4,20 +4,24 @@
     "name": "Babakan Karet"
   },
   {
-    "id": "32.03.01.2002",
-    "name": "Nagrak"
+    "id": "32.03.01.1008",
+    "name": "Bojongherang"
   },
   {
-    "id": "32.03.01.2003",
-    "name": "Sukamaju"
+    "id": "32.03.01.2005",
+    "name": "Limbangansari"
   },
   {
     "id": "32.03.01.2004",
     "name": "Mekarsari"
   },
   {
-    "id": "32.03.01.2005",
-    "name": "Limbangansari"
+    "id": "32.03.01.1011",
+    "name": "Muka"
+  },
+  {
+    "id": "32.03.01.2002",
+    "name": "Nagrak"
   },
   {
     "id": "32.03.01.1006",
@@ -28,10 +32,6 @@
     "name": "Sawahgede"
   },
   {
-    "id": "32.03.01.1008",
-    "name": "Bojongherang"
-  },
-  {
     "id": "32.03.01.1009",
     "name": "Sayang"
   },
@@ -40,7 +40,7 @@
     "name": "Solokpandan"
   },
   {
-    "id": "32.03.01.1011",
-    "name": "Muka"
+    "id": "32.03.01.2003",
+    "name": "Sukamaju"
   }
 ]

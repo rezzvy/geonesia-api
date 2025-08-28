@@ -1,19 +1,11 @@
 [
   {
-    "id": "32.09.23.2001",
-    "name": "Serang"
-  },
-  {
-    "id": "32.09.23.2002",
-    "name": "Klangenan"
+    "id": "32.09.23.2012",
+    "name": "Bangodua"
   },
   {
     "id": "32.09.23.2003",
     "name": "Danawinangun"
-  },
-  {
-    "id": "32.09.23.2007",
-    "name": "Pakantingan"
   },
   {
     "id": "32.09.23.2008",
@@ -24,15 +16,23 @@
     "name": "Jemaras Lor"
   },
   {
-    "id": "32.09.23.2010",
-    "name": "Slangit"
+    "id": "32.09.23.2002",
+    "name": "Klangenan"
   },
   {
     "id": "32.09.23.2011",
     "name": "Kreyo"
   },
   {
-    "id": "32.09.23.2012",
-    "name": "Bangodua"
+    "id": "32.09.23.2007",
+    "name": "Pakantingan"
+  },
+  {
+    "id": "32.09.23.2001",
+    "name": "Serang"
+  },
+  {
+    "id": "32.09.23.2010",
+    "name": "Slangit"
   }
 ]

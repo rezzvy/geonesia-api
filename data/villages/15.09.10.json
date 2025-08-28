@@ -1,13 +1,5 @@
 [
   {
-    "id": "15.09.10.2001",
-    "name": "Pinang Belai"
-  },
-  {
-    "id": "15.09.10.2002",
-    "name": "Sekutur Jaya"
-  },
-  {
     "id": "15.09.10.2003",
     "name": "Bukit Pamuatan"
   },
@@ -16,12 +8,20 @@
     "name": "Napal Putih"
   },
   {
+    "id": "15.09.10.2006",
+    "name": "Pagar Puding Lamo"
+  },
+  {
+    "id": "15.09.10.2001",
+    "name": "Pinang Belai"
+  },
+  {
     "id": "15.09.10.2005",
     "name": "Sako Makmur"
   },
   {
-    "id": "15.09.10.2006",
-    "name": "Pagar Puding Lamo"
+    "id": "15.09.10.2002",
+    "name": "Sekutur Jaya"
   },
   {
     "id": "15.09.10.2007",

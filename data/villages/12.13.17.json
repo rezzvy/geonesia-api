@@ -12,6 +12,10 @@
     "name": "Lubuk Kapundung"
   },
   {
+    "id": "12.13.17.2013",
+    "name": "Lubuk Kapundung II"
+  },
+  {
     "id": "12.13.17.2004",
     "name": "Manuncang"
   },
@@ -32,8 +36,16 @@
     "name": "Rantau Panjang"
   },
   {
+    "id": "12.13.17.2012",
+    "name": "Sali Baru"
+  },
+  {
     "id": "12.13.17.2009",
     "name": "Sikapas"
+  },
+  {
+    "id": "12.13.17.2014",
+    "name": "Suka Makmur"
   },
   {
     "id": "12.13.17.2010",
@@ -42,17 +54,5 @@
   {
     "id": "12.13.17.2011",
     "name": "Tagilang Julu"
-  },
-  {
-    "id": "12.13.17.2012",
-    "name": "Sali Baru"
-  },
-  {
-    "id": "12.13.17.2013",
-    "name": "Lubuk Kapundung II"
-  },
-  {
-    "id": "12.13.17.2014",
-    "name": "Suka Makmur"
   }
 ]

@@ -1,7 +1,11 @@
 [
   {
-    "id": "74.71.01.1005",
-    "name": "Mandonga"
+    "id": "74.71.01.1009",
+    "name": "Alolama"
+  },
+  {
+    "id": "74.71.01.1010",
+    "name": "Anggilowu"
   },
   {
     "id": "74.71.01.1006",
@@ -12,15 +16,11 @@
     "name": "Labibia"
   },
   {
+    "id": "74.71.01.1005",
+    "name": "Mandonga"
+  },
+  {
     "id": "74.71.01.1008",
     "name": "Wawombalata"
-  },
-  {
-    "id": "74.71.01.1009",
-    "name": "Alolama"
-  },
-  {
-    "id": "74.71.01.1010",
-    "name": "Anggilowu"
   }
 ]

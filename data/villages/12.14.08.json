@@ -8,12 +8,28 @@
     "name": "Bawosalo'o Siwalawa"
   },
   {
+    "id": "12.14.08.2033",
+    "name": "Botohili"
+  },
+  {
     "id": "12.14.08.2009",
     "name": "Hilifadolo"
   },
   {
+    "id": "12.14.08.2035",
+    "name": "Hilikara"
+  },
+  {
+    "id": "12.14.08.2047",
+    "name": "Hilimbowo Siwalawa"
+  },
+  {
     "id": "12.14.08.2014",
     "name": "Lolofaoso"
+  },
+  {
+    "id": "12.14.08.2017",
+    "name": "Lolohowa"
   },
   {
     "id": "12.14.08.2015",
@@ -24,8 +40,12 @@
     "name": "Lolowau"
   },
   {
-    "id": "12.14.08.2017",
-    "name": "Lolohowa"
+    "id": "12.14.08.2048",
+    "name": "Nituwu Boho"
+  },
+  {
+    "id": "12.14.08.2044",
+    "name": "Samiri"
   },
   {
     "id": "12.14.08.2022",
@@ -34,25 +54,5 @@
   {
     "id": "12.14.08.2030",
     "name": "Tuhegafoa"
-  },
-  {
-    "id": "12.14.08.2033",
-    "name": "Botohili"
-  },
-  {
-    "id": "12.14.08.2035",
-    "name": "Hilikara"
-  },
-  {
-    "id": "12.14.08.2044",
-    "name": "Samiri"
-  },
-  {
-    "id": "12.14.08.2047",
-    "name": "Hilimbowo Siwalawa"
-  },
-  {
-    "id": "12.14.08.2048",
-    "name": "Nituwu Boho"
   }
 ]

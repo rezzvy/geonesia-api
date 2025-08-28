@@ -1,5 +1,9 @@
 [
   {
+    "id": "64.08.08.2006",
+    "name": "Kombeng Indah"
+  },
+  {
     "id": "64.08.08.2001",
     "name": "Makmur Jaya"
   },
@@ -8,8 +12,8 @@
     "name": "Marga Mulya"
   },
   {
-    "id": "64.08.08.2003",
-    "name": "Sukamaju"
+    "id": "64.08.08.2007",
+    "name": "Miau Baru"
   },
   {
     "id": "64.08.08.2004",
@@ -20,11 +24,7 @@
     "name": "Sri Pantun"
   },
   {
-    "id": "64.08.08.2006",
-    "name": "Kombeng Indah"
-  },
-  {
-    "id": "64.08.08.2007",
-    "name": "Miau Baru"
+    "id": "64.08.08.2003",
+    "name": "Sukamaju"
   }
 ]

@@ -1,19 +1,15 @@
 [
   {
-    "id": "13.71.09.1001",
-    "name": "Pasar Ambacang"
+    "id": "13.71.09.1004",
+    "name": "Ampang"
   },
   {
     "id": "13.71.09.1002",
     "name": "Anduring"
   },
   {
-    "id": "13.71.09.1003",
-    "name": "Lubuk Lintah"
-  },
-  {
-    "id": "13.71.09.1004",
-    "name": "Ampang"
+    "id": "13.71.09.1008",
+    "name": "Gunung Sarik"
   },
   {
     "id": "13.71.09.1005",
@@ -28,8 +24,12 @@
     "name": "Kuranji"
   },
   {
-    "id": "13.71.09.1008",
-    "name": "Gunung Sarik"
+    "id": "13.71.09.1003",
+    "name": "Lubuk Lintah"
+  },
+  {
+    "id": "13.71.09.1001",
+    "name": "Pasar Ambacang"
   },
   {
     "id": "13.71.09.1009",

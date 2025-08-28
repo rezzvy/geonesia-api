@@ -1,5 +1,9 @@
 [
   {
+    "id": "11.10.11.2005",
+    "name": "Biskang"
+  },
+  {
     "id": "11.10.11.2001",
     "name": "Lae Balno"
   },
@@ -12,15 +16,11 @@
     "name": "Sikoran"
   },
   {
-    "id": "11.10.11.2004",
-    "name": "Situbuh-tubuh"
-  },
-  {
-    "id": "11.10.11.2005",
-    "name": "Biskang"
-  },
-  {
     "id": "11.10.11.2006",
     "name": "Sintuban Makmur"
+  },
+  {
+    "id": "11.10.11.2004",
+    "name": "Situbuh-tubuh"
   }
 ]

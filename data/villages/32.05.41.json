@@ -1,15 +1,23 @@
 [
   {
-    "id": "32.05.41.2001",
-    "name": "Citangtu"
+    "id": "32.05.41.2003",
+    "name": "Babakan Loa"
+  },
+  {
+    "id": "32.05.41.2006",
+    "name": "Cihuni"
   },
   {
     "id": "32.05.41.2002",
     "name": "Cimarabas"
   },
   {
-    "id": "32.05.41.2003",
-    "name": "Babakan Loa"
+    "id": "32.05.41.2001",
+    "name": "Citangtu"
+  },
+  {
+    "id": "32.05.41.2008",
+    "name": "Karangsari"
   },
   {
     "id": "32.05.41.2004",
@@ -20,15 +28,7 @@
     "name": "Sukamulya"
   },
   {
-    "id": "32.05.41.2006",
-    "name": "Cihuni"
-  },
-  {
     "id": "32.05.41.2007",
     "name": "Sukarasa"
-  },
-  {
-    "id": "32.05.41.2008",
-    "name": "Karangsari"
   }
 ]

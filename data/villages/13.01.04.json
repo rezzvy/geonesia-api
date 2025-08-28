@@ -8,10 +8,6 @@
     "name": "IV Koto Mudiek"
   },
   {
-    "id": "13.01.04.2003",
-    "name": "Taluak"
-  },
-  {
     "id": "13.01.04.2004",
     "name": "Koto Nan Duo IV Koto Hilie"
   },
@@ -20,19 +16,23 @@
     "name": "Koto Nan Tigo IV Koto Hilie"
   },
   {
+    "id": "13.01.04.2008",
+    "name": "Sungai Nyalo IV Koto Mudiek"
+  },
+  {
+    "id": "13.01.04.2003",
+    "name": "Taluak"
+  },
+  {
+    "id": "13.01.04.2009",
+    "name": "Taluk Tigo Sakato"
+  },
+  {
     "id": "13.01.04.2006",
     "name": "Teratak Tempatih IV Koto Mudiek"
   },
   {
     "id": "13.01.04.2007",
     "name": "Tuik IV Koto Mudiek"
-  },
-  {
-    "id": "13.01.04.2008",
-    "name": "Sungai Nyalo IV Koto Mudiek"
-  },
-  {
-    "id": "13.01.04.2009",
-    "name": "Taluk Tigo Sakato"
   }
 ]

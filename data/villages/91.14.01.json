@@ -1,27 +1,51 @@
 [
   {
-    "id": "91.14.01.1001",
-    "name": "Karubaga"
-  },
-  {
-    "id": "91.14.01.2010",
-    "name": "Kogimagi"
-  },
-  {
-    "id": "91.14.01.2012",
-    "name": "Muara"
-  },
-  {
     "id": "91.14.01.2039",
     "name": "Ampera"
+  },
+  {
+    "id": "91.14.01.2072",
+    "name": "Beleme"
+  },
+  {
+    "id": "91.14.01.2068",
+    "name": "Danggulurik"
+  },
+  {
+    "id": "91.14.01.2055",
+    "name": "Ebenhaiser"
   },
   {
     "id": "91.14.01.2054",
     "name": "Elsadai"
   },
   {
-    "id": "91.14.01.2055",
-    "name": "Ebenhaiser"
+    "id": "91.14.01.2067",
+    "name": "Gininggadonak"
+  },
+  {
+    "id": "91.14.01.2073",
+    "name": "Gurikagewa"
+  },
+  {
+    "id": "91.14.01.2069",
+    "name": "Gurikme"
+  },
+  {
+    "id": "91.14.01.1001",
+    "name": "Karubaga"
+  },
+  {
+    "id": "91.14.01.2060",
+    "name": "Kimobur"
+  },
+  {
+    "id": "91.14.01.2062",
+    "name": "Kiranage"
+  },
+  {
+    "id": "91.14.01.2010",
+    "name": "Kogimagi"
   },
   {
     "id": "91.14.01.2056",
@@ -32,52 +56,32 @@
     "name": "Kuloname"
   },
   {
-    "id": "91.14.01.2059",
-    "name": "Lirak"
-  },
-  {
-    "id": "91.14.01.2060",
-    "name": "Kimobur"
-  },
-  {
     "id": "91.14.01.2061",
     "name": "Kuragepura"
   },
   {
-    "id": "91.14.01.2062",
-    "name": "Kiranage"
+    "id": "91.14.01.2059",
+    "name": "Lirak"
+  },
+  {
+    "id": "91.14.01.2076",
+    "name": "Losmen"
   },
   {
     "id": "91.14.01.2064",
     "name": "Luwik"
   },
   {
-    "id": "91.14.01.2067",
-    "name": "Gininggadonak"
-  },
-  {
-    "id": "91.14.01.2068",
-    "name": "Danggulurik"
-  },
-  {
-    "id": "91.14.01.2069",
-    "name": "Gurikme"
-  },
-  {
     "id": "91.14.01.2070",
     "name": "Molera"
   },
   {
+    "id": "91.14.01.2012",
+    "name": "Muara"
+  },
+  {
     "id": "91.14.01.2071",
     "name": "Nalorini"
-  },
-  {
-    "id": "91.14.01.2072",
-    "name": "Beleme"
-  },
-  {
-    "id": "91.14.01.2073",
-    "name": "Gurikagewa"
   },
   {
     "id": "91.14.01.2074",
@@ -86,9 +90,5 @@
   {
     "id": "91.14.01.2075",
     "name": "Yalikaluk"
-  },
-  {
-    "id": "91.14.01.2076",
-    "name": "Losmen"
   }
 ]

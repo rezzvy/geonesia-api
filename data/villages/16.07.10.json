@@ -1,50 +1,50 @@
 [
   {
-    "id": "16.07.10.2001",
-    "name": "Sungai Rengit"
-  },
-  {
     "id": "16.07.10.1002",
     "name": "Air Batu"
-  },
-  {
-    "id": "16.07.10.1003",
-    "name": "Sukomoro"
-  },
-  {
-    "id": "16.07.10.1004",
-    "name": "Sukajadi"
-  },
-  {
-    "id": "16.07.10.2005",
-    "name": "Pangkalan Benteng"
-  },
-  {
-    "id": "16.07.10.1006",
-    "name": "Kenten"
   },
   {
     "id": "16.07.10.2007",
     "name": "Gasing"
   },
   {
-    "id": "16.07.10.2019",
-    "name": "Talang Buluh"
-  },
-  {
-    "id": "16.07.10.2020",
-    "name": "Sungai Rengat Murni"
+    "id": "16.07.10.1006",
+    "name": "Kenten"
   },
   {
     "id": "16.07.10.2021",
     "name": "Kenten Laut"
   },
   {
-    "id": "16.07.10.1022",
-    "name": "Tanah Mas"
+    "id": "16.07.10.2005",
+    "name": "Pangkalan Benteng"
+  },
+  {
+    "id": "16.07.10.1004",
+    "name": "Sukajadi"
+  },
+  {
+    "id": "16.07.10.1003",
+    "name": "Sukomoro"
+  },
+  {
+    "id": "16.07.10.2020",
+    "name": "Sungai Rengat Murni"
+  },
+  {
+    "id": "16.07.10.2001",
+    "name": "Sungai Rengit"
+  },
+  {
+    "id": "16.07.10.2019",
+    "name": "Talang Buluh"
   },
   {
     "id": "16.07.10.1023",
     "name": "Talang Keramat"
+  },
+  {
+    "id": "16.07.10.1022",
+    "name": "Tanah Mas"
   }
 ]

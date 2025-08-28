@@ -8,16 +8,24 @@
     "name": "Durian"
   },
   {
+    "id": "18.09.05.2031",
+    "name": "Gayau"
+  },
+  {
     "id": "18.09.05.2009",
     "name": "Hanau Berak"
   },
   {
-    "id": "18.09.05.2010",
-    "name": "Paya"
+    "id": "18.09.05.2025",
+    "name": "Khepong Jaya"
   },
   {
     "id": "18.09.05.2011",
     "name": "Padang Cermin"
+  },
+  {
+    "id": "18.09.05.2010",
+    "name": "Paya"
   },
   {
     "id": "18.09.05.2012",
@@ -28,19 +36,11 @@
     "name": "Tambangan"
   },
   {
-    "id": "18.09.05.2017",
-    "name": "Way Urang"
-  },
-  {
-    "id": "18.09.05.2025",
-    "name": "Khepong Jaya"
-  },
-  {
     "id": "18.09.05.2026",
     "name": "Trimulyo"
   },
   {
-    "id": "18.09.05.2031",
-    "name": "Gayau"
+    "id": "18.09.05.2017",
+    "name": "Way Urang"
   }
 ]

@@ -1,19 +1,15 @@
 [
   {
-    "id": "12.08.31.2001",
-    "name": "Ujung Saribu"
-  },
-  {
-    "id": "12.08.31.2002",
-    "name": "Silimakuta Barat"
-  },
-  {
-    "id": "12.08.31.2003",
-    "name": "Siboras"
+    "id": "12.08.31.2010",
+    "name": "Bandar Saribu"
   },
   {
     "id": "12.08.31.2004",
     "name": "Mardingding"
+  },
+  {
+    "id": "12.08.31.2011",
+    "name": "Naga Bosar"
   },
   {
     "id": "12.08.31.2005",
@@ -24,6 +20,14 @@
     "name": "Saribu Jandi"
   },
   {
+    "id": "12.08.31.2003",
+    "name": "Siboras"
+  },
+  {
+    "id": "12.08.31.2002",
+    "name": "Silimakuta Barat"
+  },
+  {
     "id": "12.08.31.2008",
     "name": "Sinar Naga Mariah"
   },
@@ -32,11 +36,7 @@
     "name": "Ujung Mariah"
   },
   {
-    "id": "12.08.31.2010",
-    "name": "Bandar Saribu"
-  },
-  {
-    "id": "12.08.31.2011",
-    "name": "Naga Bosar"
+    "id": "12.08.31.2001",
+    "name": "Ujung Saribu"
   }
 ]

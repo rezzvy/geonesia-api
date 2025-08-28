@@ -1,27 +1,31 @@
 [
   {
+    "id": "73.71.10.1006",
+    "name": "Balang Baru"
+  },
+  {
     "id": "73.71.10.1001",
     "name": "Barombong"
-  },
-  {
-    "id": "73.71.10.1002",
-    "name": "Maccini Sombala"
-  },
-  {
-    "id": "73.71.10.1003",
-    "name": "Jongaya"
-  },
-  {
-    "id": "73.71.10.1004",
-    "name": "Mangasa"
   },
   {
     "id": "73.71.10.1005",
     "name": "Bongaya"
   },
   {
-    "id": "73.71.10.1006",
-    "name": "Balang Baru"
+    "id": "73.71.10.1011",
+    "name": "Bonto Duri"
+  },
+  {
+    "id": "73.71.10.1003",
+    "name": "Jongaya"
+  },
+  {
+    "id": "73.71.10.1002",
+    "name": "Maccini Sombala"
+  },
+  {
+    "id": "73.71.10.1004",
+    "name": "Mangasa"
   },
   {
     "id": "73.71.10.1007",
@@ -38,9 +42,5 @@
   {
     "id": "73.71.10.1010",
     "name": "Tanjung Merdeka"
-  },
-  {
-    "id": "73.71.10.1011",
-    "name": "Bonto Duri"
   }
 ]

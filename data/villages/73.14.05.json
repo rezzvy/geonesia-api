@@ -1,7 +1,19 @@
 [
   {
-    "id": "73.14.05.1001",
-    "name": "Rappang"
+    "id": "73.14.05.2007",
+    "name": "Bulo"
+  },
+  {
+    "id": "73.14.05.2006",
+    "name": "Bulo Wattang"
+  },
+  {
+    "id": "73.14.05.2008",
+    "name": "Cipotakari"
+  },
+  {
+    "id": "73.14.05.1004",
+    "name": "Kadidi"
   },
   {
     "id": "73.14.05.1002",
@@ -12,23 +24,11 @@
     "name": "Maccorawalie"
   },
   {
-    "id": "73.14.05.1004",
-    "name": "Kadidi"
+    "id": "73.14.05.1001",
+    "name": "Rappang"
   },
   {
     "id": "73.14.05.2005",
     "name": "Timoreng Panua"
-  },
-  {
-    "id": "73.14.05.2006",
-    "name": "Bulo Wattang"
-  },
-  {
-    "id": "73.14.05.2007",
-    "name": "Bulo"
-  },
-  {
-    "id": "73.14.05.2008",
-    "name": "Cipotakari"
   }
 ]

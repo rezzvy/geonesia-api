@@ -1,27 +1,23 @@
 [
   {
-    "id": "92.01.08.2001",
-    "name": "Klawana"
+    "id": "92.01.08.2010",
+    "name": "Gisim Darat"
   },
   {
     "id": "92.01.08.2002",
     "name": "Klamano"
   },
   {
-    "id": "92.01.08.2003",
-    "name": "Wariayau"
-  },
-  {
     "id": "92.01.08.2008",
     "name": "Klamono"
   },
   {
-    "id": "92.01.08.2009",
-    "name": "Wonosari"
+    "id": "92.01.08.2021",
+    "name": "Klasafet"
   },
   {
-    "id": "92.01.08.2010",
-    "name": "Gisim Darat"
+    "id": "92.01.08.2001",
+    "name": "Klawana"
   },
   {
     "id": "92.01.08.2013",
@@ -32,11 +28,15 @@
     "name": "Mlasmily"
   },
   {
-    "id": "92.01.08.2021",
-    "name": "Klasafet"
-  },
-  {
     "id": "92.01.08.2022",
     "name": "Posa"
+  },
+  {
+    "id": "92.01.08.2003",
+    "name": "Wariayau"
+  },
+  {
+    "id": "92.01.08.2009",
+    "name": "Wonosari"
   }
 ]

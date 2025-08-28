@@ -1,9 +1,5 @@
 [
   {
-    "id": "14.04.13.1001",
-    "name": "Tembilahan Hulu"
-  },
-  {
     "id": "14.04.13.2002",
     "name": "Pekan Kamis"
   },
@@ -16,11 +12,15 @@
     "name": "Sialang Panjang"
   },
   {
+    "id": "14.04.13.2006",
+    "name": "Sungaiintan"
+  },
+  {
     "id": "14.04.13.1005",
     "name": "Tembilahan Barat"
   },
   {
-    "id": "14.04.13.2006",
-    "name": "Sungaiintan"
+    "id": "14.04.13.1001",
+    "name": "Tembilahan Hulu"
   }
 ]

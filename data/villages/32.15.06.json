@@ -1,27 +1,11 @@
 [
   {
-    "id": "32.15.06.2001",
-    "name": "Rengasdengklok Selatan"
-  },
-  {
-    "id": "32.15.06.2002",
-    "name": "Rengasdengklok Utara"
-  },
-  {
-    "id": "32.15.06.2003",
-    "name": "Kertasari"
-  },
-  {
-    "id": "32.15.06.2004",
-    "name": "Dewisari"
-  },
-  {
     "id": "32.15.06.2005",
     "name": "Amansari"
   },
   {
-    "id": "32.15.06.2006",
-    "name": "Karyasari"
+    "id": "32.15.06.2004",
+    "name": "Dewisari"
   },
   {
     "id": "32.15.06.2007",
@@ -34,5 +18,21 @@
   {
     "id": "32.15.06.2009",
     "name": "Kalangsurya"
+  },
+  {
+    "id": "32.15.06.2006",
+    "name": "Karyasari"
+  },
+  {
+    "id": "32.15.06.2003",
+    "name": "Kertasari"
+  },
+  {
+    "id": "32.15.06.2001",
+    "name": "Rengasdengklok Selatan"
+  },
+  {
+    "id": "32.15.06.2002",
+    "name": "Rengasdengklok Utara"
   }
 ]

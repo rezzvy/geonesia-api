@@ -4,16 +4,12 @@
     "name": "Atu Lintang"
   },
   {
-    "id": "11.04.18.2002",
-    "name": "Merah Mege"
+    "id": "11.04.18.2008",
+    "name": "Bintang Kekelip"
   },
   {
-    "id": "11.04.18.2003",
-    "name": "Merah Pupuk"
-  },
-  {
-    "id": "11.04.18.2004",
-    "name": "Merah Muyang"
+    "id": "11.04.18.2010",
+    "name": "Damar Mulyo"
   },
   {
     "id": "11.04.18.2005",
@@ -24,23 +20,27 @@
     "name": "Kepala Akal"
   },
   {
-    "id": "11.04.18.2007",
-    "name": "Tanoh Abu"
-  },
-  {
-    "id": "11.04.18.2008",
-    "name": "Bintang Kekelip"
-  },
-  {
     "id": "11.04.18.2009",
     "name": "Merah Jernang"
   },
   {
-    "id": "11.04.18.2010",
-    "name": "Damar Mulyo"
+    "id": "11.04.18.2002",
+    "name": "Merah Mege"
+  },
+  {
+    "id": "11.04.18.2004",
+    "name": "Merah Muyang"
+  },
+  {
+    "id": "11.04.18.2003",
+    "name": "Merah Pupuk"
   },
   {
     "id": "11.04.18.2011",
     "name": "Pantan Damar"
+  },
+  {
+    "id": "11.04.18.2007",
+    "name": "Tanoh Abu"
   }
 ]

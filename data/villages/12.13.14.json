@@ -12,12 +12,20 @@
     "name": "Bandar Limabung"
   },
   {
-    "id": "12.13.14.2006",
-    "name": "Lancat"
+    "id": "12.13.14.2031",
+    "name": "Bonca Bayuon"
+  },
+  {
+    "id": "12.13.14.2029",
+    "name": "Dalan Lidang"
   },
   {
     "id": "12.13.14.2010",
     "name": "Kampung Baru"
+  },
+  {
+    "id": "12.13.14.2006",
+    "name": "Lancat"
   },
   {
     "id": "12.13.14.2011",
@@ -26,6 +34,10 @@
   {
     "id": "12.13.14.2014",
     "name": "Pangkalan"
+  },
+  {
+    "id": "12.13.14.2034",
+    "name": "Perbatasan"
   },
   {
     "id": "12.13.14.2015",
@@ -56,23 +68,11 @@
     "name": "Simpang Koje"
   },
   {
-    "id": "12.13.14.1028",
-    "name": "Tapus"
-  },
-  {
-    "id": "12.13.14.2029",
-    "name": "Dalan Lidang"
-  },
-  {
-    "id": "12.13.14.2031",
-    "name": "Bonca Bayuon"
-  },
-  {
-    "id": "12.13.14.2034",
-    "name": "Perbatasan"
-  },
-  {
     "id": "12.13.14.2035",
     "name": "Tangsi Atas"
+  },
+  {
+    "id": "12.13.14.1028",
+    "name": "Tapus"
   }
 ]

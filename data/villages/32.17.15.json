@@ -1,13 +1,5 @@
 [
   {
-    "id": "32.17.15.2001",
-    "name": "Sirnajaya"
-  },
-  {
-    "id": "32.17.15.2002",
-    "name": "Gununghalu"
-  },
-  {
     "id": "32.17.15.2003",
     "name": "Bunijaya"
   },
@@ -20,8 +12,16 @@
     "name": "Cilangari"
   },
   {
+    "id": "32.17.15.2002",
+    "name": "Gununghalu"
+  },
+  {
     "id": "32.17.15.2006",
     "name": "Sindangjaya"
+  },
+  {
+    "id": "32.17.15.2001",
+    "name": "Sirnajaya"
   },
   {
     "id": "32.17.15.2007",

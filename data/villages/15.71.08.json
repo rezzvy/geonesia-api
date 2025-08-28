@@ -1,11 +1,15 @@
 [
   {
-    "id": "15.71.08.1001",
-    "name": "Talang Jauh"
-  },
-  {
     "id": "15.71.08.1002",
     "name": "Cempaka Putih"
+  },
+  {
+    "id": "15.71.08.1007",
+    "name": "Handil Jaya"
+  },
+  {
+    "id": "15.71.08.1006",
+    "name": "Jelutung"
   },
   {
     "id": "15.71.08.1003",
@@ -20,11 +24,7 @@
     "name": "Payo Lebar"
   },
   {
-    "id": "15.71.08.1006",
-    "name": "Jelutung"
-  },
-  {
-    "id": "15.71.08.1007",
-    "name": "Handil Jaya"
+    "id": "15.71.08.1001",
+    "name": "Talang Jauh"
   }
 ]

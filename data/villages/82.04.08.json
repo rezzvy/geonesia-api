@@ -1,35 +1,11 @@
 [
   {
-    "id": "82.04.08.2001",
-    "name": "Labuha"
-  },
-  {
-    "id": "82.04.08.2002",
-    "name": "Amasing Kota"
-  },
-  {
     "id": "82.04.08.2003",
     "name": "Amasing Kali"
   },
   {
-    "id": "82.04.08.2004",
-    "name": "Tomori"
-  },
-  {
-    "id": "82.04.08.2009",
-    "name": "Indomut"
-  },
-  {
-    "id": "82.04.08.2010",
-    "name": "Belang Belang"
-  },
-  {
-    "id": "82.04.08.2026",
-    "name": "Sumae"
-  },
-  {
-    "id": "82.04.08.2027",
-    "name": "Kaputusan"
+    "id": "82.04.08.2002",
+    "name": "Amasing Kota"
   },
   {
     "id": "82.04.08.2030",
@@ -44,15 +20,39 @@
     "name": "Awanggoa"
   },
   {
-    "id": "82.04.08.2036",
-    "name": "Suma Tinggi"
+    "id": "82.04.08.2010",
+    "name": "Belang Belang"
   },
   {
     "id": "82.04.08.2040",
     "name": "Hidayat"
   },
   {
+    "id": "82.04.08.2009",
+    "name": "Indomut"
+  },
+  {
+    "id": "82.04.08.2027",
+    "name": "Kaputusan"
+  },
+  {
+    "id": "82.04.08.2001",
+    "name": "Labuha"
+  },
+  {
     "id": "82.04.08.2041",
     "name": "Marabose"
+  },
+  {
+    "id": "82.04.08.2036",
+    "name": "Suma Tinggi"
+  },
+  {
+    "id": "82.04.08.2026",
+    "name": "Sumae"
+  },
+  {
+    "id": "82.04.08.2004",
+    "name": "Tomori"
   }
 ]

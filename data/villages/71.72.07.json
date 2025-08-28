@@ -1,15 +1,11 @@
 [
   {
-    "id": "71.72.07.1001",
-    "name": "Bitung Barat Satu"
-  },
-  {
-    "id": "71.72.07.1002",
-    "name": "Pakadoodan"
-  },
-  {
     "id": "71.72.07.1003",
     "name": "Bitung Barat Dua"
+  },
+  {
+    "id": "71.72.07.1001",
+    "name": "Bitung Barat Satu"
   },
   {
     "id": "71.72.07.1004",
@@ -26,6 +22,10 @@
   {
     "id": "71.72.07.1007",
     "name": "Kekenturan Dua"
+  },
+  {
+    "id": "71.72.07.1002",
+    "name": "Pakadoodan"
   },
   {
     "id": "71.72.07.1008",

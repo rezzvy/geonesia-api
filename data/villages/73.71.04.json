@@ -1,5 +1,25 @@
 [
   {
+    "id": "73.71.04.1005",
+    "name": "Baru"
+  },
+  {
+    "id": "73.71.04.1006",
+    "name": "Bulogading"
+  },
+  {
+    "id": "73.71.04.1007",
+    "name": "Lae-Lae"
+  },
+  {
+    "id": "73.71.04.1010",
+    "name": "Lajangiru"
+  },
+  {
+    "id": "73.71.04.1008",
+    "name": "Losari"
+  },
+  {
     "id": "73.71.04.1001",
     "name": "Maloku"
   },
@@ -16,27 +36,7 @@
     "name": "Pisang Utara"
   },
   {
-    "id": "73.71.04.1005",
-    "name": "Baru"
-  },
-  {
-    "id": "73.71.04.1006",
-    "name": "Bulogading"
-  },
-  {
-    "id": "73.71.04.1007",
-    "name": "Lae-Lae"
-  },
-  {
-    "id": "73.71.04.1008",
-    "name": "Losari"
-  },
-  {
     "id": "73.71.04.1009",
     "name": "Sawerigading"
-  },
-  {
-    "id": "73.71.04.1010",
-    "name": "Lajangiru"
   }
 ]

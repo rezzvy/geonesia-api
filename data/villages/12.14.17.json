@@ -1,7 +1,11 @@
 [
   {
-    "id": "12.14.17.2001",
-    "name": "Tetegawa'ai"
+    "id": "12.14.17.2007",
+    "name": "Guigui"
+  },
+  {
+    "id": "12.14.17.2009",
+    "name": "Hilimaufa"
   },
   {
     "id": "12.14.17.2002",
@@ -16,27 +20,23 @@
     "name": "Orahuahili"
   },
   {
-    "id": "12.14.17.2006",
-    "name": "Ulu Mazo"
-  },
-  {
-    "id": "12.14.17.2007",
-    "name": "Guigui"
-  },
-  {
-    "id": "12.14.17.2009",
-    "name": "Hilimaufa"
-  },
-  {
     "id": "12.14.17.2010",
     "name": "Siofabanua"
+  },
+  {
+    "id": "12.14.17.2013",
+    "name": "Tafulu"
+  },
+  {
+    "id": "12.14.17.2001",
+    "name": "Tetegawa'ai"
   },
   {
     "id": "12.14.17.2011",
     "name": "Tetegawa'ai Ehomo"
   },
   {
-    "id": "12.14.17.2013",
-    "name": "Tafulu"
+    "id": "12.14.17.2006",
+    "name": "Ulu Mazo"
   }
 ]

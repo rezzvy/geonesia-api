@@ -1,19 +1,7 @@
 [
   {
-    "id": "72.10.12.2001",
-    "name": "Tulo"
-  },
-  {
-    "id": "72.10.12.2002",
-    "name": "Langaleso"
-  },
-  {
-    "id": "72.10.12.2003",
-    "name": "Watubula"
-  },
-  {
-    "id": "72.10.12.2004",
-    "name": "Soulowe"
+    "id": "72.10.12.2011",
+    "name": "Kabobona"
   },
   {
     "id": "72.10.12.2005",
@@ -28,19 +16,31 @@
     "name": "Kotarindau"
   },
   {
-    "id": "72.10.12.2008",
-    "name": "Panturabate"
+    "id": "72.10.12.2002",
+    "name": "Langaleso"
   },
   {
     "id": "72.10.12.2009",
     "name": "Maku"
   },
   {
+    "id": "72.10.12.2008",
+    "name": "Panturabate"
+  },
+  {
     "id": "72.10.12.2010",
     "name": "Potoya"
   },
   {
-    "id": "72.10.12.2011",
-    "name": "Kabobona"
+    "id": "72.10.12.2004",
+    "name": "Soulowe"
+  },
+  {
+    "id": "72.10.12.2001",
+    "name": "Tulo"
+  },
+  {
+    "id": "72.10.12.2003",
+    "name": "Watubula"
   }
 ]

@@ -4,31 +4,31 @@
     "name": "Dimba"
   },
   {
-    "id": "91.23.05.2006",
-    "name": "Yugwa"
-  },
-  {
     "id": "91.23.05.2008",
     "name": "Magegobak"
-  },
-  {
-    "id": "91.23.05.2010",
-    "name": "Nongopnage"
-  },
-  {
-    "id": "91.23.05.2011",
-    "name": "Wengenambur"
-  },
-  {
-    "id": "91.23.05.2012",
-    "name": "Wawiragi"
   },
   {
     "id": "91.23.05.2013",
     "name": "Mewilangun"
   },
   {
+    "id": "91.23.05.2010",
+    "name": "Nongopnage"
+  },
+  {
     "id": "91.23.05.2014",
     "name": "Talibarenak"
+  },
+  {
+    "id": "91.23.05.2012",
+    "name": "Wawiragi"
+  },
+  {
+    "id": "91.23.05.2011",
+    "name": "Wengenambur"
+  },
+  {
+    "id": "91.23.05.2006",
+    "name": "Yugwa"
   }
 ]

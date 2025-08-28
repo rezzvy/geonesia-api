@@ -4,20 +4,12 @@
     "name": "Cilincing"
   },
   {
-    "id": "31.72.04.1002",
-    "name": "Sukapura"
-  },
-  {
-    "id": "31.72.04.1003",
-    "name": "Marunda"
-  },
-  {
     "id": "31.72.04.1004",
     "name": "Kalibaru"
   },
   {
-    "id": "31.72.04.1005",
-    "name": "Semper Timur"
+    "id": "31.72.04.1003",
+    "name": "Marunda"
   },
   {
     "id": "31.72.04.1006",
@@ -26,5 +18,13 @@
   {
     "id": "31.72.04.1007",
     "name": "Semper Barat"
+  },
+  {
+    "id": "31.72.04.1005",
+    "name": "Semper Timur"
+  },
+  {
+    "id": "31.72.04.1002",
+    "name": "Sukapura"
   }
 ]

@@ -20,60 +20,64 @@
     "name": "Gunung Tua SM"
   },
   {
-    "id": "12.13.08.2006",
-    "name": "Hutapuli"
+    "id": "12.13.08.2009",
+    "name": "Huta Baringin TB"
   },
   {
     "id": "12.13.08.2007",
     "name": "Huta Padang MS"
   },
   {
-    "id": "12.13.08.2008",
-    "name": "Hutarimbaru SM"
-  },
-  {
-    "id": "12.13.08.2009",
-    "name": "Huta Baringin TB"
-  },
-  {
     "id": "12.13.08.2010",
     "name": "Huta Pungkut Jae"
-  },
-  {
-    "id": "12.13.08.2011",
-    "name": "Huta Pungkut Tonga"
   },
   {
     "id": "12.13.08.2012",
     "name": "Huta Pungkut Julu"
   },
   {
-    "id": "12.13.08.2014",
-    "name": "Muara Potan"
+    "id": "12.13.08.2011",
+    "name": "Huta Pungkut Tonga"
   },
   {
-    "id": "12.13.08.2015",
-    "name": "Muara Siambak"
+    "id": "12.13.08.2006",
+    "name": "Hutapuli"
+  },
+  {
+    "id": "12.13.08.2008",
+    "name": "Hutarimbaru SM"
   },
   {
     "id": "12.13.08.2016",
     "name": "Manambin"
   },
   {
+    "id": "12.13.08.2018",
+    "name": "Muara Botung"
+  },
+  {
+    "id": "12.13.08.2014",
+    "name": "Muara Potan"
+  },
+  {
     "id": "12.13.08.2017",
     "name": "Muara Pungkut"
   },
   {
-    "id": "12.13.08.2018",
-    "name": "Muara Botung"
+    "id": "12.13.08.2015",
+    "name": "Muara Siambak"
+  },
+  {
+    "id": "12.13.08.2020",
+    "name": "Padang Bulan"
   },
   {
     "id": "12.13.08.2019",
     "name": "Pagar Gunung"
   },
   {
-    "id": "12.13.08.2020",
-    "name": "Padang Bulan"
+    "id": "12.13.08.1036",
+    "name": "Pasar Kotanopan"
   },
   {
     "id": "12.13.08.2021",
@@ -84,16 +88,16 @@
     "name": "Saba Dolok"
   },
   {
-    "id": "12.13.08.2023",
-    "name": "Singengu Jae"
-  },
-  {
-    "id": "12.13.08.2024",
-    "name": "Singengu Julu"
-  },
-  {
     "id": "12.13.08.2025",
     "name": "Sayur Maincat"
+  },
+  {
+    "id": "12.13.08.2028",
+    "name": "Sibio Bio"
+  },
+  {
+    "id": "12.13.08.2030",
+    "name": "Simandolam"
   },
   {
     "id": "12.13.08.2026",
@@ -104,20 +108,16 @@
     "name": "Simpang Tolang Julu"
   },
   {
-    "id": "12.13.08.2028",
-    "name": "Sibio Bio"
+    "id": "12.13.08.2023",
+    "name": "Singengu Jae"
+  },
+  {
+    "id": "12.13.08.2024",
+    "name": "Singengu Julu"
   },
   {
     "id": "12.13.08.2029",
     "name": "Sopo Sorik"
-  },
-  {
-    "id": "12.13.08.2030",
-    "name": "Simandolam"
-  },
-  {
-    "id": "12.13.08.2031",
-    "name": "Tombang Bustak"
   },
   {
     "id": "12.13.08.1032",
@@ -128,15 +128,15 @@
     "name": "Tobang"
   },
   {
+    "id": "12.13.08.2031",
+    "name": "Tombang Bustak"
+  },
+  {
     "id": "12.13.08.2034",
     "name": "Ujung Marisi"
   },
   {
     "id": "12.13.08.2035",
     "name": "Usor Tolang"
-  },
-  {
-    "id": "12.13.08.1036",
-    "name": "Pasar Kotanopan"
   }
 ]

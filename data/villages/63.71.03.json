@@ -1,11 +1,23 @@
 [
   {
-    "id": "63.71.03.1001",
-    "name": "Belitung Utara"
+    "id": "63.71.03.1009",
+    "name": "Basirih"
   },
   {
     "id": "63.71.03.1002",
     "name": "Belitung Selatan"
+  },
+  {
+    "id": "63.71.03.1001",
+    "name": "Belitung Utara"
+  },
+  {
+    "id": "63.71.03.1008",
+    "name": "Kuin Cerucuk"
+  },
+  {
+    "id": "63.71.03.1007",
+    "name": "Kuin Selatan"
   },
   {
     "id": "63.71.03.1003",
@@ -22,17 +34,5 @@
   {
     "id": "63.71.03.1006",
     "name": "Teluk Tiram"
-  },
-  {
-    "id": "63.71.03.1007",
-    "name": "Kuin Selatan"
-  },
-  {
-    "id": "63.71.03.1008",
-    "name": "Kuin Cerucuk"
-  },
-  {
-    "id": "63.71.03.1009",
-    "name": "Basirih"
   }
 ]

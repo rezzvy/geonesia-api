@@ -1,27 +1,31 @@
 [
   {
-    "id": "35.09.28.2001",
-    "name": "Lembengan"
-  },
-  {
-    "id": "35.09.28.2002",
-    "name": "Suren"
-  },
-  {
     "id": "35.09.28.2003",
     "name": "Karangpaiton"
   },
   {
-    "id": "35.09.28.2004",
-    "name": "Sumberanget"
+    "id": "35.09.28.2006",
+    "name": "Ledokombo"
+  },
+  {
+    "id": "35.09.28.2001",
+    "name": "Lembengan"
+  },
+  {
+    "id": "35.09.28.2009",
+    "name": "Slateng"
   },
   {
     "id": "35.09.28.2005",
     "name": "Sukogidri"
   },
   {
-    "id": "35.09.28.2006",
-    "name": "Ledokombo"
+    "id": "35.09.28.2004",
+    "name": "Sumberanget"
+  },
+  {
+    "id": "35.09.28.2010",
+    "name": "Sumberbulus"
   },
   {
     "id": "35.09.28.2007",
@@ -32,11 +36,7 @@
     "name": "Sumbersalak"
   },
   {
-    "id": "35.09.28.2009",
-    "name": "Slateng"
-  },
-  {
-    "id": "35.09.28.2010",
-    "name": "Sumberbulus"
+    "id": "35.09.28.2002",
+    "name": "Suren"
   }
 ]

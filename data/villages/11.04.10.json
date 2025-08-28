@@ -4,12 +4,24 @@
     "name": "Bah"
   },
   {
-    "id": "11.04.10.2002",
-    "name": "Blang Mancung"
+    "id": "11.04.10.2018",
+    "name": "Bergang"
   },
   {
     "id": "11.04.10.2003",
     "name": "Bintang Pepara"
+  },
+  {
+    "id": "11.04.10.2002",
+    "name": "Blang Mancung"
+  },
+  {
+    "id": "11.04.10.2019",
+    "name": "Blang Mancung Bawah"
+  },
+  {
+    "id": "11.04.10.2020",
+    "name": "Buge Ara"
   },
   {
     "id": "11.04.10.2004",
@@ -24,12 +36,24 @@
     "name": "Cang Duri"
   },
   {
+    "id": "11.04.10.2021",
+    "name": "Genting Bulen"
+  },
+  {
     "id": "11.04.10.2007",
     "name": "Geulumpang Payung"
   },
   {
+    "id": "11.04.10.2022",
+    "name": "Jalan Tengah"
+  },
+  {
     "id": "11.04.10.2008",
     "name": "Jaluk"
+  },
+  {
+    "id": "11.04.10.2023",
+    "name": "Jerata"
   },
   {
     "id": "11.04.10.2009",
@@ -64,39 +88,15 @@
     "name": "Rejewali"
   },
   {
+    "id": "11.04.10.2025",
+    "name": "Selon"
+  },
+  {
     "id": "11.04.10.2017",
     "name": "Serempah"
   },
   {
-    "id": "11.04.10.2018",
-    "name": "Bergang"
-  },
-  {
-    "id": "11.04.10.2019",
-    "name": "Blang Mancung Bawah"
-  },
-  {
-    "id": "11.04.10.2020",
-    "name": "Buge Ara"
-  },
-  {
-    "id": "11.04.10.2021",
-    "name": "Genting Bulen"
-  },
-  {
-    "id": "11.04.10.2022",
-    "name": "Jalan Tengah"
-  },
-  {
-    "id": "11.04.10.2023",
-    "name": "Jerata"
-  },
-  {
     "id": "11.04.10.2024",
     "name": "Simpang Juli"
-  },
-  {
-    "id": "11.04.10.2025",
-    "name": "Selon"
   }
 ]

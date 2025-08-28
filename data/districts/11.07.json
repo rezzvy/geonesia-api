@@ -8,12 +8,20 @@
     "name": "Delima"
   },
   {
+    "id": "11.07.06",
+    "name": "Geulumpang Tiga"
+  },
+  {
     "id": "11.07.05",
     "name": "Geumpang"
   },
   {
-    "id": "11.07.06",
-    "name": "Geulumpang Tiga"
+    "id": "11.07.29",
+    "name": "Glumpang Baro"
+  },
+  {
+    "id": "11.07.25",
+    "name": "Grong-grong"
   },
   {
     "id": "11.07.07",
@@ -24,8 +32,16 @@
     "name": "Kembang Tanjong"
   },
   {
+    "id": "11.07.22",
+    "name": "Keumala"
+  },
+  {
     "id": "11.07.09",
     "name": "Kota Sigli"
+  },
+  {
+    "id": "11.07.27",
+    "name": "Mane"
   },
   {
     "id": "11.07.11",
@@ -38,6 +54,10 @@
   {
     "id": "11.07.13",
     "name": "Mutiara"
+  },
+  {
+    "id": "11.07.24",
+    "name": "Mutiara Timur"
   },
   {
     "id": "11.07.14",
@@ -66,26 +86,6 @@
   {
     "id": "11.07.21",
     "name": "Tiro/Truseb"
-  },
-  {
-    "id": "11.07.22",
-    "name": "Keumala"
-  },
-  {
-    "id": "11.07.24",
-    "name": "Mutiara Timur"
-  },
-  {
-    "id": "11.07.25",
-    "name": "Grong-grong"
-  },
-  {
-    "id": "11.07.27",
-    "name": "Mane"
-  },
-  {
-    "id": "11.07.29",
-    "name": "Glumpang Baro"
   },
   {
     "id": "11.07.31",

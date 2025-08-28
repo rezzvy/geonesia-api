@@ -1,5 +1,13 @@
 [
   {
+    "id": "18.10.06.2005",
+    "name": "Banjarejo"
+  },
+  {
+    "id": "18.10.06.2010",
+    "name": "Banyu Urip"
+  },
+  {
     "id": "18.10.06.2001",
     "name": "Banyumas"
   },
@@ -8,24 +16,8 @@
     "name": "Banyuwangi"
   },
   {
-    "id": "18.10.06.2003",
-    "name": "Sukamulya"
-  },
-  {
-    "id": "18.10.06.2004",
-    "name": "Sriwungu"
-  },
-  {
-    "id": "18.10.06.2005",
-    "name": "Banjarejo"
-  },
-  {
-    "id": "18.10.06.2006",
-    "name": "Waya Krui"
-  },
-  {
-    "id": "18.10.06.2007",
-    "name": "Sri Rahayu"
+    "id": "18.10.06.2011",
+    "name": "Mulyo Rejo"
   },
   {
     "id": "18.10.06.2008",
@@ -36,11 +28,19 @@
     "name": "Sinar Mulya"
   },
   {
-    "id": "18.10.06.2010",
-    "name": "Banyu Urip"
+    "id": "18.10.06.2007",
+    "name": "Sri Rahayu"
   },
   {
-    "id": "18.10.06.2011",
-    "name": "Mulyo Rejo"
+    "id": "18.10.06.2004",
+    "name": "Sriwungu"
+  },
+  {
+    "id": "18.10.06.2003",
+    "name": "Sukamulya"
+  },
+  {
+    "id": "18.10.06.2006",
+    "name": "Waya Krui"
   }
 ]

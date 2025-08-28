@@ -1,15 +1,7 @@
 [
   {
-    "id": "12.14.29.2001",
-    "name": "Fuge"
-  },
-  {
-    "id": "12.14.29.2002",
-    "name": "Luaha Idano Pono"
-  },
-  {
-    "id": "12.14.29.2003",
-    "name": "Sigese"
+    "id": "12.14.29.2007",
+    "name": "Bawolawindra"
   },
   {
     "id": "12.14.29.2004",
@@ -20,12 +12,8 @@
     "name": "Bintuang"
   },
   {
-    "id": "12.14.29.2006",
-    "name": "Sibaranun"
-  },
-  {
-    "id": "12.14.29.2007",
-    "name": "Bawolawindra"
+    "id": "12.14.29.2001",
+    "name": "Fuge"
   },
   {
     "id": "12.14.29.2008",
@@ -34,5 +22,17 @@
   {
     "id": "12.14.29.2009",
     "name": "Hilizamorogotano"
+  },
+  {
+    "id": "12.14.29.2002",
+    "name": "Luaha Idano Pono"
+  },
+  {
+    "id": "12.14.29.2006",
+    "name": "Sibaranun"
+  },
+  {
+    "id": "12.14.29.2003",
+    "name": "Sigese"
   }
 ]

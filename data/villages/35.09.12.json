@@ -1,7 +1,19 @@
 [
   {
-    "id": "35.09.12.2001",
-    "name": "Tegalsari"
+    "id": "35.09.12.2004",
+    "name": "Ambulu"
+  },
+  {
+    "id": "35.09.12.2006",
+    "name": "Andongsari"
+  },
+  {
+    "id": "35.09.12.2005",
+    "name": "Karanganyar"
+  },
+  {
+    "id": "35.09.12.2007",
+    "name": "Pontang"
   },
   {
     "id": "35.09.12.2002",
@@ -12,19 +24,7 @@
     "name": "Sumberejo"
   },
   {
-    "id": "35.09.12.2004",
-    "name": "Ambulu"
-  },
-  {
-    "id": "35.09.12.2005",
-    "name": "Karanganyar"
-  },
-  {
-    "id": "35.09.12.2006",
-    "name": "Andongsari"
-  },
-  {
-    "id": "35.09.12.2007",
-    "name": "Pontang"
+    "id": "35.09.12.2001",
+    "name": "Tegalsari"
   }
 ]

@@ -1,15 +1,11 @@
 [
   {
-    "id": "18.04.18.2001",
-    "name": "Pura Jaya"
+    "id": "18.04.18.2008",
+    "name": "Cipta Mulya"
   },
   {
-    "id": "18.04.18.2002",
-    "name": "Pura Wiwitan"
-  },
-  {
-    "id": "18.04.18.2003",
-    "name": "Tribudi Syukur"
+    "id": "18.04.18.2009",
+    "name": "Muara Baru"
   },
   {
     "id": "18.04.18.2004",
@@ -20,23 +16,27 @@
     "name": "Muara Jaya II"
   },
   {
-    "id": "18.04.18.2006",
-    "name": "Tribudi Makmur"
+    "id": "18.04.18.2001",
+    "name": "Pura Jaya"
   },
   {
-    "id": "18.04.18.2007",
-    "name": "Tugu Mulya"
-  },
-  {
-    "id": "18.04.18.2008",
-    "name": "Cipta Mulya"
-  },
-  {
-    "id": "18.04.18.2009",
-    "name": "Muara Baru"
+    "id": "18.04.18.2002",
+    "name": "Pura Wiwitan"
   },
   {
     "id": "18.04.18.2010",
     "name": "Sinar Luas"
+  },
+  {
+    "id": "18.04.18.2006",
+    "name": "Tribudi Makmur"
+  },
+  {
+    "id": "18.04.18.2003",
+    "name": "Tribudi Syukur"
+  },
+  {
+    "id": "18.04.18.2007",
+    "name": "Tugu Mulya"
   }
 ]

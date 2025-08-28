@@ -1,5 +1,9 @@
 [
   {
+    "id": "91.09.16.1005",
+    "name": "Inauga"
+  },
+  {
     "id": "91.09.16.2001",
     "name": "Kadun Jaya"
   },
@@ -8,23 +12,19 @@
     "name": "Kamoro Jaya"
   },
   {
-    "id": "91.09.16.1003",
-    "name": "Wonosari Jaya"
-  },
-  {
-    "id": "91.09.16.2004",
-    "name": "Nawaripi"
-  },
-  {
-    "id": "91.09.16.1005",
-    "name": "Inauga"
+    "id": "91.09.16.2007",
+    "name": "Mandiri Jaya"
   },
   {
     "id": "91.09.16.2006",
     "name": "Mawokau Jaya"
   },
   {
-    "id": "91.09.16.2007",
-    "name": "Mandiri Jaya"
+    "id": "91.09.16.2004",
+    "name": "Nawaripi"
+  },
+  {
+    "id": "91.09.16.1003",
+    "name": "Wonosari Jaya"
   }
 ]

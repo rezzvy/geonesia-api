@@ -1,18 +1,18 @@
 [
   {
-    "id": "92.05.20.2001",
-    "name": "Yensawai Timur"
-  },
-  {
-    "id": "92.05.20.2002",
-    "name": "Yensawai Barat"
+    "id": "92.05.20.2004",
+    "name": "Arefi Selatan"
   },
   {
     "id": "92.05.20.2003",
     "name": "Arefi Timur"
   },
   {
-    "id": "92.05.20.2004",
-    "name": "Arefi Selatan"
+    "id": "92.05.20.2002",
+    "name": "Yensawai Barat"
+  },
+  {
+    "id": "92.05.20.2001",
+    "name": "Yensawai Timur"
   }
 ]

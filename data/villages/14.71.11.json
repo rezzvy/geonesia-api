@@ -1,17 +1,5 @@
 [
   {
-    "id": "14.71.11.1001",
-    "name": "Tampan"
-  },
-  {
-    "id": "14.71.11.1002",
-    "name": "Labuh Baru Timur"
-  },
-  {
-    "id": "14.71.11.1003",
-    "name": "Labuh Baru Barat"
-  },
-  {
     "id": "14.71.11.1004",
     "name": "Air Hitam"
   },
@@ -20,8 +8,20 @@
     "name": "Bandarraya"
   },
   {
+    "id": "14.71.11.1003",
+    "name": "Labuh Baru Barat"
+  },
+  {
+    "id": "14.71.11.1002",
+    "name": "Labuh Baru Timur"
+  },
+  {
     "id": "14.71.11.1006",
     "name": "Sungaisibam"
+  },
+  {
+    "id": "14.71.11.1001",
+    "name": "Tampan"
   },
   {
     "id": "14.71.11.1007",

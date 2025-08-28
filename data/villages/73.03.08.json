@@ -1,7 +1,7 @@
 [
   {
-    "id": "73.03.08.2001",
-    "name": "Bonto Tiro"
+    "id": "73.03.08.2006",
+    "name": "Bonto Bulaeng"
   },
   {
     "id": "73.03.08.2002",
@@ -12,15 +12,15 @@
     "name": "Bonto Maccini"
   },
   {
-    "id": "73.03.08.2004",
-    "name": "Bonto Mate'ne"
-  },
-  {
     "id": "73.03.08.2005",
     "name": "Bonto Majannang"
   },
   {
-    "id": "73.03.08.2006",
-    "name": "Bonto Bulaeng"
+    "id": "73.03.08.2004",
+    "name": "Bonto Mate'ne"
+  },
+  {
+    "id": "73.03.08.2001",
+    "name": "Bonto Tiro"
   }
 ]

@@ -1,23 +1,11 @@
 [
   {
-    "id": "16.06.13.2001",
-    "name": "Ulak Paceh"
+    "id": "16.06.13.2009",
+    "name": "Bumi Ayu"
   },
   {
-    "id": "16.06.13.2002",
-    "name": "Ulak Paceh Jaya"
-  },
-  {
-    "id": "16.06.13.2003",
-    "name": "Tanjung Durian"
-  },
-  {
-    "id": "16.06.13.2004",
-    "name": "Napal"
-  },
-  {
-    "id": "16.06.13.2005",
-    "name": "Rantau Kasih"
+    "id": "16.06.13.2011",
+    "name": "Karang Anyar"
   },
   {
     "id": "16.06.13.2006",
@@ -28,20 +16,20 @@
     "name": "Karang Ringin II"
   },
   {
-    "id": "16.06.13.2008",
-    "name": "Ulak Teberau"
-  },
-  {
-    "id": "16.06.13.2009",
-    "name": "Bumi Ayu"
-  },
-  {
     "id": "16.06.13.2010",
     "name": "Karang Waru"
   },
   {
-    "id": "16.06.13.2011",
-    "name": "Karang Anyar"
+    "id": "16.06.13.2004",
+    "name": "Napal"
+  },
+  {
+    "id": "16.06.13.2015",
+    "name": "Pandan Dulang"
+  },
+  {
+    "id": "16.06.13.2005",
+    "name": "Rantau Kasih"
   },
   {
     "id": "16.06.13.2012",
@@ -56,7 +44,19 @@
     "name": "Talang Piase"
   },
   {
-    "id": "16.06.13.2015",
-    "name": "Pandan Dulang"
+    "id": "16.06.13.2003",
+    "name": "Tanjung Durian"
+  },
+  {
+    "id": "16.06.13.2001",
+    "name": "Ulak Paceh"
+  },
+  {
+    "id": "16.06.13.2002",
+    "name": "Ulak Paceh Jaya"
+  },
+  {
+    "id": "16.06.13.2008",
+    "name": "Ulak Teberau"
   }
 ]

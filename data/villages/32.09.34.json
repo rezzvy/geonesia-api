@@ -1,19 +1,7 @@
 [
   {
-    "id": "32.09.34.2001",
-    "name": "Seuseupan"
-  },
-  {
     "id": "32.09.34.2002",
     "name": "Blender"
-  },
-  {
-    "id": "32.09.34.2003",
-    "name": "Sumurkondang"
-  },
-  {
-    "id": "32.09.34.2004",
-    "name": "Kubangdeleg"
   },
   {
     "id": "32.09.34.2005",
@@ -24,6 +12,10 @@
     "name": "Karanganyar"
   },
   {
+    "id": "32.09.34.2009",
+    "name": "Karangasem"
+  },
+  {
     "id": "32.09.34.2007",
     "name": "Karangwangi"
   },
@@ -32,7 +24,15 @@
     "name": "Karangwareng"
   },
   {
-    "id": "32.09.34.2009",
-    "name": "Karangasem"
+    "id": "32.09.34.2004",
+    "name": "Kubangdeleg"
+  },
+  {
+    "id": "32.09.34.2001",
+    "name": "Seuseupan"
+  },
+  {
+    "id": "32.09.34.2003",
+    "name": "Sumurkondang"
   }
 ]

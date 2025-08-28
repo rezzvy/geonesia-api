@@ -4,14 +4,6 @@
     "name": "Cikeusal"
   },
   {
-    "id": "32.09.37.2002",
-    "name": "Palimanan Barat"
-  },
-  {
-    "id": "32.09.37.2003",
-    "name": "Kedungbunder"
-  },
-  {
     "id": "32.09.37.2004",
     "name": "Cupang"
   },
@@ -20,12 +12,20 @@
     "name": "Gempol"
   },
   {
-    "id": "32.09.37.2006",
-    "name": "Walahar"
+    "id": "32.09.37.2003",
+    "name": "Kedungbunder"
   },
   {
     "id": "32.09.37.2007",
     "name": "Kempek"
+  },
+  {
+    "id": "32.09.37.2002",
+    "name": "Palimanan Barat"
+  },
+  {
+    "id": "32.09.37.2006",
+    "name": "Walahar"
   },
   {
     "id": "32.09.37.2008",

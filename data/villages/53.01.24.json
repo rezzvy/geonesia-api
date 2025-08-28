@@ -1,11 +1,23 @@
 [
   {
-    "id": "53.01.24.2001",
-    "name": "Oeltuah"
-  },
-  {
     "id": "53.01.24.2002",
     "name": "Baumata"
+  },
+  {
+    "id": "53.01.24.2008",
+    "name": "Baumata Barat"
+  },
+  {
+    "id": "53.01.24.2007",
+    "name": "Baumata Timur"
+  },
+  {
+    "id": "53.01.24.2006",
+    "name": "Baumata Utara"
+  },
+  {
+    "id": "53.01.24.2005",
+    "name": "Bokong"
   },
   {
     "id": "53.01.24.2003",
@@ -16,19 +28,7 @@
     "name": "Oeletsala"
   },
   {
-    "id": "53.01.24.2005",
-    "name": "Bokong"
-  },
-  {
-    "id": "53.01.24.2006",
-    "name": "Baumata Utara"
-  },
-  {
-    "id": "53.01.24.2007",
-    "name": "Baumata Timur"
-  },
-  {
-    "id": "53.01.24.2008",
-    "name": "Baumata Barat"
+    "id": "53.01.24.2001",
+    "name": "Oeltuah"
   }
 ]

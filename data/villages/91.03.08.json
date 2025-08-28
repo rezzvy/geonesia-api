@@ -1,9 +1,5 @@
 [
   {
-    "id": "91.03.08.2001",
-    "name": "Nimbokrang"
-  },
-  {
     "id": "91.03.08.2002",
     "name": "Benyom Jaya I"
   },
@@ -16,12 +12,16 @@
     "name": "Berab"
   },
   {
+    "id": "91.03.08.2009",
+    "name": "Bunyom"
+  },
+  {
     "id": "91.03.08.2005",
     "name": "Hamonggrang"
   },
   {
-    "id": "91.03.08.2006",
-    "name": "Wahab"
+    "id": "91.03.08.2001",
+    "name": "Nimbokrang"
   },
   {
     "id": "91.03.08.2007",
@@ -32,7 +32,7 @@
     "name": "Rhepang Muaf"
   },
   {
-    "id": "91.03.08.2009",
-    "name": "Bunyom"
+    "id": "91.03.08.2006",
+    "name": "Wahab"
   }
 ]

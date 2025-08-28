@@ -1,17 +1,5 @@
 [
   {
-    "id": "15.08.02.2001",
-    "name": "Rantau Duku"
-  },
-  {
-    "id": "15.08.02.2002",
-    "name": "Talang Sungai Bungo"
-  },
-  {
-    "id": "15.08.02.2003",
-    "name": "Rantau Pandan"
-  },
-  {
     "id": "15.08.02.2004",
     "name": "Leban"
   },
@@ -22,5 +10,17 @@
   {
     "id": "15.08.02.2015",
     "name": "Lubuk Mayan"
+  },
+  {
+    "id": "15.08.02.2001",
+    "name": "Rantau Duku"
+  },
+  {
+    "id": "15.08.02.2003",
+    "name": "Rantau Pandan"
+  },
+  {
+    "id": "15.08.02.2002",
+    "name": "Talang Sungai Bungo"
   }
 ]

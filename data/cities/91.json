@@ -3,104 +3,24 @@
   "province": "PAPUA",
   "city": [
     {
-      "id": "91.01",
-      "name": "KAB. MERAUKE"
-    },
-    {
-      "id": "91.02",
-      "name": "KAB. JAYAWIJAYA"
-    },
-    {
-      "id": "91.03",
-      "name": "KAB. JAYAPURA"
-    },
-    {
-      "id": "91.04",
-      "name": "KAB. NABIRE"
-    },
-    {
-      "id": "91.05",
-      "name": "KAB. KEPULAUAN YAPEN"
-    },
-    {
-      "id": "91.06",
-      "name": "KAB. BIAK NUMFOR"
-    },
-    {
-      "id": "91.07",
-      "name": "KAB. PUNCAK JAYA"
-    },
-    {
-      "id": "91.08",
-      "name": "KAB. PANIAI"
-    },
-    {
-      "id": "91.09",
-      "name": "KAB. MIMIKA"
-    },
-    {
-      "id": "91.10",
-      "name": "KAB. SARMI"
-    },
-    {
-      "id": "91.11",
-      "name": "KAB. KEEROM"
-    },
-    {
       "id": "91.12",
       "name": "KAB PEGUNUNGAN BINTANG"
-    },
-    {
-      "id": "91.13",
-      "name": "KAB. YAHUKIMO"
-    },
-    {
-      "id": "91.14",
-      "name": "KAB. TOLIKARA"
-    },
-    {
-      "id": "91.15",
-      "name": "KAB. WAROPEN"
-    },
-    {
-      "id": "91.16",
-      "name": "KAB. BOVEN DIGOEL"
-    },
-    {
-      "id": "91.17",
-      "name": "KAB. MAPPI"
     },
     {
       "id": "91.18",
       "name": "KAB. ASMAT"
     },
     {
-      "id": "91.19",
-      "name": "KAB. SUPIORI"
+      "id": "91.06",
+      "name": "KAB. BIAK NUMFOR"
     },
     {
-      "id": "91.20",
-      "name": "KAB. MAMBERAMO RAYA"
+      "id": "91.16",
+      "name": "KAB. BOVEN DIGOEL"
     },
     {
-      "id": "91.21",
-      "name": "KAB. MAMBERAMO TENGAH"
-    },
-    {
-      "id": "91.22",
-      "name": "KAB. YALIMO"
-    },
-    {
-      "id": "91.23",
-      "name": "KAB. LANNY JAYA"
-    },
-    {
-      "id": "91.24",
-      "name": "KAB. NDUGA"
-    },
-    {
-      "id": "91.25",
-      "name": "KAB. PUNCAK"
+      "id": "91.28",
+      "name": "KAB. DEIYAI"
     },
     {
       "id": "91.26",
@@ -111,8 +31,88 @@
       "name": "KAB. INTAN JAYA"
     },
     {
-      "id": "91.28",
-      "name": "KAB. DEIYAI"
+      "id": "91.03",
+      "name": "KAB. JAYAPURA"
+    },
+    {
+      "id": "91.02",
+      "name": "KAB. JAYAWIJAYA"
+    },
+    {
+      "id": "91.11",
+      "name": "KAB. KEEROM"
+    },
+    {
+      "id": "91.05",
+      "name": "KAB. KEPULAUAN YAPEN"
+    },
+    {
+      "id": "91.23",
+      "name": "KAB. LANNY JAYA"
+    },
+    {
+      "id": "91.20",
+      "name": "KAB. MAMBERAMO RAYA"
+    },
+    {
+      "id": "91.21",
+      "name": "KAB. MAMBERAMO TENGAH"
+    },
+    {
+      "id": "91.17",
+      "name": "KAB. MAPPI"
+    },
+    {
+      "id": "91.01",
+      "name": "KAB. MERAUKE"
+    },
+    {
+      "id": "91.09",
+      "name": "KAB. MIMIKA"
+    },
+    {
+      "id": "91.04",
+      "name": "KAB. NABIRE"
+    },
+    {
+      "id": "91.24",
+      "name": "KAB. NDUGA"
+    },
+    {
+      "id": "91.08",
+      "name": "KAB. PANIAI"
+    },
+    {
+      "id": "91.25",
+      "name": "KAB. PUNCAK"
+    },
+    {
+      "id": "91.07",
+      "name": "KAB. PUNCAK JAYA"
+    },
+    {
+      "id": "91.10",
+      "name": "KAB. SARMI"
+    },
+    {
+      "id": "91.19",
+      "name": "KAB. SUPIORI"
+    },
+    {
+      "id": "91.14",
+      "name": "KAB. TOLIKARA"
+    },
+    {
+      "id": "91.15",
+      "name": "KAB. WAROPEN"
+    },
+    {
+      "id": "91.13",
+      "name": "KAB. YAHUKIMO"
+    },
+    {
+      "id": "91.22",
+      "name": "KAB. YALIMO"
     },
     {
       "id": "91.71",

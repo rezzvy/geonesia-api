@@ -8,8 +8,12 @@
     "name": "Kalonding"
   },
   {
-    "id": "76.02.08.2003",
-    "name": "Tarailu"
+    "id": "76.02.08.2007",
+    "name": "Losso"
+  },
+  {
+    "id": "76.02.08.2006",
+    "name": "Salubarana"
   },
   {
     "id": "76.02.08.2004",
@@ -20,11 +24,7 @@
     "name": "Tanambuah"
   },
   {
-    "id": "76.02.08.2006",
-    "name": "Salubarana"
-  },
-  {
-    "id": "76.02.08.2007",
-    "name": "Losso"
+    "id": "76.02.08.2003",
+    "name": "Tarailu"
   }
 ]

@@ -1,7 +1,15 @@
 [
   {
-    "id": "62.11.01",
-    "name": "Pandih Batu"
+    "id": "62.11.04",
+    "name": "Banama Tingang"
+  },
+  {
+    "id": "62.11.07",
+    "name": "Jabiren"
+  },
+  {
+    "id": "62.11.05",
+    "name": "Kahayan Hilir"
   },
   {
     "id": "62.11.02",
@@ -12,20 +20,12 @@
     "name": "Kahayan Tengah"
   },
   {
-    "id": "62.11.04",
-    "name": "Banama Tingang"
-  },
-  {
-    "id": "62.11.05",
-    "name": "Kahayan Hilir"
-  },
-  {
     "id": "62.11.06",
     "name": "Maliku"
   },
   {
-    "id": "62.11.07",
-    "name": "Jabiren"
+    "id": "62.11.01",
+    "name": "Pandih Batu"
   },
   {
     "id": "62.11.08",

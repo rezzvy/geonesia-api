@@ -1,18 +1,18 @@
 [
   {
-    "id": "19.03.02.2001",
-    "name": "Tanjunglabu"
-  },
-  {
-    "id": "19.03.02.2002",
-    "name": "Tanjungsangkar"
-  },
-  {
     "id": "19.03.02.2004",
     "name": "Kumbung"
   },
   {
     "id": "19.03.02.2005",
     "name": "Penutuk"
+  },
+  {
+    "id": "19.03.02.2001",
+    "name": "Tanjunglabu"
+  },
+  {
+    "id": "19.03.02.2002",
+    "name": "Tanjungsangkar"
   }
 ]

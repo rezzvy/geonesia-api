@@ -1,9 +1,5 @@
 [
   {
-    "id": "14.05.02.2001",
-    "name": "Mekar Jaya"
-  },
-  {
     "id": "14.05.02.2002",
     "name": "Kuala Terusan"
   },
@@ -12,8 +8,8 @@
     "name": "Makmur"
   },
   {
-    "id": "14.05.02.2005",
-    "name": "Rantau Baru"
+    "id": "14.05.02.2001",
+    "name": "Mekar Jaya"
   },
   {
     "id": "14.05.02.1007",
@@ -26,5 +22,9 @@
   {
     "id": "14.05.02.1009",
     "name": "Pangkalan Kerinci Timur"
+  },
+  {
+    "id": "14.05.02.2005",
+    "name": "Rantau Baru"
   }
 ]

@@ -1,11 +1,19 @@
 [
   {
-    "id": "35.14.03.2001",
-    "name": "Kemiri"
-  },
-  {
     "id": "35.14.03.2002",
     "name": "Janjangwulung"
+  },
+  {
+    "id": "35.14.03.2005",
+    "name": "Jimbaran"
+  },
+  {
+    "id": "35.14.03.2007",
+    "name": "Keduwung"
+  },
+  {
+    "id": "35.14.03.2001",
+    "name": "Kemiri"
   },
   {
     "id": "35.14.03.2003",
@@ -16,15 +24,7 @@
     "name": "Puspo"
   },
   {
-    "id": "35.14.03.2005",
-    "name": "Jimbaran"
-  },
-  {
     "id": "35.14.03.2006",
     "name": "Pusung Malang"
-  },
-  {
-    "id": "35.14.03.2007",
-    "name": "Keduwung"
   }
 ]

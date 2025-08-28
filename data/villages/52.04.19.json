@@ -1,5 +1,9 @@
 [
   {
+    "id": "52.04.19.2005",
+    "name": "Jaya Makmur"
+  },
+  {
     "id": "52.04.19.2001",
     "name": "Labangka"
   },
@@ -8,15 +12,11 @@
     "name": "Sekokat"
   },
   {
-    "id": "52.04.19.2003",
-    "name": "Suka Mulya"
-  },
-  {
     "id": "52.04.19.2004",
     "name": "Suka Damai"
   },
   {
-    "id": "52.04.19.2005",
-    "name": "Jaya Makmur"
+    "id": "52.04.19.2003",
+    "name": "Suka Mulya"
   }
 ]

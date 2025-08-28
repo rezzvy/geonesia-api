@@ -4,20 +4,20 @@
     "name": "Lepak Aru"
   },
   {
-    "id": "65.01.07.2002",
-    "name": "Long Lasan"
-  },
-  {
-    "id": "65.01.07.2003",
-    "name": "Long Peso"
-  },
-  {
     "id": "65.01.07.2004",
     "name": "Long Bia"
   },
   {
-    "id": "65.01.07.2005",
-    "name": "Muara Pangean"
+    "id": "65.01.07.2010",
+    "name": "Long Buang"
+  },
+  {
+    "id": "65.01.07.2002",
+    "name": "Long Lasan"
+  },
+  {
+    "id": "65.01.07.2008",
+    "name": "Long Lejuh"
   },
   {
     "id": "65.01.07.2006",
@@ -28,15 +28,15 @@
     "name": "Long Pelaah"
   },
   {
-    "id": "65.01.07.2008",
-    "name": "Long Lejuh"
-  },
-  {
     "id": "65.01.07.2009",
     "name": "Long Pelban"
   },
   {
-    "id": "65.01.07.2010",
-    "name": "Long Buang"
+    "id": "65.01.07.2003",
+    "name": "Long Peso"
+  },
+  {
+    "id": "65.01.07.2005",
+    "name": "Muara Pangean"
   }
 ]

@@ -20,12 +20,20 @@
     "name": "Kampung Sawah"
   },
   {
+    "id": "12.13.16.2030",
+    "name": "Kun-Kun"
+  },
+  {
     "id": "12.13.16.2006",
     "name": "Panggautan"
   },
   {
     "id": "12.13.16.2007",
     "name": "Pardamean Baru"
+  },
+  {
+    "id": "12.13.16.1025",
+    "name": "Pasar I Natal"
   },
   {
     "id": "12.13.16.1008",
@@ -38,6 +46,10 @@
   {
     "id": "12.13.16.2010",
     "name": "Pasar V Natal"
+  },
+  {
+    "id": "12.13.16.2026",
+    "name": "Pasar VI Natal"
   },
   {
     "id": "12.13.16.2011",
@@ -54,6 +66,10 @@
   {
     "id": "12.13.16.2014",
     "name": "Rukun Jaya"
+  },
+  {
+    "id": "12.13.16.2029",
+    "name": "Sasaran"
   },
   {
     "id": "12.13.16.2015",
@@ -80,6 +96,14 @@
     "name": "Sikara Kara IV"
   },
   {
+    "id": "12.13.16.2027",
+    "name": "Sinunukan V"
+  },
+  {
+    "id": "12.13.16.2028",
+    "name": "Suka Maju"
+  },
+  {
     "id": "12.13.16.2021",
     "name": "Sundutan Tigo"
   },
@@ -94,29 +118,5 @@
   {
     "id": "12.13.16.2024",
     "name": "Tunas Karya"
-  },
-  {
-    "id": "12.13.16.1025",
-    "name": "Pasar I Natal"
-  },
-  {
-    "id": "12.13.16.2026",
-    "name": "Pasar VI Natal"
-  },
-  {
-    "id": "12.13.16.2027",
-    "name": "Sinunukan V"
-  },
-  {
-    "id": "12.13.16.2028",
-    "name": "Suka Maju"
-  },
-  {
-    "id": "12.13.16.2029",
-    "name": "Sasaran"
-  },
-  {
-    "id": "12.13.16.2030",
-    "name": "Kun-Kun"
   }
 ]

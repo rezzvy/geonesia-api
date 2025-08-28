@@ -1,11 +1,23 @@
 [
   {
-    "id": "17.02.24.2001",
-    "name": "Dataran Tapus"
+    "id": "17.02.24.2010",
+    "name": "Air Bening"
+  },
+  {
+    "id": "17.02.24.2008",
+    "name": "Babakan Baru"
   },
   {
     "id": "17.02.24.2002",
     "name": "Bandung Marga"
+  },
+  {
+    "id": "17.02.24.2007",
+    "name": "Bangun Jaya"
+  },
+  {
+    "id": "17.02.24.2001",
+    "name": "Dataran Tapus"
   },
   {
     "id": "17.02.24.2003",
@@ -20,23 +32,11 @@
     "name": "Pal VIII"
   },
   {
-    "id": "17.02.24.2006",
-    "name": "Tebat Tenong Luar"
-  },
-  {
-    "id": "17.02.24.2007",
-    "name": "Bangun Jaya"
-  },
-  {
-    "id": "17.02.24.2008",
-    "name": "Babakan Baru"
-  },
-  {
     "id": "17.02.24.2009",
     "name": "Sumberejo Transad"
   },
   {
-    "id": "17.02.24.2010",
-    "name": "Air Bening"
+    "id": "17.02.24.2006",
+    "name": "Tebat Tenong Luar"
   }
 ]

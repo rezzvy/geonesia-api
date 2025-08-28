@@ -4,16 +4,8 @@
     "name": "Panipahan"
   },
   {
-    "id": "14.07.06.2002",
-    "name": "Telukpulai"
-  },
-  {
-    "id": "14.07.06.2003",
-    "name": "Pasir Limau Kapas"
-  },
-  {
-    "id": "14.07.06.2004",
-    "name": "Sungai Daun"
+    "id": "14.07.06.1007",
+    "name": "Panipahan"
   },
   {
     "id": "14.07.06.2005",
@@ -24,11 +16,19 @@
     "name": "Panipahan Laut"
   },
   {
-    "id": "14.07.06.1007",
-    "name": "Panipahan"
+    "id": "14.07.06.2003",
+    "name": "Pasir Limau Kapas"
   },
   {
     "id": "14.07.06.2008",
     "name": "Pulaujemur"
+  },
+  {
+    "id": "14.07.06.2004",
+    "name": "Sungai Daun"
+  },
+  {
+    "id": "14.07.06.2002",
+    "name": "Telukpulai"
   }
 ]

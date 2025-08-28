@@ -4,44 +4,32 @@
     "province": "ACEH"
   },
   {
-    "id": "12",
-    "province": "SUMATERA UTARA"
+    "id": "51",
+    "province": "BALI"
   },
   {
-    "id": "13",
-    "province": "SUMATERA BARAT"
-  },
-  {
-    "id": "14",
-    "province": "RIAU"
-  },
-  {
-    "id": "15",
-    "province": "JAMBI"
-  },
-  {
-    "id": "16",
-    "province": "SUMATERA SELATAN"
+    "id": "36",
+    "province": "BANTEN"
   },
   {
     "id": "17",
     "province": "BENGKULU"
   },
   {
-    "id": "18",
-    "province": "LAMPUNG"
-  },
-  {
-    "id": "19",
-    "province": "KEPULAUAN BANGKA BELITUNG"
-  },
-  {
-    "id": "21",
-    "province": "KEPULAUAN RIAU"
+    "id": "34",
+    "province": "DAERAH ISTIMEWA YOGYAKARTA"
   },
   {
     "id": "31",
     "province": "DKI JAKARTA"
+  },
+  {
+    "id": "75",
+    "province": "GORONTALO"
+  },
+  {
+    "id": "15",
+    "province": "JAMBI"
   },
   {
     "id": "32",
@@ -52,40 +40,20 @@
     "province": "JAWA TENGAH"
   },
   {
-    "id": "34",
-    "province": "DAERAH ISTIMEWA YOGYAKARTA"
-  },
-  {
     "id": "35",
     "province": "JAWA TIMUR"
-  },
-  {
-    "id": "36",
-    "province": "BANTEN"
-  },
-  {
-    "id": "51",
-    "province": "BALI"
-  },
-  {
-    "id": "52",
-    "province": "NUSA TENGGARA BARAT"
-  },
-  {
-    "id": "53",
-    "province": "NUSA TENGGARA TIMUR"
   },
   {
     "id": "61",
     "province": "KALIMANTAN BARAT"
   },
   {
-    "id": "62",
-    "province": "KALIMANTAN TENGAH"
-  },
-  {
     "id": "63",
     "province": "KALIMANTAN SELATAN"
+  },
+  {
+    "id": "62",
+    "province": "KALIMANTAN TENGAH"
   },
   {
     "id": "64",
@@ -96,28 +64,16 @@
     "province": "KALIMANTAN UTARA"
   },
   {
-    "id": "71",
-    "province": "SULAWESI UTARA"
+    "id": "19",
+    "province": "KEPULAUAN BANGKA BELITUNG"
   },
   {
-    "id": "72",
-    "province": "SULAWESI TENGAH"
+    "id": "21",
+    "province": "KEPULAUAN RIAU"
   },
   {
-    "id": "73",
-    "province": "SULAWESI SELATAN"
-  },
-  {
-    "id": "74",
-    "province": "SULAWESI TENGGARA"
-  },
-  {
-    "id": "75",
-    "province": "GORONTALO"
-  },
-  {
-    "id": "76",
-    "province": "SULAWESI BARAT"
+    "id": "18",
+    "province": "LAMPUNG"
   },
   {
     "id": "81",
@@ -128,11 +84,55 @@
     "province": "MALUKU UTARA"
   },
   {
+    "id": "52",
+    "province": "NUSA TENGGARA BARAT"
+  },
+  {
+    "id": "53",
+    "province": "NUSA TENGGARA TIMUR"
+  },
+  {
     "id": "91",
     "province": "PAPUA"
   },
   {
     "id": "92",
     "province": "PAPUA BARAT"
+  },
+  {
+    "id": "14",
+    "province": "RIAU"
+  },
+  {
+    "id": "76",
+    "province": "SULAWESI BARAT"
+  },
+  {
+    "id": "73",
+    "province": "SULAWESI SELATAN"
+  },
+  {
+    "id": "72",
+    "province": "SULAWESI TENGAH"
+  },
+  {
+    "id": "74",
+    "province": "SULAWESI TENGGARA"
+  },
+  {
+    "id": "71",
+    "province": "SULAWESI UTARA"
+  },
+  {
+    "id": "13",
+    "province": "SUMATERA BARAT"
+  },
+  {
+    "id": "16",
+    "province": "SUMATERA SELATAN"
+  },
+  {
+    "id": "12",
+    "province": "SUMATERA UTARA"
   }
 ]

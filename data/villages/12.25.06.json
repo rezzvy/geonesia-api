@@ -12,8 +12,16 @@
     "name": "Hilimayo"
   },
   {
-    "id": "12.25.06.2004",
-    "name": "Sihareo"
+    "id": "12.25.06.2007",
+    "name": "Hilimbaruzo"
+  },
+  {
+    "id": "12.25.06.2012",
+    "name": "Hilimbowo"
+  },
+  {
+    "id": "12.25.06.2011",
+    "name": "Lahagu"
   },
   {
     "id": "12.25.06.2005",
@@ -24,27 +32,19 @@
     "name": "Ononamolo I"
   },
   {
-    "id": "12.25.06.2007",
-    "name": "Hilimbaruzo"
-  },
-  {
-    "id": "12.25.06.2008",
-    "name": "Tarahoso"
-  },
-  {
     "id": "12.25.06.2009",
     "name": "Ononamolo II"
+  },
+  {
+    "id": "12.25.06.2004",
+    "name": "Sihareo"
   },
   {
     "id": "12.25.06.2010",
     "name": "Taraha"
   },
   {
-    "id": "12.25.06.2011",
-    "name": "Lahagu"
-  },
-  {
-    "id": "12.25.06.2012",
-    "name": "Hilimbowo"
+    "id": "12.25.06.2008",
+    "name": "Tarahoso"
   }
 ]

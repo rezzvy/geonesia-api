@@ -4,24 +4,16 @@
     "name": "Aengmerah"
   },
   {
-    "id": "35.29.17.2002",
-    "name": "Tengedan"
-  },
-  {
-    "id": "35.29.17.2003",
-    "name": "Juruan Laok"
-  },
-  {
-    "id": "35.29.17.2004",
-    "name": "Juruan Daya"
-  },
-  {
     "id": "35.29.17.2005",
     "name": "Badur"
   },
   {
-    "id": "35.29.17.2006",
-    "name": "Gedang-Gedang"
+    "id": "35.29.17.2010",
+    "name": "Bantelan"
+  },
+  {
+    "id": "35.29.17.2009",
+    "name": "Batuputih Daya"
   },
   {
     "id": "35.29.17.2007",
@@ -32,12 +24,20 @@
     "name": "Batuputih Laok"
   },
   {
-    "id": "35.29.17.2009",
-    "name": "Batuputih Daya"
+    "id": "35.29.17.2013",
+    "name": "Bulla'an"
   },
   {
-    "id": "35.29.17.2010",
-    "name": "Bantelan"
+    "id": "35.29.17.2006",
+    "name": "Gedang-Gedang"
+  },
+  {
+    "id": "35.29.17.2004",
+    "name": "Juruan Daya"
+  },
+  {
+    "id": "35.29.17.2003",
+    "name": "Juruan Laok"
   },
   {
     "id": "35.29.17.2011",
@@ -48,11 +48,11 @@
     "name": "Larangan Kerta"
   },
   {
-    "id": "35.29.17.2013",
-    "name": "Bulla'an"
-  },
-  {
     "id": "35.29.17.2014",
     "name": "Sergang"
+  },
+  {
+    "id": "35.29.17.2002",
+    "name": "Tengedan"
   }
 ]

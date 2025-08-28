@@ -3,10 +3,6 @@
   "province": "GORONTALO",
   "city": [
     {
-      "id": "75.01",
-      "name": "KAB. GORONTALO"
-    },
-    {
       "id": "75.02",
       "name": "KAB. BOALEMO"
     },
@@ -15,12 +11,16 @@
       "name": "KAB. BONE BOLANGO"
     },
     {
-      "id": "75.04",
-      "name": "KAB. PAHUWATO"
+      "id": "75.01",
+      "name": "KAB. GORONTALO"
     },
     {
       "id": "75.05",
       "name": "KAB. GORONTALO UTARA"
+    },
+    {
+      "id": "75.04",
+      "name": "KAB. PAHUWATO"
     },
     {
       "id": "75.71",

@@ -4,10 +4,6 @@
     "name": "Dawagung"
   },
   {
-    "id": "32.06.34.2002",
-    "name": "Rajapolah"
-  },
-  {
     "id": "32.06.34.2003",
     "name": "Manggungjaya"
   },
@@ -16,16 +12,20 @@
     "name": "Manggungsari"
   },
   {
-    "id": "32.06.34.2005",
-    "name": "Sukaraja"
-  },
-  {
     "id": "32.06.34.2006",
     "name": "Rajamandala"
   },
   {
+    "id": "32.06.34.2002",
+    "name": "Rajapolah"
+  },
+  {
     "id": "32.06.34.2007",
     "name": "Sukanagalih"
+  },
+  {
+    "id": "32.06.34.2005",
+    "name": "Sukaraja"
   },
   {
     "id": "32.06.34.2008",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "33.74.10.1004",
+    "name": "Bulusan"
+  },
+  {
+    "id": "33.74.10.1007",
+    "name": "Jangli"
+  },
+  {
+    "id": "33.74.10.1009",
+    "name": "Kedungmundu"
+  },
+  {
+    "id": "33.74.10.1005",
+    "name": "Kramas"
+  },
+  {
+    "id": "33.74.10.1003",
+    "name": "Mangunharjo"
+  },
+  {
     "id": "33.74.10.1001",
     "name": "Meteseh"
   },
@@ -8,32 +28,8 @@
     "name": "Rowosari"
   },
   {
-    "id": "33.74.10.1003",
-    "name": "Mangunharjo"
-  },
-  {
-    "id": "33.74.10.1004",
-    "name": "Bulusan"
-  },
-  {
-    "id": "33.74.10.1005",
-    "name": "Kramas"
-  },
-  {
-    "id": "33.74.10.1006",
-    "name": "Tembalang"
-  },
-  {
-    "id": "33.74.10.1007",
-    "name": "Jangli"
-  },
-  {
-    "id": "33.74.10.1008",
-    "name": "Tandang"
-  },
-  {
-    "id": "33.74.10.1009",
-    "name": "Kedungmundu"
+    "id": "33.74.10.1012",
+    "name": "Sambiroto"
   },
   {
     "id": "33.74.10.1010",
@@ -44,7 +40,11 @@
     "name": "Sendangmulyo"
   },
   {
-    "id": "33.74.10.1012",
-    "name": "Sambiroto"
+    "id": "33.74.10.1008",
+    "name": "Tandang"
+  },
+  {
+    "id": "33.74.10.1006",
+    "name": "Tembalang"
   }
 ]

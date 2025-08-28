@@ -4,20 +4,20 @@
     "name": "Banding"
   },
   {
-    "id": "18.01.16.2002",
-    "name": "Betung"
-  },
-  {
     "id": "18.01.16.2003",
     "name": "Batu Balak"
   },
   {
-    "id": "18.01.16.2004",
-    "name": "Canti"
+    "id": "18.01.16.2002",
+    "name": "Betung"
   },
   {
     "id": "18.01.16.2005",
     "name": "Canggung"
+  },
+  {
+    "id": "18.01.16.2004",
+    "name": "Canti"
   },
   {
     "id": "18.01.16.2006",
@@ -32,12 +32,12 @@
     "name": "Kerinjing"
   },
   {
-    "id": "18.01.16.2009",
-    "name": "Kunjir"
-  },
-  {
     "id": "18.01.16.2010",
     "name": "Kota Guring"
+  },
+  {
+    "id": "18.01.16.2009",
+    "name": "Kunjir"
   },
   {
     "id": "18.01.16.2011",
@@ -56,11 +56,11 @@
     "name": "Tejang Pulau Sebesi"
   },
   {
-    "id": "18.01.16.2015",
-    "name": "Way Muli"
-  },
-  {
     "id": "18.01.16.2016",
     "name": "Wai Muli Timur"
+  },
+  {
+    "id": "18.01.16.2015",
+    "name": "Way Muli"
   }
 ]

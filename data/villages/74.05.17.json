@@ -1,5 +1,13 @@
 [
   {
+    "id": "74.05.17.2005",
+    "name": "Adaka Jaya"
+  },
+  {
+    "id": "74.05.17.2013",
+    "name": "Adayu Indah"
+  },
+  {
     "id": "74.05.17.2001",
     "name": "Andoolo Utama"
   },
@@ -14,10 +22,6 @@
   {
     "id": "74.05.17.2004",
     "name": "Awalo"
-  },
-  {
-    "id": "74.05.17.2005",
-    "name": "Adaka Jaya"
   },
   {
     "id": "74.05.17.2006",
@@ -36,20 +40,20 @@
     "name": "Rahamendaa"
   },
   {
-    "id": "74.05.17.2010",
-    "name": "Silea Jaya"
+    "id": "74.05.17.2016",
+    "name": "Ranooha Lestari"
   },
   {
-    "id": "74.05.17.2011",
-    "name": "Tirto Martani"
+    "id": "74.05.17.2010",
+    "name": "Silea Jaya"
   },
   {
     "id": "74.05.17.2012",
     "name": "Tetenggolasa"
   },
   {
-    "id": "74.05.17.2013",
-    "name": "Adayu Indah"
+    "id": "74.05.17.2011",
+    "name": "Tirto Martani"
   },
   {
     "id": "74.05.17.2014",
@@ -58,9 +62,5 @@
   {
     "id": "74.05.17.2015",
     "name": "Wulele Jaya"
-  },
-  {
-    "id": "74.05.17.2016",
-    "name": "Ranooha Lestari"
   }
 ]

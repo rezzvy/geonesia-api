@@ -1,15 +1,7 @@
 [
   {
-    "id": "14.02.01.2001",
-    "name": "Sungai Guntung Tengah"
-  },
-  {
-    "id": "14.02.01.2002",
-    "name": "Sungai Guntung Hilir"
-  },
-  {
-    "id": "14.02.01.2003",
-    "name": "Kuantan Babu"
+    "id": "14.02.01.1007",
+    "name": "Kampung Besar Kota"
   },
   {
     "id": "14.02.01.1004",
@@ -20,12 +12,36 @@
     "name": "Kampung Pulau"
   },
   {
+    "id": "14.02.01.1011",
+    "name": "Kmp Besar Seberang"
+  },
+  {
+    "id": "14.02.01.2003",
+    "name": "Kuantan Babu"
+  },
+  {
     "id": "14.02.01.1006",
     "name": "Pasar Kota"
   },
   {
-    "id": "14.02.01.1007",
-    "name": "Kampung Besar Kota"
+    "id": "14.02.01.2010",
+    "name": "Pasir Kemilu"
+  },
+  {
+    "id": "14.02.01.2013",
+    "name": "Pulau Gajah"
+  },
+  {
+    "id": "14.02.01.2012",
+    "name": "Rantau Mapesai"
+  },
+  {
+    "id": "14.02.01.2023",
+    "name": "Rawa Bangun"
+  },
+  {
+    "id": "14.02.01.1018",
+    "name": "Sekip Hilir"
   },
   {
     "id": "14.02.01.1008",
@@ -36,31 +52,15 @@
     "name": "Sungai Beringin"
   },
   {
-    "id": "14.02.01.2010",
-    "name": "Pasir Kemilu"
+    "id": "14.02.01.2002",
+    "name": "Sungai Guntung Hilir"
   },
   {
-    "id": "14.02.01.1011",
-    "name": "Kmp Besar Seberang"
-  },
-  {
-    "id": "14.02.01.2012",
-    "name": "Rantau Mapesai"
-  },
-  {
-    "id": "14.02.01.2013",
-    "name": "Pulau Gajah"
+    "id": "14.02.01.2001",
+    "name": "Sungai Guntung Tengah"
   },
   {
     "id": "14.02.01.2014",
     "name": "Sungai Raya"
-  },
-  {
-    "id": "14.02.01.1018",
-    "name": "Sekip Hilir"
-  },
-  {
-    "id": "14.02.01.2023",
-    "name": "Rawa Bangun"
   }
 ]

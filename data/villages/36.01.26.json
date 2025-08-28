@@ -1,11 +1,15 @@
 [
   {
-    "id": "36.01.26.2001",
-    "name": "Karyasari"
+    "id": "36.01.26.2005",
+    "name": "Babakanlor"
   },
   {
-    "id": "36.01.26.2002",
-    "name": "Tegal"
+    "id": "36.01.26.2010",
+    "name": "Bangkuyung"
+  },
+  {
+    "id": "36.01.26.2009",
+    "name": "Cening"
   },
   {
     "id": "36.01.26.2003",
@@ -16,8 +20,8 @@
     "name": "Dahu"
   },
   {
-    "id": "36.01.26.2005",
-    "name": "Babakanlor"
+    "id": "36.01.26.2001",
+    "name": "Karyasari"
   },
   {
     "id": "36.01.26.2006",
@@ -32,11 +36,7 @@
     "name": "Padahayu"
   },
   {
-    "id": "36.01.26.2009",
-    "name": "Cening"
-  },
-  {
-    "id": "36.01.26.2010",
-    "name": "Bangkuyung"
+    "id": "36.01.26.2002",
+    "name": "Tegal"
   }
 ]

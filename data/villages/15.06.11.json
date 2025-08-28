@@ -1,27 +1,15 @@
 [
   {
-    "id": "15.06.11.1001",
-    "name": "Bram Itam Kiri"
-  },
-  {
     "id": "15.06.11.2002",
     "name": "Bram Itam Kanan"
   },
   {
-    "id": "15.06.11.2003",
-    "name": "Tanjungsenjulang"
-  },
-  {
-    "id": "15.06.11.2004",
-    "name": "Pembengis"
+    "id": "15.06.11.1001",
+    "name": "Bram Itam Kiri"
   },
   {
     "id": "15.06.11.2005",
     "name": "Bram Itam Raya"
-  },
-  {
-    "id": "15.06.11.2006",
-    "name": "Pantaigading"
   },
   {
     "id": "15.06.11.2007",
@@ -36,7 +24,19 @@
     "name": "Mekar Tanjung"
   },
   {
+    "id": "15.06.11.2006",
+    "name": "Pantaigading"
+  },
+  {
+    "id": "15.06.11.2004",
+    "name": "Pembengis"
+  },
+  {
     "id": "15.06.11.2010",
     "name": "Semau"
+  },
+  {
+    "id": "15.06.11.2003",
+    "name": "Tanjungsenjulang"
   }
 ]

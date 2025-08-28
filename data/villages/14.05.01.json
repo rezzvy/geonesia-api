@@ -1,11 +1,15 @@
 [
   {
+    "id": "14.05.01.2002",
+    "name": "Air Emas"
+  },
+  {
     "id": "14.05.01.2001",
     "name": "Air Hitam"
   },
   {
-    "id": "14.05.01.2002",
-    "name": "Air Emas"
+    "id": "14.05.01.2012",
+    "name": "Bagan Limau"
   },
   {
     "id": "14.05.01.2003",
@@ -36,15 +40,11 @@
     "name": "Tri Mulya Jaya"
   },
   {
-    "id": "14.05.01.1010",
-    "name": "Ukui I"
-  },
-  {
     "id": "14.05.01.2011",
     "name": "Ukui Dua"
   },
   {
-    "id": "14.05.01.2012",
-    "name": "Bagan Limau"
+    "id": "14.05.01.1010",
+    "name": "Ukui I"
   }
 ]

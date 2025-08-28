@@ -4,32 +4,20 @@
     "name": "Amuma"
   },
   {
-    "id": "91.13.13.2002",
-    "name": "Sarmuge"
-  },
-  {
-    "id": "91.13.13.2003",
-    "name": "Tolikapura"
-  },
-  {
-    "id": "91.13.13.2004",
-    "name": "Wisikma"
-  },
-  {
-    "id": "91.13.13.2005",
-    "name": "Silorin"
-  },
-  {
-    "id": "91.13.13.2006",
-    "name": "Waeklek"
-  },
-  {
     "id": "91.13.13.2007",
     "name": "Balum Erang"
   },
   {
     "id": "91.13.13.2008",
     "name": "Golowen"
+  },
+  {
+    "id": "91.13.13.2013",
+    "name": "Harapan"
+  },
+  {
+    "id": "91.13.13.2012",
+    "name": "Kinika"
   },
   {
     "id": "91.13.13.2009",
@@ -44,11 +32,23 @@
     "name": "Sagasal"
   },
   {
-    "id": "91.13.13.2012",
-    "name": "Kinika"
+    "id": "91.13.13.2002",
+    "name": "Sarmuge"
   },
   {
-    "id": "91.13.13.2013",
-    "name": "Harapan"
+    "id": "91.13.13.2005",
+    "name": "Silorin"
+  },
+  {
+    "id": "91.13.13.2003",
+    "name": "Tolikapura"
+  },
+  {
+    "id": "91.13.13.2006",
+    "name": "Waeklek"
+  },
+  {
+    "id": "91.13.13.2004",
+    "name": "Wisikma"
   }
 ]

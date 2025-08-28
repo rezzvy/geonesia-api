@@ -1,35 +1,15 @@
 [
   {
-    "id": "15.06.12.1001",
-    "name": "Betara Kiri"
-  },
-  {
-    "id": "15.06.12.2002",
-    "name": "Sungaidualap"
-  },
-  {
     "id": "15.06.12.2003",
     "name": "Betara Kanan"
   },
   {
-    "id": "15.06.12.2004",
-    "name": "Sungaigebar"
+    "id": "15.06.12.1001",
+    "name": "Betara Kiri"
   },
   {
     "id": "15.06.12.2005",
     "name": "Dataran Pinang"
-  },
-  {
-    "id": "15.06.12.2006",
-    "name": "Tanjungpasir"
-  },
-  {
-    "id": "15.06.12.2007",
-    "name": "Sungaigebar Barat"
-  },
-  {
-    "id": "15.06.12.2008",
-    "name": "Sungaidungun"
   },
   {
     "id": "15.06.12.2009",
@@ -38,5 +18,25 @@
   {
     "id": "15.06.12.2010",
     "name": "Suak Labu"
+  },
+  {
+    "id": "15.06.12.2002",
+    "name": "Sungaidualap"
+  },
+  {
+    "id": "15.06.12.2008",
+    "name": "Sungaidungun"
+  },
+  {
+    "id": "15.06.12.2004",
+    "name": "Sungaigebar"
+  },
+  {
+    "id": "15.06.12.2007",
+    "name": "Sungaigebar Barat"
+  },
+  {
+    "id": "15.06.12.2006",
+    "name": "Tanjungpasir"
   }
 ]

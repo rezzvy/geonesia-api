@@ -1,11 +1,7 @@
 [
   {
-    "id": "14.71.05.1001",
-    "name": "Padang Bulan"
-  },
-  {
-    "id": "14.71.05.1002",
-    "name": "Sago"
+    "id": "14.71.05.1005",
+    "name": "Kampung Bandar"
   },
   {
     "id": "14.71.05.1003",
@@ -16,11 +12,15 @@
     "name": "Kampung Dalam"
   },
   {
-    "id": "14.71.05.1005",
-    "name": "Kampung Bandar"
+    "id": "14.71.05.1001",
+    "name": "Padang Bulan"
   },
   {
     "id": "14.71.05.1006",
     "name": "Padang Terubuk"
+  },
+  {
+    "id": "14.71.05.1002",
+    "name": "Sago"
   }
 ]

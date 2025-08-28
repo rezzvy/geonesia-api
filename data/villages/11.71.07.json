@@ -1,13 +1,5 @@
 [
   {
-    "id": "11.71.07.2001",
-    "name": "Geuceu Komplek"
-  },
-  {
-    "id": "11.71.07.2002",
-    "name": "Lamlagang"
-  },
-  {
     "id": "11.71.07.2003",
     "name": "Geuceu Iniem"
   },
@@ -16,8 +8,24 @@
     "name": "Geuceu Kayee Jato"
   },
   {
+    "id": "11.71.07.2001",
+    "name": "Geuceu Komplek"
+  },
+  {
     "id": "11.71.07.2005",
     "name": "Lam Ara"
+  },
+  {
+    "id": "11.71.07.2002",
+    "name": "Lamlagang"
+  },
+  {
+    "id": "11.71.07.2010",
+    "name": "Lampeout"
+  },
+  {
+    "id": "11.71.07.2009",
+    "name": "Lhong Cut"
   },
   {
     "id": "11.71.07.2006",
@@ -30,13 +38,5 @@
   {
     "id": "11.71.07.2008",
     "name": "Peunyerat"
-  },
-  {
-    "id": "11.71.07.2009",
-    "name": "Lhong Cut"
-  },
-  {
-    "id": "11.71.07.2010",
-    "name": "Lampeout"
   }
 ]

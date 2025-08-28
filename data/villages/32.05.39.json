@@ -1,19 +1,7 @@
 [
   {
-    "id": "32.05.39.2001",
-    "name": "Selaawi"
-  },
-  {
-    "id": "32.05.39.2002",
-    "name": "Putrajawa"
-  },
-  {
     "id": "32.05.39.2003",
     "name": "Cigawir"
-  },
-  {
-    "id": "32.05.39.2004",
-    "name": "Pelitaasih"
   },
   {
     "id": "32.05.39.2005",
@@ -24,7 +12,19 @@
     "name": "Mekarsari"
   },
   {
+    "id": "32.05.39.2004",
+    "name": "Pelitaasih"
+  },
+  {
+    "id": "32.05.39.2002",
+    "name": "Putrajawa"
+  },
+  {
     "id": "32.05.39.2007",
     "name": "Samida"
+  },
+  {
+    "id": "32.05.39.2001",
+    "name": "Selaawi"
   }
 ]

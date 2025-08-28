@@ -1,7 +1,11 @@
 [
   {
-    "id": "53.18.09.2001",
-    "name": "Rada Mata"
+    "id": "53.18.09.2007",
+    "name": "Kadi Pada"
+  },
+  {
+    "id": "53.18.09.2010",
+    "name": "Kalembu Kaha"
   },
   {
     "id": "53.18.09.2002",
@@ -12,8 +16,16 @@
     "name": "Langga Lero"
   },
   {
+    "id": "53.18.09.2001",
+    "name": "Rada Mata"
+  },
+  {
     "id": "53.18.09.1004",
     "name": "Waitabula"
+  },
+  {
+    "id": "53.18.09.2008",
+    "name": "Watu Kawula"
   },
   {
     "id": "53.18.09.2005",
@@ -24,19 +36,7 @@
     "name": "Wee Pangali"
   },
   {
-    "id": "53.18.09.2007",
-    "name": "Kadi Pada"
-  },
-  {
-    "id": "53.18.09.2008",
-    "name": "Watu Kawula"
-  },
-  {
     "id": "53.18.09.2009",
     "name": "Wee Rena"
-  },
-  {
-    "id": "53.18.09.2010",
-    "name": "Kalembu Kaha"
   }
 ]

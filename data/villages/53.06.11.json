@@ -1,9 +1,5 @@
 [
   {
-    "id": "53.06.11.2001",
-    "name": "Rodentena"
-  },
-  {
     "id": "53.06.11.2002",
     "name": "Adolaba"
   },
@@ -12,28 +8,16 @@
     "name": "Hinga"
   },
   {
-    "id": "53.06.11.2004",
-    "name": "Lamapaha"
-  },
-  {
-    "id": "53.06.11.2005",
-    "name": "Sukutokan"
-  },
-  {
-    "id": "53.06.11.2006",
-    "name": "Nisakarang"
-  },
-  {
-    "id": "53.06.11.2007",
-    "name": "Muda"
-  },
-  {
     "id": "53.06.11.2008",
     "name": "Horinara"
   },
   {
-    "id": "53.06.11.2009",
-    "name": "Pepakelu"
+    "id": "53.06.11.2019",
+    "name": "Keluwain"
+  },
+  {
+    "id": "53.06.11.2004",
+    "name": "Lamapaha"
   },
   {
     "id": "53.06.11.2010",
@@ -44,7 +28,23 @@
     "name": "Mangaaleng"
   },
   {
-    "id": "53.06.11.2019",
-    "name": "Keluwain"
+    "id": "53.06.11.2007",
+    "name": "Muda"
+  },
+  {
+    "id": "53.06.11.2006",
+    "name": "Nisakarang"
+  },
+  {
+    "id": "53.06.11.2009",
+    "name": "Pepakelu"
+  },
+  {
+    "id": "53.06.11.2001",
+    "name": "Rodentena"
+  },
+  {
+    "id": "53.06.11.2005",
+    "name": "Sukutokan"
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "id": "14.72.04.1001",
-    "name": "Lubuk Gaung"
-  },
-  {
-    "id": "14.72.04.1002",
-    "name": "Tanjung Penyebal"
-  },
-  {
     "id": "14.72.04.1003",
     "name": "Bangsal Aceh"
   },
@@ -18,5 +10,13 @@
   {
     "id": "14.72.04.1005",
     "name": "Batu Teritip"
+  },
+  {
+    "id": "14.72.04.1001",
+    "name": "Lubuk Gaung"
+  },
+  {
+    "id": "14.72.04.1002",
+    "name": "Tanjung Penyebal"
   }
 ]

@@ -1,27 +1,7 @@
 [
   {
-    "id": "12.14.11.2001",
-    "name": "Togizita"
-  },
-  {
-    "id": "12.14.11.2002",
-    "name": "Soledua"
-  },
-  {
     "id": "12.14.11.2003",
     "name": "Bawosalo'o Dao-dao"
-  },
-  {
-    "id": "12.14.11.2004",
-    "name": "Tuho'owo"
-  },
-  {
-    "id": "12.14.11.2005",
-    "name": "Togizita I"
-  },
-  {
-    "id": "12.14.11.2007",
-    "name": "Hilitoese"
   },
   {
     "id": "12.14.11.2008",
@@ -32,11 +12,31 @@
     "name": "Hiliadulo"
   },
   {
+    "id": "12.14.11.2007",
+    "name": "Hilitoese"
+  },
+  {
+    "id": "12.14.11.2002",
+    "name": "Soledua"
+  },
+  {
     "id": "12.14.11.2010",
     "name": "Soledua I"
   },
   {
     "id": "12.14.11.2011",
     "name": "Soledua II"
+  },
+  {
+    "id": "12.14.11.2001",
+    "name": "Togizita"
+  },
+  {
+    "id": "12.14.11.2005",
+    "name": "Togizita I"
+  },
+  {
+    "id": "12.14.11.2004",
+    "name": "Tuho'owo"
   }
 ]

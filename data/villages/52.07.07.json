@@ -1,9 +1,5 @@
 [
   {
-    "id": "52.07.07.2001",
-    "name": "Mura"
-  },
-  {
     "id": "52.07.07.2002",
     "name": "Kalimantong"
   },
@@ -16,11 +12,15 @@
     "name": "Manemeng"
   },
   {
+    "id": "52.07.07.2006",
+    "name": "Mataiyang"
+  },
+  {
     "id": "52.07.07.2005",
     "name": "Mujahiddin"
   },
   {
-    "id": "52.07.07.2006",
-    "name": "Mataiyang"
+    "id": "52.07.07.2001",
+    "name": "Mura"
   }
 ]

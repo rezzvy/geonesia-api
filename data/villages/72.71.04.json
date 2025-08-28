@@ -1,13 +1,5 @@
 [
   {
-    "id": "72.71.04.1001",
-    "name": "Mamboro"
-  },
-  {
-    "id": "72.71.04.1002",
-    "name": "Taipa"
-  },
-  {
     "id": "72.71.04.1003",
     "name": "Kayumalue Ngapa"
   },
@@ -16,7 +8,15 @@
     "name": "Kayumalue Pajeko"
   },
   {
+    "id": "72.71.04.1001",
+    "name": "Mamboro"
+  },
+  {
     "id": "72.71.04.1010",
     "name": "Mamboro Barat"
+  },
+  {
+    "id": "72.71.04.1002",
+    "name": "Taipa"
   }
 ]

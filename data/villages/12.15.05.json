@@ -1,5 +1,13 @@
 [
   {
+    "id": "12.15.05.2003",
+    "name": "Aornakan I"
+  },
+  {
+    "id": "12.15.05.2005",
+    "name": "Aornakan II"
+  },
+  {
     "id": "12.15.05.2001",
     "name": "Kecupak I"
   },
@@ -8,15 +16,7 @@
     "name": "Kecupak II"
   },
   {
-    "id": "12.15.05.2003",
-    "name": "Aornakan I"
-  },
-  {
     "id": "12.15.05.2004",
     "name": "Simerpara"
-  },
-  {
-    "id": "12.15.05.2005",
-    "name": "Aornakan II"
   }
 ]

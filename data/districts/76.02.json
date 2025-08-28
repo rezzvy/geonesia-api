@@ -1,11 +1,7 @@
 [
   {
-    "id": "76.02.01",
-    "name": "Mamuju"
-  },
-  {
-    "id": "76.02.02",
-    "name": "Tapalang"
+    "id": "76.02.15",
+    "name": "Bonehau"
   },
   {
     "id": "76.02.03",
@@ -16,6 +12,14 @@
     "name": "Kalumpang"
   },
   {
+    "id": "76.02.16",
+    "name": "Kep. Bala Balakang"
+  },
+  {
+    "id": "76.02.01",
+    "name": "Mamuju"
+  },
+  {
     "id": "76.02.07",
     "name": "Papalang"
   },
@@ -24,23 +28,19 @@
     "name": "Sampaga"
   },
   {
-    "id": "76.02.11",
-    "name": "Tommo"
-  },
-  {
     "id": "76.02.12",
     "name": "Simboro dan Kepulauan"
+  },
+  {
+    "id": "76.02.02",
+    "name": "Tapalang"
   },
   {
     "id": "76.02.13",
     "name": "Tapalang Barat"
   },
   {
-    "id": "76.02.15",
-    "name": "Bonehau"
-  },
-  {
-    "id": "76.02.16",
-    "name": "Kep. Bala Balakang"
+    "id": "76.02.11",
+    "name": "Tommo"
   }
 ]

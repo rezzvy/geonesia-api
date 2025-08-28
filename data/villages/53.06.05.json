@@ -1,27 +1,27 @@
 [
   {
-    "id": "53.06.05.2006",
-    "name": "Lewobunga"
-  },
-  {
-    "id": "53.06.05.2007",
-    "name": "Sinamalaka"
-  },
-  {
-    "id": "53.06.05.2008",
-    "name": "Ratulodong"
-  },
-  {
-    "id": "53.06.05.2009",
-    "name": "Sinarhadigala"
+    "id": "53.06.05.2021",
+    "name": "Aransina"
   },
   {
     "id": "53.06.05.2010",
     "name": "Bahinga"
   },
   {
-    "id": "53.06.05.2011",
-    "name": "Waibao"
+    "id": "53.06.05.2016",
+    "name": "Bandona"
+  },
+  {
+    "id": "53.06.05.2020",
+    "name": "Gekengderan"
+  },
+  {
+    "id": "53.06.05.2015",
+    "name": "Kolaka"
+  },
+  {
+    "id": "53.06.05.2023",
+    "name": "Lamanabi"
   },
   {
     "id": "53.06.05.2012",
@@ -32,12 +32,12 @@
     "name": "Latonliwo"
   },
   {
-    "id": "53.06.05.2015",
-    "name": "Kolaka"
+    "id": "53.06.05.2022",
+    "name": "Latonliwo Dua"
   },
   {
-    "id": "53.06.05.2016",
-    "name": "Bandona"
+    "id": "53.06.05.2006",
+    "name": "Lewobunga"
   },
   {
     "id": "53.06.05.2017",
@@ -48,19 +48,19 @@
     "name": "Patisira Walang"
   },
   {
-    "id": "53.06.05.2020",
-    "name": "Gekengderan"
+    "id": "53.06.05.2008",
+    "name": "Ratulodong"
   },
   {
-    "id": "53.06.05.2021",
-    "name": "Aransina"
+    "id": "53.06.05.2007",
+    "name": "Sinamalaka"
   },
   {
-    "id": "53.06.05.2022",
-    "name": "Latonliwo Dua"
+    "id": "53.06.05.2009",
+    "name": "Sinarhadigala"
   },
   {
-    "id": "53.06.05.2023",
-    "name": "Lamanabi"
+    "id": "53.06.05.2011",
+    "name": "Waibao"
   }
 ]

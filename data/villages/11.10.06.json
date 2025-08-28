@@ -1,37 +1,5 @@
 [
   {
-    "id": "11.10.06.2001",
-    "name": "Tanjung Betik"
-  },
-  {
-    "id": "11.10.06.2002",
-    "name": "Penjahitan"
-  },
-  {
-    "id": "11.10.06.2003",
-    "name": "Bukit Harapan"
-  },
-  {
-    "id": "11.10.06.2004",
-    "name": "Cingkam"
-  },
-  {
-    "id": "11.10.06.2005",
-    "name": "Labuhan Kera"
-  },
-  {
-    "id": "11.10.06.2006",
-    "name": "Tanah Bara"
-  },
-  {
-    "id": "11.10.06.2007",
-    "name": "Rimo"
-  },
-  {
-    "id": "11.10.06.2008",
-    "name": "Blok VI Baru"
-  },
-  {
     "id": "11.10.06.2009",
     "name": "Blok 15"
   },
@@ -44,6 +12,66 @@
     "name": "Blok 31"
   },
   {
+    "id": "11.10.06.2008",
+    "name": "Blok VI Baru"
+  },
+  {
+    "id": "11.10.06.2003",
+    "name": "Bukit Harapan"
+  },
+  {
+    "id": "11.10.06.2004",
+    "name": "Cingkam"
+  },
+  {
+    "id": "11.10.06.2014",
+    "name": "Gunung Lagan"
+  },
+  {
+    "id": "11.10.06.2005",
+    "name": "Labuhan Kera"
+  },
+  {
+    "id": "11.10.06.2024",
+    "name": "Lae Butar"
+  },
+  {
+    "id": "11.10.06.2020",
+    "name": "Pandan Sari"
+  },
+  {
+    "id": "11.10.06.2002",
+    "name": "Penjahitan"
+  },
+  {
+    "id": "11.10.06.2015",
+    "name": "Perangusan"
+  },
+  {
+    "id": "11.10.06.2019",
+    "name": "Pertampakan"
+  },
+  {
+    "id": "11.10.06.2007",
+    "name": "Rimo"
+  },
+  {
+    "id": "11.10.06.2021",
+    "name": "Sanggaberu Silulusan"
+  },
+  {
+    "id": "11.10.06.2017",
+    "name": "Sebatang"
+  },
+  {
+    "id": "11.10.06.2016",
+    "name": "Seping Baru"
+  },
+  {
+    "id": "11.10.06.2025",
+    "name": "Sianjo-Anjo Meriah"
+  },
+  {
     "id": "11.10.06.2012",
     "name": "Sidorejo"
   },
@@ -52,36 +80,16 @@
     "name": "Suka Makmur"
   },
   {
-    "id": "11.10.06.2014",
-    "name": "Gunung Lagan"
-  },
-  {
-    "id": "11.10.06.2015",
-    "name": "Perangusan"
-  },
-  {
-    "id": "11.10.06.2016",
-    "name": "Seping Baru"
-  },
-  {
-    "id": "11.10.06.2017",
-    "name": "Sebatang"
+    "id": "11.10.06.2006",
+    "name": "Tanah Bara"
   },
   {
     "id": "11.10.06.2018",
     "name": "Tanah Merah"
   },
   {
-    "id": "11.10.06.2019",
-    "name": "Pertampakan"
-  },
-  {
-    "id": "11.10.06.2020",
-    "name": "Pandan Sari"
-  },
-  {
-    "id": "11.10.06.2021",
-    "name": "Sanggaberu Silulusan"
+    "id": "11.10.06.2001",
+    "name": "Tanjung Betik"
   },
   {
     "id": "11.10.06.2022",
@@ -90,13 +98,5 @@
   {
     "id": "11.10.06.2023",
     "name": "Tunas Harapan"
-  },
-  {
-    "id": "11.10.06.2024",
-    "name": "Lae Butar"
-  },
-  {
-    "id": "11.10.06.2025",
-    "name": "Sianjo-Anjo Meriah"
   }
 ]

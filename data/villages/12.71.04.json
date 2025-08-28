@@ -1,5 +1,17 @@
 [
   {
+    "id": "12.71.04.1005",
+    "name": "Binjai"
+  },
+  {
+    "id": "12.71.04.1004",
+    "name": "Denai"
+  },
+  {
+    "id": "12.71.04.1006",
+    "name": "Medan Tenggara"
+  },
+  {
     "id": "12.71.04.1001",
     "name": "Tegal S Mandala I"
   },
@@ -10,17 +22,5 @@
   {
     "id": "12.71.04.1003",
     "name": "Tegal S Mandala III"
-  },
-  {
-    "id": "12.71.04.1004",
-    "name": "Denai"
-  },
-  {
-    "id": "12.71.04.1005",
-    "name": "Binjai"
-  },
-  {
-    "id": "12.71.04.1006",
-    "name": "Medan Tenggara"
   }
 ]
