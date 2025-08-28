@@ -1,0 +1,46 @@
+{
+  "id": "52",
+  "province": "NUSA TENGGARA BARAT",
+  "city": [
+    {
+      "id": "52.01",
+      "name": "KAB. LOMBOK BARAT"
+    },
+    {
+      "id": "52.02",
+      "name": "KAB. LOMBOK TENGAH"
+    },
+    {
+      "id": "52.03",
+      "name": "KAB. LOMBOK TIMUR"
+    },
+    {
+      "id": "52.04",
+      "name": "KAB. SUMBAWA"
+    },
+    {
+      "id": "52.05",
+      "name": "KAB. DOMPU"
+    },
+    {
+      "id": "52.06",
+      "name": "KAB. BIMA"
+    },
+    {
+      "id": "52.07",
+      "name": "KAB. SUMBAWA BARAT"
+    },
+    {
+      "id": "52.08",
+      "name": "KAB. LOMBOK UTARA"
+    },
+    {
+      "id": "52.71",
+      "name": "KOTA MATARAM"
+    },
+    {
+      "id": "52.72",
+      "name": "KOTA BIMA"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "32",
+  "province": "JAWA BARAT",
+  "city": [
+    {
+      "id": "32.01",
+      "name": "KAB. BOGOR"
+    },
+    {
+      "id": "32.02",
+      "name": "KAB. SUKABUMI"
+    },
+    {
+      "id": "32.03",
+      "name": "KAB. CIANJUR"
+    },
+    {
+      "id": "32.04",
+      "name": "KAB. BANDUNG"
+    },
+    {
+      "id": "32.05",
+      "name": "KAB. GARUT"
+    },
+    {
+      "id": "32.06",
+      "name": "KAB. TASIKMALAYA"
+    },
+    {
+      "id": "32.07",
+      "name": "KAB. CIAMIS"
+    },
+    {
+      "id": "32.08",
+      "name": "KAB. KUNINGAN"
+    },
+    {
+      "id": "32.09",
+      "name": "KAB. CIREBON"
+    },
+    {
+      "id": "32.10",
+      "name": "KAB. MAJALENGKA"
+    },
+    {
+      "id": "32.11",
+      "name": "KAB. SUMEDANG"
+    },
+    {
+      "id": "32.12",
+      "name": "KAB. INDRAMAYU"
+    },
+    {
+      "id": "32.13",
+      "name": "KAB. SUBANG"
+    },
+    {
+      "id": "32.14",
+      "name": "KAB. PURWAKARTA"
+    },
+    {
+      "id": "32.15",
+      "name": "KAB. KARAWANG"
+    },
+    {
+      "id": "32.16",
+      "name": "KAB. BEKASI"
+    },
+    {
+      "id": "32.17",
+      "name": "KAB. BANDUNG BARAT"
+    },
+    {
+      "id": "32.18",
+      "name": "KAB. PANGANDARAN"
+    },
+    {
+      "id": "32.71",
+      "name": "KOTA BOGOR"
+    },
+    {
+      "id": "32.72",
+      "name": "KOTA SUKABUMI"
+    },
+    {
+      "id": "32.73",
+      "name": "KOTA BANDUNG"
+    },
+    {
+      "id": "32.74",
+      "name": "KOTA CIREBON"
+    },
+    {
+      "id": "32.75",
+      "name": "KOTA BEKASI"
+    },
+    {
+      "id": "32.76",
+      "name": "KOTA DEPOK"
+    },
+    {
+      "id": "32.77",
+      "name": "KOTA CIMAHI"
+    },
+    {
+      "id": "32.78",
+      "name": "KOTA TASIKMALAYA"
+    },
+    {
+      "id": "32.79",
+      "name": "KOTA BANJAR"
+    }
+  ]
+}

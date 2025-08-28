@@ -1,0 +1,98 @@
+{
+  "id": "11",
+  "province": "ACEH",
+  "city": [
+    {
+      "id": "11.01",
+      "name": "KAB. ACEH SELATAN"
+    },
+    {
+      "id": "11.02",
+      "name": "KAB. ACEH TENGGARA"
+    },
+    {
+      "id": "11.03",
+      "name": "KAB. ACEH TIMUR"
+    },
+    {
+      "id": "11.04",
+      "name": "KAB. ACEH TENGAH"
+    },
+    {
+      "id": "11.05",
+      "name": "KAB. ACEH BARAT"
+    },
+    {
+      "id": "11.06",
+      "name": "KAB. ACEH BESAR"
+    },
+    {
+      "id": "11.07",
+      "name": "KAB. PIDIE"
+    },
+    {
+      "id": "11.08",
+      "name": "KAB. ACEH UTARA"
+    },
+    {
+      "id": "11.09",
+      "name": "KAB. SIMEULUE"
+    },
+    {
+      "id": "11.10",
+      "name": "KAB. ACEH SINGKIL"
+    },
+    {
+      "id": "11.11",
+      "name": "KAB. BIREUEN"
+    },
+    {
+      "id": "11.12",
+      "name": "KAB. ACEH BARAT DAYA"
+    },
+    {
+      "id": "11.13",
+      "name": "KAB. GAYO LUES"
+    },
+    {
+      "id": "11.14",
+      "name": "KAB. ACEH JAYA"
+    },
+    {
+      "id": "11.15",
+      "name": "KAB. NAGAN RAYA"
+    },
+    {
+      "id": "11.16",
+      "name": "KAB. ACEH TAMIANG"
+    },
+    {
+      "id": "11.17",
+      "name": "KAB. BENER MERIAH"
+    },
+    {
+      "id": "11.18",
+      "name": "KAB. PIDIE JAYA"
+    },
+    {
+      "id": "11.71",
+      "name": "KOTA BANDA ACEH"
+    },
+    {
+      "id": "11.72",
+      "name": "KOTA SABANG"
+    },
+    {
+      "id": "11.73",
+      "name": "KOTA LHOKSEUMAWE"
+    },
+    {
+      "id": "11.74",
+      "name": "KOTA LANGSA"
+    },
+    {
+      "id": "11.75",
+      "name": "KOTA SUBULUSSALAM"
+    }
+  ]
+}

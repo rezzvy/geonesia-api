@@ -1,0 +1,146 @@
+{
+  "id": "33",
+  "province": "JAWA TENGAH",
+  "city": [
+    {
+      "id": "33.01",
+      "name": "KAB. CILACAP"
+    },
+    {
+      "id": "33.02",
+      "name": "KAB. BANYUMAS"
+    },
+    {
+      "id": "33.03",
+      "name": "KAB. PURBALINGGA"
+    },
+    {
+      "id": "33.04",
+      "name": "KAB. BANJARNEGARA"
+    },
+    {
+      "id": "33.05",
+      "name": "KAB. KEBUMEN"
+    },
+    {
+      "id": "33.06",
+      "name": "KAB. PURWOREJO"
+    },
+    {
+      "id": "33.07",
+      "name": "KAB. WONOSOBO"
+    },
+    {
+      "id": "33.08",
+      "name": "KAB. MAGELANG"
+    },
+    {
+      "id": "33.09",
+      "name": "KAB. BOYOLALI"
+    },
+    {
+      "id": "33.10",
+      "name": "KAB. KLATEN"
+    },
+    {
+      "id": "33.11",
+      "name": "KAB. SUKOHARJO"
+    },
+    {
+      "id": "33.12",
+      "name": "KAB. WONOGIRI"
+    },
+    {
+      "id": "33.13",
+      "name": "KAB. KARANGANYAR"
+    },
+    {
+      "id": "33.14",
+      "name": "KAB. SRAGEN"
+    },
+    {
+      "id": "33.15",
+      "name": "KAB. GROBOGAN"
+    },
+    {
+      "id": "33.16",
+      "name": "KAB. BLORA"
+    },
+    {
+      "id": "33.17",
+      "name": "KAB. REMBANG"
+    },
+    {
+      "id": "33.18",
+      "name": "KAB. PATI"
+    },
+    {
+      "id": "33.19",
+      "name": "KAB. KUDUS"
+    },
+    {
+      "id": "33.20",
+      "name": "KAB. JEPARA"
+    },
+    {
+      "id": "33.21",
+      "name": "KAB. DEMAK"
+    },
+    {
+      "id": "33.22",
+      "name": "KAB. SEMARANG"
+    },
+    {
+      "id": "33.23",
+      "name": "KAB. TEMANGGUNG"
+    },
+    {
+      "id": "33.24",
+      "name": "KAB. KENDAL"
+    },
+    {
+      "id": "33.25",
+      "name": "KAB. BATANG"
+    },
+    {
+      "id": "33.26",
+      "name": "KAB. PEKALONGAN"
+    },
+    {
+      "id": "33.27",
+      "name": "KAB. PEMALANG"
+    },
+    {
+      "id": "33.28",
+      "name": "KAB. TEGAL"
+    },
+    {
+      "id": "33.29",
+      "name": "KAB. BREBES"
+    },
+    {
+      "id": "33.71",
+      "name": "KOTA MAGELANG"
+    },
+    {
+      "id": "33.72",
+      "name": "KOTA SURAKARTA"
+    },
+    {
+      "id": "33.73",
+      "name": "KOTA SALATIGA"
+    },
+    {
+      "id": "33.74",
+      "name": "KOTA SEMARANG"
+    },
+    {
+      "id": "33.75",
+      "name": "KOTA PEKALONGAN"
+    },
+    {
+      "id": "33.76",
+      "name": "KOTA TEGAL"
+    }
+  ]
+}

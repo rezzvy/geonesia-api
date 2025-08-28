@@ -1,0 +1,30 @@
+{
+  "id": "31",
+  "province": "DKI JAKARTA",
+  "city": [
+    {
+      "id": "31.01",
+      "name": "KAB. ADM. KEP. SERIBU"
+    },
+    {
+      "id": "31.71",
+      "name": "KOTA ADM. JAKARTA PUSAT"
+    },
+    {
+      "id": "31.72",
+      "name": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+      "id": "31.73",
+      "name": "KOTA ADM. JAKARTA BARAT"
+    },
+    {
+      "id": "31.74",
+      "name": "KOTA ADM. JAKARTA SELATAN"
+    },
+    {
+      "id": "31.75",
+      "name": "KOTA ADM. JAKARTA TIMUR"
+    }
+  ]
+}

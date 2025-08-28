@@ -1,0 +1,138 @@
+{
+  "id": "12",
+  "province": "SUMATERA UTARA",
+  "city": [
+    {
+      "id": "12.01",
+      "name": "KAB. TAPANULI TENGAH"
+    },
+    {
+      "id": "12.02",
+      "name": "KAB. TAPANULI UTARA"
+    },
+    {
+      "id": "12.03",
+      "name": "KAB. TAPANULI SELATAN"
+    },
+    {
+      "id": "12.04",
+      "name": "KAB. NIAS"
+    },
+    {
+      "id": "12.05",
+      "name": "KAB. LANGKAT"
+    },
+    {
+      "id": "12.06",
+      "name": "KAB. KARO"
+    },
+    {
+      "id": "12.07",
+      "name": "KAB. DELI SERDANG"
+    },
+    {
+      "id": "12.08",
+      "name": "KAB. SIMALUNGUN"
+    },
+    {
+      "id": "12.09",
+      "name": "KAB. ASAHAN"
+    },
+    {
+      "id": "12.10",
+      "name": "KAB. LABUHANBATU"
+    },
+    {
+      "id": "12.11",
+      "name": "KAB. DAIRI"
+    },
+    {
+      "id": "12.12",
+      "name": "KAB. TOBA SAMOSIR"
+    },
+    {
+      "id": "12.13",
+      "name": "KAB. MANDAILING NATAL"
+    },
+    {
+      "id": "12.14",
+      "name": "KAB. NIAS SELATAN"
+    },
+    {
+      "id": "12.15",
+      "name": "KAB. PAKPAK BHARAT"
+    },
+    {
+      "id": "12.16",
+      "name": "KAB. HUMBANG HASUNDUTAN"
+    },
+    {
+      "id": "12.17",
+      "name": "KAB. SAMOSIR"
+    },
+    {
+      "id": "12.18",
+      "name": "KAB. SERDANG BEDAGAI"
+    },
+    {
+      "id": "12.19",
+      "name": "KAB. BATU BARA"
+    },
+    {
+      "id": "12.20",
+      "name": "KAB. PADANG LAWAS UTARA"
+    },
+    {
+      "id": "12.21",
+      "name": "KAB. PADANG LAWAS"
+    },
+    {
+      "id": "12.22",
+      "name": "KAB. LABUHANBATU SELATAN"
+    },
+    {
+      "id": "12.23",
+      "name": "KAB. LABUHANBATU UTARA"
+    },
+    {
+      "id": "12.24",
+      "name": "KAB. NIAS UTARA"
+    },
+    {
+      "id": "12.25",
+      "name": "KAB. NIAS BARAT"
+    },
+    {
+      "id": "12.71",
+      "name": "KOTA MEDAN"
+    },
+    {
+      "id": "12.72",
+      "name": "KOTA PEMATANGSIANTAR"
+    },
+    {
+      "id": "12.73",
+      "name": "KOTA SIBOLGA"
+    },
+    {
+      "id": "12.74",
+      "name": "KOTA TANJUNG BALAI"
+    },
+    {
+      "id": "12.75",
+      "name": "KOTA BINJAI"
+    },
+    {
+      "id": "12.76",
+      "name": "KOTA TEBING TINGGI"
+    },
+    {
+      "id": "12.77",
+      "name": "KOTA PADANG SIDEMPUAN"
+    },
+    {
+      "id": "12.78",
+      "name": "KOTA GUNUNGSITOLI"
+    }
+  ]
+}

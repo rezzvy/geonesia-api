@@ -1,0 +1,66 @@
+{
+  "id": "18",
+  "province": "LAMPUNG",
+  "city": [
+    {
+      "id": "18.01",
+      "name": "KAB. LAMPUNG SELATAN"
+    },
+    {
+      "id": "18.02",
+      "name": "KAB. LAMPUNG TENGAH"
+    },
+    {
+      "id": "18.03",
+      "name": "KAB. LAMPUNG UTARA"
+    },
+    {
+      "id": "18.04",
+      "name": "KAB. LAMPUNG BARAT"
+    },
+    {
+      "id": "18.05",
+      "name": "KAB. TULANG BAWANG"
+    },
+    {
+      "id": "18.06",
+      "name": "KAB. TANGGAMUS"
+    },
+    {
+      "id": "18.07",
+      "name": "KAB. LAMPUNG TIMUR"
+    },
+    {
+      "id": "18.08",
+      "name": "KAB. WAY KANAN"
+    },
+    {
+      "id": "18.09",
+      "name": "KAB. PESAWARAN"
+    },
+    {
+      "id": "18.10",
+      "name": "KAB. PRINGSEWU"
+    },
+    {
+      "id": "18.11",
+      "name": "KAB. MESUJI"
+    },
+    {
+      "id": "18.12",
+      "name": "KAB. TULANG BAWANG BARAT"
+    },
+    {
+      "id": "18.13",
+      "name": "KAB. PESISIR BARAT"
+    },
+    {
+      "id": "18.71",
+      "name": "KOTA BANDAR LAMPUNG"
+    },
+    {
+      "id": "18.72",
+      "name": "KOTA METRO"
+    }
+  ]
+}

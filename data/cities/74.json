@@ -1,0 +1,74 @@
+{
+  "id": "74",
+  "province": "SULAWESI TENGGARA",
+  "city": [
+    {
+      "id": "74.01",
+      "name": "KAB. KOLAKA"
+    },
+    {
+      "id": "74.02",
+      "name": "KAB. KONAWE"
+    },
+    {
+      "id": "74.03",
+      "name": "KAB. MUNA"
+    },
+    {
+      "id": "74.04",
+      "name": "KAB. BUTON"
+    },
+    {
+      "id": "74.05",
+      "name": "KAB. KONAWE SELATAN"
+    },
+    {
+      "id": "74.06",
+      "name": "KAB. BOMBANA"
+    },
+    {
+      "id": "74.07",
+      "name": "KAB. WAKATOBI"
+    },
+    {
+      "id": "74.08",
+      "name": "KAB. KOLAKA UTARA"
+    },
+    {
+      "id": "74.09",
+      "name": "KAB. KONAWE UTARA"
+    },
+    {
+      "id": "74.10",
+      "name": "KAB. BUTON UTARA"
+    },
+    {
+      "id": "74.11",
+      "name": "KAB. KOLAKA TIMUR"
+    },
+    {
+      "id": "74.12",
+      "name": "KAB. KONAWE KEPULAUAN"
+    },
+    {
+      "id": "74.13",
+      "name": "KAB. MUNA BARAT"
+    },
+    {
+      "id": "74.14",
+      "name": "KAB. BUTON TENGAH"
+    },
+    {
+      "id": "74.15",
+      "name": "KAB. BUTON SELATAN"
+    },
+    {
+      "id": "74.71",
+      "name": "KOTA KENDARI"
+    },
+    {
+      "id": "74.72",
+      "name": "KOTA BAU BAU"
+    }
+  ]
+}
